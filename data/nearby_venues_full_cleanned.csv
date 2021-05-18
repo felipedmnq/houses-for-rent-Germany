@@ -1,0 +1,1671 @@
+house_id,scrapy_datetime,city,street,size,pets,montly_rent,deposit_value,lat,long
+1719697,2021/05/13 - 12:16:03,Berlin,Nürnberger Straße,22.0,Pets not allowed,850,1700,52.50027,13.33596
+1716752,2021/05/13 - 12:16:05,Berlin,Schnellerstraße,90.0,Pets not allowed,450,900,52.45495,13.51636
+1716755,2021/05/13 - 12:16:07,Berlin,Schnellerstraße,90.0,Pets not allowed,475,950,52.45495,13.51636
+1724139,2021/05/13 - 12:16:09,Berlin,Otto-Braun-Straße,25.0,Pets not allowed,760,500,52.52449,13.41863
+1721869,2021/05/13 - 12:16:11,Berlin,Otto-Braun-Straße,25.0,Pets not allowed,760,500,52.52449,13.41863
+1719698,2021/05/13 - 12:16:13,Berlin,Nürnberger Straße,22.0,Pets not allowed,900,1800,52.50027,13.33596
+1721868,2021/05/13 - 12:16:15,Berlin,Otto-Braun-Straße,24.0,Pets not allowed,860,500,52.52449,13.41863
+1208756,2021/05/13 - 12:16:17,Berlin,Köpenicker Straße,26.0,Pets not allowed,900,1800,52.5097,13.42231
+1699607,2021/05/13 - 12:16:19,Berlin,Takustraße,4000.0,Pets negotiable,990,0,52.45695,13.29344
+1643513,2021/05/13 - 12:16:21,Berlin,Köpenicker Straße,26.0,Pets not allowed,950,1900,52.5097,13.42231
+1717426,2021/05/13 - 12:16:25,Berlin,Koburger Straße,30.0,Pets not allowed,950,2000,52.4815,13.34618
+1208758,2021/05/13 - 12:16:27,Berlin,Köpenicker Straße,41.0,Pets not allowed,1200,2400,52.5097,13.42231
+1647377,2021/05/13 - 12:16:29,Berlin,Kurfürstenstraße,37.0,Pets not allowed,1200,2400,52.49943,13.36596
+1634187,2021/05/13 - 12:16:31,Berlin,Heidenfeldstraße,43.0,Pets not allowed,1100,2200,52.52587,13.45003
+1724311,2021/05/13 - 12:16:33,Berlin,Triftstraße,37.0,Pets not allowed,800,900,52.54336,13.35664
+1172033,2021/05/13 - 12:16:35,Berlin,Hildegard-Jadamowitz-Straße,39.0,Pets not allowed,1040,500,52.515991,13.4416672
+1317482,2021/05/13 - 12:16:38,Berlin,Emser Straße,45.0,Pets not allowed,950,900,52.4681676,13.4288978
+1546447,2021/05/13 - 12:16:39,Berlin,Osnabrücker Straße,25.0,Pets negotiable,920,1000,52.52614,13.30096
+1668446,2021/05/13 - 12:16:42,Berlin,Großbeerenstraße,41.0,Pets not allowed,1190,2000,52.49326,13.38369
+1721735,2021/05/13 - 12:16:44,Berlin,Wisbyer Straße,46.0,Pets not allowed,1200,1500,52.55389,13.41636
+1661180,2021/05/13 - 12:16:46,Berlin,Markgrafendamm,41.0,Pets not allowed,1200,2400,52.4978,13.46464
+1686354,2021/05/13 - 12:16:48,Berlin,Bornholmer Straße,45.0,Pets not allowed,1200,1500,52.55452,13.40682
+1686331,2021/05/13 - 12:16:50,Berlin,Boxhagener Straße,42.0,Pets not allowed,1200,1500,52.50725,13.46843
+1690544,2021/05/13 - 12:16:52,Berlin,Wisbyer Straße,46.0,Pets not allowed,1200,1500,52.55389,13.41636
+1719697,2021/05/13 - 12:16:54,Berlin,Nürnberger Straße,22.0,Pets not allowed,850,1700,52.50027,13.33596
+1716752,2021/05/13 - 12:16:56,Berlin,Schnellerstraße,90.0,Pets not allowed,450,900,52.45495,13.51636
+1716755,2021/05/13 - 12:16:58,Berlin,Schnellerstraße,90.0,Pets not allowed,475,950,52.45495,13.51636
+1724139,2021/05/13 - 12:17:00,Berlin,Otto-Braun-Straße,25.0,Pets not allowed,760,500,52.52449,13.41863
+1721869,2021/05/13 - 12:17:04,Berlin,Otto-Braun-Straße,25.0,Pets not allowed,760,500,52.52449,13.41863
+1719698,2021/05/13 - 12:17:06,Berlin,Nürnberger Straße,22.0,Pets not allowed,900,1800,52.50027,13.33596
+1721868,2021/05/13 - 12:17:08,Berlin,Otto-Braun-Straße,24.0,Pets not allowed,860,500,52.52449,13.41863
+1208756,2021/05/13 - 12:17:10,Berlin,Köpenicker Straße,26.0,Pets not allowed,900,1800,52.5097,13.42231
+1699607,2021/05/13 - 12:17:12,Berlin,Takustraße,4000.0,Pets negotiable,990,0,52.45695,13.29344
+1643513,2021/05/13 - 12:17:14,Berlin,Köpenicker Straße,26.0,Pets not allowed,950,1900,52.5097,13.42231
+1717426,2021/05/13 - 12:17:16,Berlin,Koburger Straße,30.0,Pets not allowed,950,2000,52.4815,13.34618
+1208758,2021/05/13 - 12:17:18,Berlin,Köpenicker Straße,41.0,Pets not allowed,1200,2400,52.5097,13.42231
+1647377,2021/05/13 - 12:17:20,Berlin,Kurfürstenstraße,37.0,Pets not allowed,1200,2400,52.49943,13.36596
+1634187,2021/05/13 - 12:17:23,Berlin,Heidenfeldstraße,43.0,Pets not allowed,1100,2200,52.52587,13.45003
+1724311,2021/05/13 - 12:17:25,Berlin,Triftstraße,37.0,Pets not allowed,800,900,52.54336,13.35664
+1172033,2021/05/13 - 12:17:27,Berlin,Hildegard-Jadamowitz-Straße,39.0,Pets not allowed,1040,500,52.515991,13.4416672
+1317482,2021/05/13 - 12:17:30,Berlin,Emser Straße,45.0,Pets not allowed,950,900,52.4681676,13.4288978
+1546447,2021/05/13 - 12:17:32,Berlin,Osnabrücker Straße,25.0,Pets negotiable,920,1000,52.52614,13.30096
+1668446,2021/05/13 - 12:17:34,Berlin,Großbeerenstraße,41.0,Pets not allowed,1190,2000,52.49326,13.38369
+1721735,2021/05/13 - 12:17:36,Berlin,Wisbyer Straße,46.0,Pets not allowed,1200,1500,52.55389,13.41636
+1661180,2021/05/13 - 12:17:38,Berlin,Markgrafendamm,41.0,Pets not allowed,1200,2400,52.4978,13.46464
+1686354,2021/05/13 - 12:17:40,Berlin,Bornholmer Straße,45.0,Pets not allowed,1200,1500,52.55452,13.40682
+1686331,2021/05/13 - 12:17:42,Berlin,Boxhagener Straße,42.0,Pets not allowed,1200,1500,52.50725,13.46843
+1690544,2021/05/13 - 12:17:44,Berlin,Wisbyer Straße,46.0,Pets not allowed,1200,1500,52.55389,13.41636
+1672683,2021/05/13 - 12:17:46,Berlin,Wisbyer Straße,45.0,Pets not allowed,1200,1500,52.55389,13.41636
+1712091,2021/05/13 - 12:17:48,Berlin,Wisbyer Straße,39.0,Pets not allowed,1200,1500,52.55389,13.41636
+1686314,2021/05/13 - 12:17:50,Berlin,Boxhagener Straße,42.0,Pets not allowed,1200,1500,52.50725,13.46843
+1654262,2021/05/13 - 12:17:52,Berlin,Otto-Braun-Straße,18.0,Pets allowed,1402,500,52.52409,13.4182
+1720885,2021/05/13 - 12:17:54,Berlin,Paul-Heyse-Straße,42.0,Pets negotiable,1090,1230,52.53005,13.44534
+1674187,2021/05/13 - 12:17:56,Berlin,Gotenstraße,49.47,Pets not allowed,900,1000,52.47996,13.36046
+1713289,2021/05/13 - 12:17:58,Berlin,Weisestraße,43.0,Pets not allowed,1150,2300,52.4762,13.42412
+1696992,2021/05/13 - 12:18:00,Berlin,Bismarckstraße,37.0,Pets not allowed,1100,2200,52.51184,13.31428
+1645117,2021/05/13 - 12:18:03,Berlin,Leibnizstraße,56.0,Pets not allowed,1300,2600,52.51157,13.3144
+1692407,2021/05/13 - 12:18:05,Berlin,Krausnickstraße,40.0,Pets negotiable,1500,3000,52.5251,13.39733
+1692403,2021/05/13 - 12:18:07,Berlin,Krausnickstraße,40.0,Pets negotiable,1500,3000,52.5251,13.39733
+1660899,2021/05/13 - 12:18:09,Berlin,Brunnenstraße,50.0,Pets not allowed,1500,3000,52.53782,13.39668
+1709537,2021/05/13 - 12:18:11,Berlin,Buchholzer Straße,41.0,Pets not allowed,1390,1500,52.54512,13.41472
+1693690,2021/05/13 - 12:18:17,Berlin,Koloniestraße,32.0,Pets not allowed,1200,2400,52.55532,13.37684
+1371810,2021/05/13 - 12:18:19,Berlin,Rückertstraße,51.0,Pets not allowed,1400,2800,52.51106,13.30296
+1686333,2021/05/13 - 12:18:21,Berlin,Boxhagener Straße,53.0,Pets not allowed,1400,1600,52.50818,13.46659
+1684439,2021/05/13 - 12:18:23,Berlin,Leibnizstraße,67.0,Pets not allowed,1400,2800,52.51157,13.3144
+1561608,2021/05/13 - 12:18:25,Berlin,Leibnizstraße,67.0,Pets not allowed,1400,2800,52.51138,13.31437
+1724069,2021/05/13 - 12:18:27,Berlin,Eisenbahnstraße,34.0,Pets negotiable,950,950,52.50312,13.4336
+1644671,2021/05/13 - 12:18:29,Berlin,Brunnenstraße,52.0,Pets not allowed,1600,3200,52.53782,13.39668
+1454606,2021/05/13 - 12:18:31,Berlin,Grenzallee,33.0,Pets not allowed,900,1800,52.46457,13.44939
+1700360,2021/05/13 - 12:18:33,Berlin,Perleberger Straße,45.0,Pets not allowed,1250,1250,52.53342,13.35204
+1660548,2021/05/13 - 12:18:35,Berlin,Brunnenstraße,60.0,Pets not allowed,1650,3300,52.53782,13.39668
+1562562,2021/05/13 - 12:18:38,Berlin,Rückertstraße,51.0,Pets not allowed,1450,2900,52.51106,13.30296
+1707029,2021/05/13 - 12:18:40,Berlin,Nürnberger Straße,50.0,Pets not allowed,1450,2900,52.50162,13.3377
+1719708,2021/05/13 - 12:18:42,Berlin,Eislebener Straße,60.0,Pets not allowed,1450,2900,52.50028,13.33559
+1396446,2021/05/13 - 12:18:44,Berlin,Driesener Straße,39.0,Pets not allowed,1129,2258,52.5518425,13.4058116
+1720889,2021/05/13 - 12:18:46,Berlin,Sybelstraße,55.0,Pets not allowed,1200,2000,52.50195,13.3009
+1719255,2021/05/13 - 12:18:48,Berlin,Boxhagener Straße,46.0,Pets not allowed,1200,1500,52.50725,13.46843
+1719695,2021/05/13 - 12:18:50,Berlin,Nürnberger Straße,55.0,Pets not allowed,1500,3000,52.50027,13.33596
+1696872,2021/05/13 - 12:18:54,Berlin,Jenaer Straße,33.0,Pets not allowed,1100,1100,52.4914,13.33574
+1724138,2021/05/13 - 12:18:56,Berlin,Otto-Braun-Straße,24.0,Pets not allowed,860,500,52.52449,13.41863
+1719705,2021/05/13 - 12:18:58,Berlin,Eislebener Straße,60.0,Pets not allowed,1550,3100,52.50028,13.33559
+1699163,2021/05/13 - 12:19:00,Berlin,Eislebener Straße,60.0,Pets not allowed,1550,3100,52.50028,13.33559
+1700134,2021/05/13 - 12:19:03,Berlin,Perleberger Straße,52.0,Pets not allowed,1350,1350,52.53342,13.35204
+1503549,2021/05/13 - 12:19:05,Berlin,Schivelbeiner Straße,40.0,Pets not allowed,1260,1360,52.55097,13.41198
+1724129,2021/05/13 - 12:19:07,Berlin,Bänschstraße,25.0,Pets negotiable,1300,2000,52.51867,13.46383
+1425304,2021/05/13 - 12:19:10,Berlin,Buchholzer Straße,41.0,Pets not allowed,1590,1500,52.54512,13.41472
+1208755,2021/05/13 - 12:19:12,Berlin,Köpenicker Straße,62.0,Pets not allowed,1800,3600,52.5097,13.42231
+1396434,2021/05/13 - 12:19:14,Berlin,Jablonskistraße,38.0,Pets not allowed,1257,2514,52.5364108,13.4276627
+1690909,2021/05/13 - 12:19:16,Berlin,Nürnberger Straße,57.0,Pets not allowed,1600,3200,52.50027,13.33596
+1388103,2021/05/13 - 12:19:19,Berlin,Cambridger Straße,39.0,Pets negotiable,1030,1300,52.56274999999999,13.33747
+1654259,2021/05/13 - 12:19:21,Berlin,Otto-Braun-Straße,31.0,Pets allowed,1836,500,52.52409,13.4182
+1396428,2021/05/13 - 12:19:23,Berlin,Liselotte-Herrmann-Straße,35.0,Pets not allowed,1297,2594,52.53123069999999,13.4360982
+1396109,2021/05/13 - 12:19:25,Berlin,Naugarder Straße,34.0,Pets not allowed,1128,2256,52.543448,13.4381616
+1719688,2021/05/13 - 12:19:27,Berlin,Nürnberger Straße,68.0,Pets not allowed,1650,3300,52.50027,13.33596
+1670475,2021/05/13 - 12:19:29,Berlin,Stralauer Allee,72.71,Pets not allowed,1650,3300,52.49769,13.46436
+1710009,2021/05/13 - 12:19:31,Berlin,Fehmarner Straße,41.0,Pets negotiable,1200,2400,52.54031,13.3491
+1713830,2021/05/13 - 12:19:33,Berlin,Fehmarner Straße,47.0,Pets not allowed,1200,2400,52.5408,13.34898
+1696438,2021/05/13 - 12:19:35,Berlin,Fehmarner Straße,35.0,Pets negotiable,1200,2000,52.54031,13.3491
+1699896,2021/05/13 - 12:19:37,Berlin,Brunnenstraße,60.0,Pets not allowed,1900,3800,52.53782,13.39668
+1640659,2021/05/13 - 12:19:39,Berlin,Kopenhagener Straße,33.0,Pets negotiable,1400,2000,52.54858,13.40442
+1709421,2021/05/13 - 12:19:42,Berlin,Haubachstraße,65.0,Pets not allowed,1680,3000,52.51553,13.3031
+1706181,2021/05/13 - 12:19:44,Berlin,Pappelallee,30.0,Pets negotiable,1400,2000,52.54444,13.41632
+1693661,2021/05/13 - 12:19:46,Berlin,Haubachstraße,65.0,Pets not allowed,1680,3000,52.51553,13.3031
+1641135,2021/05/13 - 12:19:48,Berlin,Gleimstraße,39.0,Pets negotiable,1400,2000,52.54739,13.40829
+1640248,2021/05/13 - 12:19:50,Berlin,Rodenbergstraße,45.0,Pets negotiable,1400,1400,52.55125,13.41558
+1048542,2021/05/13 - 12:19:52,Berlin,Finowstraße,70.0,Pets not allowed,1400,2800,52.5128328,13.468434
+1396111,2021/05/13 - 12:19:54,Berlin,Naugarder Straße,33.0,Pets not allowed,1179,2358,52.543448,13.4381616
+1702953,2021/05/13 - 12:19:56,Berlin,Invalidenstraße,30.0,Pets not allowed,1290,1490,52.53096,13.38416
+1396057,2021/05/13 - 12:19:58,Berlin,Weisestraße,37.0,Pets not allowed,1214,2428,52.4764023,13.4242362
+1688631,2021/05/13 - 12:20:00,Berlin,Lüderitzstraße,65.0,Pets not allowed,1350,2700,52.55429,13.34176
+1618494,2021/05/13 - 12:20:04,Berlin,Bödikerstraße,44.0,Pets negotiable,1739,1300,52.49888,13.46264
+1208757,2021/05/13 - 12:20:06,Berlin,Köpenicker Straße,41.0,Pets not allowed,1350,2700,52.5097,13.42231
+1681660,2021/05/13 - 12:20:10,Berlin,Greifswalder Straße,33.0,Pets not allowed,1490,1390,52.53217,13.42791
+1235149,2021/05/13 - 12:20:12,Berlin,Mittenwalder Straße,45.0,Pets not allowed,1200,700,52.49181189999999,13.3969582
+1702349,2021/05/13 - 12:20:14,Berlin,Straßmannstraße,50.0,Pets negotiable,1200,0,52.52147,13.44772
+1718708,2021/05/13 - 12:20:16,Berlin,Lindenstraße,42.0,Pets not allowed,750,500,52.50428,13.39573
+1672686,2021/05/13 - 12:20:18,Berlin,Bornholmer Straße,45.0,Pets not allowed,1200,1500,52.55452,13.40682
+1718233,2021/05/13 - 12:20:20,Berlin,Immanuelkirchstraße,42.0,Pets not allowed,1200,1500,52.53144,13.4269
+1718394,2021/05/13 - 12:20:22,Berlin,Parkstraße,37.0,Pets negotiable,1170,0,52.55428,13.45737
+1710936,2021/05/13 - 12:20:24,Berlin,Koloniestraße,45.0,Pets not allowed,1050,2100,52.55994,13.37952
+1688379,2021/05/13 - 12:20:26,Berlin,Danziger Straße,58.0,Pets not allowed,1495,1495,52.53951,13.42577
+1722176,2021/05/13 - 12:20:29,Berlin,Erich-Weinert-Straße,67.0,Pets negotiable,1790,1790,52.55138,13.41733
+1707108,2021/05/13 - 12:20:31,Berlin,Müllenhoffstraße,65.0,Pets negotiable,1500,3000,52.49222,13.41528
+1680117,2021/05/13 - 12:20:33,Berlin,Lehrter Straße,48.0,Pets allowed,1499,2000,52.53056,13.36231
+1721168,2021/05/13 - 12:20:35,Berlin,Johann-Georg-Straße,80.0,Pets negotiable,1800,3600,52.49662,13.29763
+1643110,2021/05/13 - 12:20:37,Berlin,Bismarckstraße,68.0,Pets not allowed,1800,3600,52.51181,13.31375
+1697801,2021/05/13 - 12:20:39,Berlin,Leibnizstraße,67.0,Pets not allowed,1800,3600,52.51157,13.3144
+1398605,2021/05/13 - 12:20:41,Berlin,Leibnizstraße,67.0,Pets not allowed,1800,3600,52.5116034,13.3143252
+1412307,2021/05/13 - 12:20:44,Berlin,Bismarckstraße,68.0,Pets not allowed,1800,3600,52.51181,13.31375
+1561604,2021/05/13 - 12:20:46,Berlin,Bismarckstraße,71.0,Pets not allowed,1800,3600,52.51184,13.31428
+1697846,2021/05/13 - 12:20:49,Berlin,Leibnizstraße,67.0,Pets not allowed,1800,3600,52.51138,13.31437
+1623669,2021/05/13 - 12:20:51,Berlin,Scharnhorststraße,85.0,Pets not allowed,2050,2000,52.5339,13.3706
+1188794,2021/05/13 - 12:20:53,Berlin,Elisabethstraße,47.0,Pets not allowed,1350,500,52.63036,13.33113
+1722099,2021/05/13 - 12:20:55,Berlin,Grenzallee,39.0,Pets not allowed,1200,2400,52.4644,13.44969
+1709487,2021/05/13 - 12:20:57,Berlin,Otto-Suhr-Allee,85.0,Pets not allowed,1250,0,52.51584,13.31055
+1712425,2021/05/13 - 12:20:59,Berlin,Schönleinstraße,43.0,Pets negotiable,1250,1300,52.49105,13.42015
+1675771,2021/05/13 - 12:21:01,Berlin,Böckhstraße,35.0,Pets not allowed,1000,1000,52.49373319999999,13.4195241
+1646841,2021/05/13 - 12:21:03,Berlin,Kurfürstenstraße,75.0,Pets not allowed,2100,4200,52.49943,13.36596
+1358938,2021/05/13 - 12:21:05,Berlin,Böckhstraße,35.0,Pets not allowed,1000,1000,52.49373319999999,13.4195241
+1635713,2021/05/13 - 12:21:07,Berlin,Schlüterstraße,45.0,Pets not allowed,1100,2200,52.49982,13.31702
+1614302,2021/05/13 - 12:21:10,Berlin,Thaerstraße,36.0,Pets negotiable,1100,1000,52.51992,13.45385
+1687829,2021/05/13 - 12:21:12,Berlin,Hertzbergstraße,49.0,Pets negotiable,1100,2000,52.47672,13.44796
+1721457,2021/05/13 - 12:21:14,Berlin,Yorckstraße,50.0,Pets not allowed,1590,1590,52.4932,13.38452
+1724529,2021/05/13 - 12:21:16,Berlin,Ackerstraße,90.0,Pets not allowed,1800,0,52.53077,13.39703
+1444842,2021/05/13 - 12:21:20,Berlin,Holländerstraße,40.0,Pets negotiable,1030,1300,52.56393,13.34217
+1698161,2021/05/13 - 12:21:24,Berlin,Lüderitzstraße,60.0,Pets not allowed,1500,3000,52.5542,13.34191
+1532210,2021/05/13 - 12:21:26,Berlin,Winsstraße,43.0,Pets not allowed,1350,1300,52.53177,13.42365
+1389386,2021/05/13 - 12:21:28,Berlin,Gudvanger Straße,59.0,Pets negotiable,1500,3000,52.54818,13.42294
+1722802,2021/05/13 - 12:21:30,Berlin,Hohenfriedbergstraße,95.0,Pets not allowed,1450,1800,52.48652,13.36502
+1713587,2021/05/13 - 12:21:33,Berlin,Feurigstraße,60.0,Pets not allowed,1400,2800,52.48439,13.35566
+1684380,2021/05/13 - 12:21:37,Berlin,Rossinistraße,60.0,Pets negotiable,1490,2500,52.54729,13.44998
+1688282,2021/05/13 - 12:21:39,Berlin,Bornholmer Straße,55.0,Pets not allowed,1690,3000,52.5542,13.40194
+1396426,2021/05/13 - 12:21:42,Berlin,Grünberger Straße,35.0,Pets not allowed,1202,1202,52.51203109999999,13.4551629
+1718855,2021/05/13 - 12:21:44,Berlin,Billy-Wilder-Promenade,137.0,Pets not allowed,1980,3960,52.41836,13.28537
+1248175,2021/05/13 - 12:21:46,Berlin,Böckhstraße,35.0,Pets not allowed,950,700,52.4937789,13.4195733
+1698759,2021/05/13 - 12:21:48,Berlin,Grüntaler Straße,49.0,Pets not allowed,1500,1500,52.55816,13.39568
+1707392,2021/05/13 - 12:21:51,Berlin,Hermannstraße,43.0,Pets not allowed,1020,2000,52.47663,13.42628
+1674184,2021/05/13 - 12:21:53,Berlin,Torgauer Straße,73.0,Pets not allowed,1300,1500,52.47979,13.3605
+1693393,2021/05/13 - 12:21:55,Berlin,Chausseestraße,50.0,Pets negotiable,1650,2500,52.52932,13.38432
+1718987,2021/05/13 - 12:21:59,Berlin,Heinrich-Heine-Straße,75.0,Pets not allowed,1990,3000,52.50566,13.41208
+1646089,2021/05/13 - 12:22:01,Berlin,Erich-Thilo-Straße,34.0,Pets not allowed,1560,0,52.43275,13.5323
+1642490,2021/05/13 - 12:22:03,Berlin,Kalckreuthstraße,66.0,Pets not allowed,1490,500,52.49824,13.34793
+1600504,2021/05/13 - 12:22:05,Berlin,Preußstraße,50.0,Pets not allowed,600,500,52.54375,13.4336
+1722722,2021/05/13 - 12:22:08,Berlin,Eugen-Schönhaar-Straße,40.0,Pets not allowed,1200,1000,52.53699,13.43696
+1645092,2021/05/13 - 12:22:10,Berlin,Jessnerstraße,55.0,Pets not allowed,1450,1450,52.51122,13.47248
+1676492,2021/05/13 - 12:22:14,Berlin,Uhlandstraße,65.0,Pets not allowed,1700,3400,52.50796,13.32633
+1680863,2021/05/13 - 12:22:16,Berlin,Tieckstraße,46.0,Pets not allowed,1690,1690,52.52959,13.38848
+1148305,2021/05/13 - 12:22:18,Berlin,Suarezstraße,53.0,Pets negotiable,1220,2440,52.5042786,13.2912877
+1396424,2021/05/13 - 12:22:20,Berlin,Finowstraße,44.0,Pets not allowed,1179,2358,52.5125562,13.468474
+1593803,2021/05/13 - 12:22:22,Berlin,Speyerer Straße,35.0,Pets not allowed,850,2000,52.49277,13.34383
+1674203,2021/05/13 - 12:22:24,Berlin,Markgrafendamm,73.0,Pets not allowed,2100,4200,52.4978,13.46464
+1686722,2021/05/13 - 12:22:26,Berlin,Elisabethkirchstraße,35.0,Pets not allowed,1400,1400,52.53378,13.39758
+1715306,2021/05/13 - 12:22:28,Berlin,Am Köllnischen Park,41.0,Pets not allowed,1400,1500,52.51219,13.41521
+1625699,2021/05/13 - 12:22:31,Berlin,Grenzallee,58.0,Pets not allowed,1650,3300,52.46441,13.44861
+1396052,2021/05/13 - 12:22:33,Berlin,Jablonskistraße,34.0,Pets not allowed,1194,2388,52.5364108,13.4276627
+1706263,2021/05/13 - 12:22:35,Berlin,Brunnenstraße,60.0,Pets not allowed,2400,0,52.53202,13.39896
+1702381,2021/05/13 - 12:22:37,Berlin,Strausberger Platz,54.0,Pets not allowed,1750,1750,52.5182,13.42697
+1396438,2021/05/13 - 12:22:39,Berlin,Jablonskistraße,38.0,Pets not allowed,1210,2420,52.5364108,13.4276627
+1548015,2021/05/13 - 12:22:41,Berlin,Münzstraße,64.0,Pets negotiable,1750,1500,52.5241,13.40877
+1723066,2021/05/13 - 12:22:43,Berlin,Frankfurter Tor,80.0,Pets not allowed,1850,1500,52.51681,13.45295
+1621920,2021/05/13 - 12:22:45,Berlin,Thaerstraße,23.0,Pets negotiable,900,750,52.51992,13.45385
+1396439,2021/05/13 - 12:22:48,Berlin,Jablonskistraße,38.0,Pets not allowed,1235,2470,52.5364108,13.4276627
+1173202,2021/05/13 - 12:22:50,Berlin,Jansastraße,35.0,Pets negotiable,1100,950,52.4857065,13.4331172
+1569485,2021/05/13 - 12:22:52,Berlin,Osnabrücker Straße,31.0,Pets negotiable,1125,1000,52.52614,13.30096
+1167645,2021/05/13 - 12:22:54,Berlin,Eisenbahnstraße,35.0,Pets negotiable,1100,700,52.5037086,13.4342231
+1696096,2021/05/13 - 12:22:56,Berlin,Cauerstraße,50.0,Pets not allowed,1300,1500,52.5186,13.31808
+1625704,2021/05/13 - 12:22:58,Berlin,Grenzallee,49.0,Pets not allowed,1250,2500,52.46428,13.44801
+1690424,2021/05/13 - 12:23:00,Berlin,Greifenhagener Straße,65.0,Pets not allowed,1600,3200,52.54535,13.415
+1167437,2021/05/13 - 12:23:03,Berlin,Tempelherrenstraße,105.0,Pets negotiable,1600,1000,52.49503,13.40007
+1681664,2021/05/13 - 12:23:05,Berlin,Greifswalder Straße,41.0,Pets not allowed,1890,1560,52.53217,13.42791
+1704933,2021/05/13 - 12:23:07,Berlin,Rigaer Straße,100.0,Pets not allowed,1900,1300,52.51556,13.4704
+1715399,2021/05/13 - 12:23:09,Berlin,Antwerpener Straße,70.0,Pets negotiable,1400,1500,52.54632,13.35157
+1718395,2021/05/13 - 12:23:11,Berlin,Parkstraße,50.0,Pets negotiable,1500,0,52.55428,13.45737
+1713754,2021/05/13 - 12:23:13,Berlin,Pommersche Straße,62.0,Pets negotiable,1630,1630,52.49366,13.31418
+1697812,2021/05/13 - 12:23:15,Berlin,Leibnizstraße,101.0,Pets not allowed,2200,4400,52.51138,13.31437
+1645980,2021/05/13 - 12:23:18,Berlin,Winterfeldtstraße,32.0,Pets not allowed,1625,1450,52.49589,13.36026
+1680874,2021/05/13 - 12:23:20,Berlin,Oranienburger Straße,55.0,Pets not allowed,1850,1770,52.52377,13.399
+1707579,2021/05/13 - 12:23:22,Berlin,Freigutweg,78.0,Pets not allowed,1290,1600,52.42155,13.51245
+1688478,2021/05/13 - 12:23:24,Berlin,Chausseestraße,85.0,Pets not allowed,2200,3000,52.53344,13.37985
+1548020,2021/05/13 - 12:23:26,Berlin,Schröderstraße,72.0,Pets negotiable,2200,2100,52.53077,13.39388
+1721618,2021/05/13 - 12:23:28,Berlin,Beusselstraße,45.0,Pets not allowed,1200,2400,52.52607,13.32843
+1646100,2021/05/13 - 12:23:31,Berlin,Erich-Thilo-Straße,34.0,Pets not allowed,1748,0,52.43275,13.5323
+1700159,2021/05/13 - 12:23:33,Berlin,Haubachstraße,65.0,Pets not allowed,1680,3000,52.51553,13.3031
+1572456,2021/05/13 - 12:23:35,Berlin,Blücherstraße,60.0,Pets negotiable,1400,2800,52.4909,13.40433
+1548034,2021/05/13 - 12:23:37,Berlin,Anklamer Straße,68.0,Pets not allowed,1900,1900,52.53595,13.40009
+1427751,2021/05/13 - 12:23:39,Berlin,Emmentaler Straße,70.0,Pets not allowed,1490,1500,52.57413,13.36857
+1719476,2021/05/13 - 12:23:41,Berlin,Brandenburgische Straße,46.0,Pets not allowed,1400,2100,52.49732,13.30816
+1687205,2021/05/13 - 12:23:43,Berlin,Krausnickstraße,75.0,Pets negotiable,1900,3800,52.5251,13.39733
+1575983,2021/05/13 - 12:23:45,Berlin,Wittelsbacherstraße,35.0,Pets not allowed,1400,1000,52.49492,13.31114
+1172032,2021/05/13 - 12:23:47,Berlin,Hildegard-Jadamowitz-Straße,39.0,Pets not allowed,1040,500,52.515991,13.4416672
+1684482,2021/05/13 - 12:23:49,Berlin,Kurfürstendamm,52.0,Pets not allowed,1990,1,52.50103,13.3176
+1675874,2021/05/13 - 12:23:51,Berlin,Osnabrücker Straße,27.0,Pets negotiable,993,1000,52.52614,13.30096
+1654252,2021/05/13 - 12:23:53,Berlin,Otto-Braun-Straße,40.0,Pets allowed,1945,500,52.52409,13.4182
+1647998,2021/05/13 - 12:23:55,Berlin,Rodenbergstraße,42.0,Pets not allowed,1050,1050,52.55094,13.41585
+1396431,2021/05/13 - 12:23:57,Berlin,Driesener Straße,32.0,Pets not allowed,1101,2202,52.5518425,13.4058116
+1714949,2021/05/13 - 12:23:59,Berlin,Zur Alten Börse,33.0,Pets not allowed,1800,0,52.51929,13.52609
+1715160,2021/05/13 - 12:24:02,Berlin,Zur Alten Börse,33.0,Pets not allowed,1800,0,52.51929,13.52609
+1677468,2021/05/13 - 12:24:06,Berlin,Mühlenstraße,41.0,Pets not allowed,1150,2500,52.564,13.40742
+1715334,2021/05/13 - 12:24:08,Berlin,Berliner Straße,67.0,Pets negotiable,1600,4000,52.57933,13.29202
+1639878,2021/05/13 - 12:24:10,Berlin,Brunnenstraße,41.0,Pets negotiable,1350,500,52.53765,13.39616
+1539774,2021/05/13 - 12:24:12,Berlin,Grünlingweg,43.0,Pets not allowed,850,1700,52.44035,13.4569
+1681224,2021/05/13 - 12:24:14,Berlin,Gartenstraße,40.0,Pets not allowed,1350,1350,52.52926,13.39268
+1548033,2021/05/13 - 12:24:16,Berlin,Rungestraße,65.0,Pets negotiable,2000,2000,52.51205,13.41772
+1661178,2021/05/13 - 12:24:18,Berlin,Stralauer Allee,113.0,Pets not allowed,2350,4700,52.49769,13.46436
+1172057,2021/05/13 - 12:24:20,Berlin,Mittenwalder Straße,35.0,Pets not allowed,1200,1100,52.49181189999999,13.3969582
+1167288,2021/05/13 - 12:24:23,Berlin,Muskauer Straße,50.0,Pets not allowed,1200,900,52.502921,13.4281588
+1493879,2021/05/13 - 12:24:25,Berlin,Erich-Boltze-Straße,48.0,Pets not allowed,1490,1500,52.53186,13.44392
+1675440,2021/05/13 - 12:24:27,Berlin,Gleimstraße,75.0,Pets negotiable,1490,2000,52.54679,13.40181
+1679709,2021/05/13 - 12:24:29,Berlin,Gartenstraße,93.0,Pets not allowed,1700,3400,52.5321,13.38951
+1392630,2021/05/13 - 12:24:31,Berlin,Möckernstraße,36.0,Pets negotiable,1190,1190,52.4914265,13.3791139
+1722763,2021/05/13 - 12:24:32,Berlin,Kantstraße,70.0,Pets negotiable,1400,2800,52.50626,13.31089
+1714160,2021/05/13 - 12:24:36,Berlin,Chemnitzer Straße,25.0,Pets negotiable,900,900,52.50089,13.57987
+1396448,2021/05/13 - 12:24:39,Berlin,Brüsseler Straße,38.0,Pets not allowed,1025,2050,52.5472237,13.3505693
+1527318,2021/05/13 - 12:24:41,Berlin,Knaackstraße,35.0,Pets not allowed,1220,1000,52.53942,13.41494
+1712034,2021/05/13 - 12:24:44,Berlin,Marthashof,76.0,Pets negotiable,2100,4000,52.53807,13.40636
+1640924,2021/05/13 - 12:24:46,Berlin,Kopernikusstraße,108.0,Pets negotiable,2100,3200,52.51031,13.45409
+1681663,2021/05/13 - 12:24:48,Berlin,Greifswalder Straße,41.0,Pets not allowed,1820,1560,52.53217,13.42791
+1480381,2021/05/13 - 12:24:50,Berlin,Holländerstraße,34.0,Pets negotiable,980,1300,52.56347,13.33873
+1645723,2021/05/13 - 12:24:53,Berlin,Hertzbergstraße,46.0,Pets not allowed,1250,2000,52.47672,13.44796
+1646102,2021/05/13 - 12:24:55,Berlin,Erich-Thilo-Straße,59.0,Pets not allowed,1875,0,52.43275,13.5323
+1674738,2021/05/13 - 12:24:57,Berlin,Landsberger Allee,68.0,Pets not allowed,1550,2000,52.52315,13.436
+1692020,2021/05/13 - 12:24:59,Berlin,Rheinsberger Straße,64.0,Pets not allowed,1180,1300,52.53706,13.39784
+1718390,2021/05/13 - 12:25:01,Berlin,Neue Roßstraße,55.0,Pets not allowed,1440,0,52.51219,13.40875
+1683948,2021/05/13 - 12:25:05,Berlin,Sophie-Charlotten-Straße,44.0,Pets not allowed,1350,3500,52.51441,13.28768
+1152165,2021/05/13 - 12:25:07,Berlin,Spanheimstraße,59.0,Pets not allowed,1100,1100,52.55204,13.39091
+1634193,2021/05/13 - 12:25:09,Berlin,Bleibtreustraße,64.0,Pets not allowed,1850,3700,52.5004,13.31952
+1674744,2021/05/13 - 12:25:11,Berlin,Triftstraße,65.0,Pets negotiable,1350,2500,52.54434,13.35964
+1690911,2021/05/13 - 12:25:13,Berlin,Gürtlerweg,42.0,Pets not allowed,1000,0,52.42029,13.48651
+1312059,2021/05/13 - 12:25:15,Berlin,Pücklerstraße,30.0,Pets not allowed,1000,1000,52.5010638,13.4299145
+1672403,2021/05/13 - 12:25:17,Berlin,Leuschnerdamm,60.0,Pets negotiable,1650,3000,52.50538,13.41943
+1703720,2021/05/13 - 12:25:19,Berlin,Raumerstraße,38.0,Pets negotiable,1280,2560,52.54142,13.42381
+1686704,2021/05/13 - 12:25:21,Berlin,Elisabethkirchstraße,80.0,Pets negotiable,2100,2100,52.53378,13.39758
+1549182,2021/05/13 - 12:25:23,Berlin,Osnabrücker Straße,26.0,Pets negotiable,960,1000,52.52614,13.30096
+1681766,2021/05/13 - 12:25:25,Berlin,Wilsnacker Straße,62.0,Pets not allowed,1386,0,52.53063,13.35057
+1654421,2021/05/13 - 12:25:27,Berlin,Gartenstraße,55.0,Pets negotiable,1800,2000,52.52882,13.39324
+1720281,2021/05/13 - 12:25:29,Berlin,Holländerstraße,62.0,Pets not allowed,1490,2000,52.56344,13.34172
+1648376,2021/05/13 - 12:25:31,Berlin,Gärtnerstraße,85.0,Pets not allowed,2195,750,52.50855,13.45961
+1654257,2021/05/13 - 12:25:33,Berlin,Otto-Braun-Straße,25.0,Pets allowed,1836,500,52.52409,13.4182
+1709860,2021/05/13 - 12:25:35,Berlin,Wittelsbacherstraße,95.0,Pets not allowed,2500,5000,52.49454,13.31319
+1702095,2021/05/13 - 12:25:37,Berlin,Kaiser-Friedrich-Straße,40.0,Pets negotiable,1020,1780,52.50924,13.30158
+1515859,2021/05/13 - 12:25:40,Berlin,Fidicinstraße,40.0,Pets not allowed,1350,1350,52.48674,13.39325
+1521265,2021/05/13 - 12:25:43,Berlin,Thaerstraße,40.0,Pets negotiable,1350,1000,52.51992,13.45385
+1714399,2021/05/13 - 12:25:45,Berlin,Stallschreiberstraße,77.0,Pets allowed,2049,5000,52.50762,13.4064
+1393615,2021/05/13 - 12:25:47,Berlin,Pettenkoferstraße,60.0,Pets not allowed,1650,2000,52.51769299999999,13.4714135
+1662934,2021/05/13 - 12:25:49,Berlin,Griebenowstraße,55.0,Pets negotiable,1650,2500,52.53589,13.40549
+1724242,2021/05/13 - 12:25:51,Berlin,Mierendorffstraße,38.0,Pets not allowed,900,1800,52.52313,13.30201
+1695897,2021/05/13 - 12:25:54,Berlin,Brettnacher Straße,70.0,Pets negotiable,1400,3000,52.43434,13.27665
+1648172,2021/05/13 - 12:25:56,Berlin,Torstraße,80.0,Pets not allowed,1900,3800,52.52908,13.39541
+1645070,2021/05/13 - 12:25:58,Berlin,Gleimstraße,33.0,Pets negotiable,1400,2000,52.54736,13.41128
+1680844,2021/05/13 - 12:26:00,Berlin,Gotenstraße,70.0,Pets not allowed,1400,1300,52.47996,13.36046
+1692296,2021/05/13 - 12:26:02,Berlin,Raabestraße,80.0,Pets allowed,1690,2500,52.53182,13.42273
+1398598,2021/05/13 - 12:26:04,Berlin,Gartenstraße,60.0,Pets negotiable,1750,1500,52.5348692,13.3857018
+1646104,2021/05/13 - 12:26:06,Berlin,Erich-Thilo-Straße,59.0,Pets not allowed,2010,0,52.43275,13.5323
+1722705,2021/05/13 - 12:26:08,Berlin,Kurfürstendamm,80.0,Pets negotiable,2000,4000,52.50109,13.31799
+1718088,2021/05/13 - 12:26:13,Berlin,Straßburger Straße,103.0,Pets not allowed,1990,1990,52.52877,13.41386
+1569487,2021/05/13 - 12:26:15,Berlin,Osnabrücker Straße,53.0,Pets negotiable,1495,1000,52.52614,13.30096
+1644472,2021/05/13 - 12:26:17,Berlin,Witzlebenstraße,45.0,Pets negotiable,2290,3500,52.51051,13.29538
+1683651,2021/05/13 - 12:26:19,Berlin,Badensche Straße,40.0,Pets not allowed,1452,1200,52.48626,13.32718
+1683649,2021/05/13 - 12:26:21,Berlin,Badensche Straße,40.0,Pets not allowed,1452,1200,52.48626,13.32718
+1674118,2021/05/13 - 12:26:23,Berlin,Zähringerstraße,75.0,Pets not allowed,1450,2900,52.49461,13.31637
+1665778,2021/05/13 - 12:26:25,Berlin,Badensche Straße,40.0,Pets not allowed,1452,1200,52.48626,13.32718
+1665777,2021/05/13 - 12:26:27,Berlin,Badensche Straße,40.0,Pets not allowed,1452,1200,52.48626,13.32718
+1665776,2021/05/13 - 12:26:30,Berlin,Badensche Straße,40.0,Pets not allowed,1452,1200,52.48626,13.32718
+1665775,2021/05/13 - 12:26:32,Berlin,Badensche Straße,40.0,Pets not allowed,1452,1200,52.48626,13.32718
+1665773,2021/05/13 - 12:26:34,Berlin,Badensche Straße,40.0,Pets not allowed,1452,1200,52.48626,13.32718
+1706148,2021/05/13 - 12:26:36,Berlin,Lychener Straße,55.0,Pets negotiable,1750,0,52.54416,13.41782
+1656370,2021/05/13 - 12:26:38,Berlin,Friedrich-Wilhelm-Straße,70.0,Pets not allowed,1270,2540,52.45755,13.38943
+1521270,2021/05/13 - 12:26:40,Berlin,Thaerstraße,35.0,Pets negotiable,1180,1180,52.51992,13.45385
+1463670,2021/05/13 - 12:26:42,Berlin,Winterthurstraße,71.0,Pets not allowed,1130,1100,52.56544,13.34481
+1687899,2021/05/13 - 12:26:44,Berlin,Wichertstraße,36.0,Pets not allowed,1200,2800,52.55018,13.41531
+1716625,2021/05/13 - 12:26:46,Berlin,Urbanstraße,60.0,Pets allowed,1500,0,52.4905,13.41715
+1614289,2021/05/13 - 12:26:48,Berlin,Thaerstraße,60.0,Pets negotiable,1500,1500,52.51992,13.45385
+1524674,2021/05/13 - 12:26:51,Berlin,Thaerstraße,59.0,Pets negotiable,1500,1500,52.51992,13.45385
+1709367,2021/05/13 - 12:26:53,Berlin,Münchener Straße,56.0,Pets negotiable,1300,1500,52.49162,13.34214
+1573363,2021/05/13 - 12:26:55,Berlin,Billy-Wilder-Promenade,60.0,Pets not allowed,1500,2000,52.41893,13.28737
+1620405,2021/05/13 - 12:26:57,Berlin,Greifenhagener Straße,85.0,Pets negotiable,2100,4200,52.54887,13.41643
+1398597,2021/05/13 - 12:26:59,Berlin,Boxhagener Straße,57.0,Pets negotiable,2100,2100,52.509589,13.4624697
+1635724,2021/05/13 - 12:27:01,Berlin,Guerickestraße,50.0,Pets negotiable,1200,2400,52.51832,13.31528
+1706174,2021/05/13 - 12:27:04,Berlin,Rhinower Straße,70.0,Pets negotiable,2400,2000,52.54799,13.4096
+1724063,2021/05/13 - 12:27:05,Berlin,Winsstraße,75.0,Pets negotiable,2700,2000,52.53334,13.4246
+1638840,2021/05/13 - 12:27:08,Berlin,Helsingforser Straße,37.0,Pets not allowed,990,600,52.50974,13.44613
+1708768,2021/05/13 - 12:27:10,Berlin,Brunnenstraße,46.0,Pets not allowed,1260,4200,52.53997,13.39435
+1675305,2021/05/13 - 12:27:12,Berlin,Koppenstraße,55.0,Pets negotiable,1770,1000,52.51384,13.43457
+1535469,2021/05/13 - 12:27:14,Berlin,Solmsstraße,65.0,Pets not allowed,1550,1500,52.49088,13.39302
+1720793,2021/05/13 - 12:27:16,Berlin,Kaiser-Friedrich-Straße,92.0,Pets not allowed,1830,1995,52.5182,13.29981
+1634207,2021/05/13 - 12:27:18,Berlin,Buchholzer Straße,83.0,Pets not allowed,2000,4000,52.58311,13.40804
+1614300,2021/05/13 - 12:27:20,Berlin,Thaerstraße,32.0,Pets negotiable,1100,1000,52.51992,13.45385
+1722716,2021/05/13 - 12:27:22,Berlin,Cotheniusstraße,40.0,Pets not allowed,1100,1000,52.52873,13.4486
+1167293,2021/05/13 - 12:27:24,Berlin,Böckhstraße,35.0,Pets not allowed,1100,700,52.4937789,13.4195733
+1665291,2021/05/13 - 12:27:26,Berlin,Esmarchstraße,47.0,Pets negotiable,1290,2000,52.53155,13.43073
+1691755,2021/05/13 - 12:27:29,Berlin,Schlüterstraße,43.86,Pets not allowed,1300,1300,52.50813,13.31785
+1690427,2021/05/13 - 12:27:31,Berlin,Buchholzer Straße,65.0,Pets not allowed,1600,3200,52.58311,13.40804
+1646869,2021/05/13 - 12:27:33,Berlin,Kurfürstenstraße,142.0,Pets not allowed,3100,6200,52.49943,13.36596
+1493893,2021/05/13 - 12:27:36,Berlin,Friedrich-Junge-Straße,76.0,Pets not allowed,1890,2500,52.49535,13.47286
+1681495,2021/05/13 - 12:27:38,Berlin,Hauptstraße,73.0,Pets not allowed,1890,2500,52.48423,13.35274
+1706109,2021/05/13 - 12:27:40,Berlin,Veteranenstraße,35.0,Pets negotiable,1500,2000,52.53291,13.39969
+1654255,2021/05/13 - 12:27:43,Berlin,Otto-Braun-Straße,39.0,Pets allowed,2163,500,52.52409,13.4182
+1654253,2021/05/13 - 12:27:45,Berlin,Otto-Braun-Straße,26.0,Pets allowed,1836,500,52.52409,13.4182
+1648377,2021/05/13 - 12:27:47,Berlin,Gärtnerstraße,100.0,Pets not allowed,2495,1000,52.50855,13.45961
+1391438,2021/05/13 - 12:27:49,Berlin,Holländerstraße,56.0,Pets not allowed,1500,2000,52.56364,13.3431799
+1548028,2021/05/13 - 12:27:51,Berlin,Gartenstraße,46.0,Pets negotiable,2500,500,52.5323,13.38875
+1396054,2021/05/13 - 12:27:55,Berlin,Naugarder Straße,40.0,Pets not allowed,1128,2256,52.543448,13.4381616
+1645904,2021/05/13 - 12:27:57,Berlin,Bornholmer Straße,54.0,Pets negotiable,1650,2500,52.5542,13.40194
+1683652,2021/05/13 - 12:27:59,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1683650,2021/05/13 - 12:28:01,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665858,2021/05/13 - 12:28:03,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665857,2021/05/13 - 12:28:05,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665855,2021/05/13 - 12:28:07,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665854,2021/05/13 - 12:28:09,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665853,2021/05/13 - 12:28:11,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665852,2021/05/13 - 12:28:13,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665851,2021/05/13 - 12:28:15,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665850,2021/05/13 - 12:28:17,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665849,2021/05/13 - 12:28:19,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665848,2021/05/13 - 12:28:21,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1665847,2021/05/13 - 12:28:23,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1659725,2021/05/13 - 12:28:25,Berlin,Badensche Straße,48.0,Pets not allowed,1678,1200,52.48626,13.32718
+1152009,2021/05/13 - 12:28:27,Berlin,Olbersstraße,42.0,Pets negotiable,1700,1000,52.5293246,13.3011723
+1723208,2021/05/13 - 12:28:29,Berlin,Grazer Damm,74.0,Pets negotiable,1450,1500,52.46992,13.34623
+1564375,2021/05/13 - 12:28:31,Berlin,Andreasstraße,61.0,Pets negotiable,2250,2100,52.51374,13.43321
+1693209,2021/05/13 - 12:28:33,Berlin,Choriner Straße,40.0,Pets not allowed,1400,1400,52.53668,13.41078
+1395939,2021/05/13 - 12:28:35,Berlin,Naugarder Straße,38.0,Pets not allowed,1416,2832,52.543448,13.4381616
+1657768,2021/05/13 - 12:28:39,Berlin,Saarbrücker Straße,76.0,Pets not allowed,2000,2000,52.53016,13.41526
+1703741,2021/05/13 - 12:28:43,Berlin,Zimmerstraße,59.0,Pets negotiable,1525,3050,52.50741,13.38787
+1708770,2021/05/13 - 12:28:47,Berlin,Brunnenstraße,50.0,Pets not allowed,2300,4600,52.53997,13.39435
+1681666,2021/05/13 - 12:28:49,Berlin,Metzer Straße,110.0,Pets not allowed,2590,1990,52.53161,13.41524
+1698075,2021/05/13 - 12:28:52,Berlin,Tegeler Weg,83.0,Pets negotiable,2250,2250,52.52789,13.29729
+1663137,2021/05/13 - 12:28:54,Berlin,Friedrich-Engels-Straße,56.0,Pets not allowed,1299,1000,52.59555,13.37991
+1527736,2021/05/13 - 12:28:56,Berlin,Zur Gartenstadt,15.0,Pets not allowed,900,1000,52.40344,13.56754
+1494681,2021/05/13 - 12:28:58,Berlin,Dunckerstraße,70.0,Pets not allowed,1750,500,52.54302,13.42098
+1693536,2021/05/13 - 12:29:00,Berlin,Krausnickstraße,140.0,Pets not allowed,3300,6600,52.5251,13.39733
+1396056,2021/05/13 - 12:29:02,Berlin,Naugarder Straße,40.0,Pets not allowed,1238,2476,52.543448,13.4381616
+1712549,2021/05/13 - 12:29:04,Berlin,Sankt Wolfgang-Straße,60.0,Pets not allowed,2000,2000,52.52024,13.40248
+1696661,2021/05/13 - 12:29:07,Berlin,Rodenbergstraße,42.0,Pets not allowed,1200,0,52.55091,13.41714
+1172059,2021/05/13 - 12:29:09,Berlin,Mittenwalder Straße,45.0,Pets not allowed,1200,1200,52.49181189999999,13.3969582
+1705999,2021/05/13 - 12:29:11,Berlin,Greifswalder Straße,33.0,Pets not allowed,1490,1390,52.53217,13.42791
+1493880,2021/05/13 - 12:29:13,Berlin,Erich-Boltze-Straße,48.0,Pets not allowed,1490,1500,52.53186,13.44392
+1705023,2021/05/13 - 12:29:15,Berlin,Dottistraße,100.0,Pets negotiable,1800,4000,52.51417,13.48382
+1648375,2021/05/13 - 12:29:17,Berlin,Gärtnerstraße,45.0,Pets not allowed,1495,500,52.50855,13.45961
+1681665,2021/05/13 - 12:29:20,Berlin,Metzer Straße,80.0,Pets not allowed,2390,1800,52.53161,13.41524
+1714172,2021/05/13 - 12:29:22,Berlin,Chemnitzer Straße,22.0,Pets negotiable,900,900,52.50089,13.57987
+1683653,2021/05/13 - 12:29:24,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1680700,2021/05/13 - 12:29:26,Berlin,Gartenstraße,63.0,Pets negotiable,2700,500,52.5323,13.38875
+1665796,2021/05/13 - 12:29:28,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665795,2021/05/13 - 12:29:30,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665794,2021/05/13 - 12:29:32,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665790,2021/05/13 - 12:29:34,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665789,2021/05/13 - 12:29:36,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665787,2021/05/13 - 12:29:38,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665786,2021/05/13 - 12:29:40,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665785,2021/05/13 - 12:29:42,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665784,2021/05/13 - 12:29:44,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665783,2021/05/13 - 12:29:46,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665782,2021/05/13 - 12:29:48,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665781,2021/05/13 - 12:29:50,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665780,2021/05/13 - 12:29:52,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1665779,2021/05/13 - 12:29:54,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1659723,2021/05/13 - 12:29:56,Berlin,Burgemeisterstraße,48.0,Pets not allowed,1573,1200,52.45766,13.37805
+1548027,2021/05/13 - 12:29:59,Berlin,Gartenstraße,50.0,Pets negotiable,2700,2700,52.5323,13.38875
+1490809,2021/05/13 - 12:30:01,Berlin,Charlottenstraße,40.0,Pets negotiable,1399,2980,52.50887,13.3923
+1708756,2021/05/13 - 12:30:04,Berlin,Brunnenstraße,46.0,Pets not allowed,2100,4200,52.53997,13.39435
+1710488,2021/05/13 - 12:30:09,Berlin,Bizetstraße,58.0,Pets negotiable,1600,3200,52.54873,13.45743
+1694377,2021/05/13 - 12:30:11,Berlin,Stallschreiberstraße,78.0,Pets not allowed,2400,2000,52.5065645,13.4076218
+1610702,2021/05/13 - 12:30:13,Berlin,Lückstraße,55.0,Pets negotiable,1299,3000,52.50071,13.49328
+1713530,2021/05/13 - 12:30:15,Berlin,Eosanderstraße,77.689,Pets negotiable,1850,3700,52.51993,13.29994
+1721611,2021/05/13 - 12:30:17,Berlin,Pankstraße,75.0,Pets not allowed,1350,2700,52.54792,13.37485
+1699273,2021/05/13 - 12:30:19,Berlin,Lütticher Straße,40.0,Pets negotiable,1100,2200,52.54698,13.34708
+1720408,2021/05/13 - 12:30:21,Berlin,Rodenbergstraße,38.0,Pets negotiable,1000,1100,52.55064,13.41784
+1648748,2021/05/13 - 12:30:23,Berlin,Dörpfeldstraße,65.0,Pets not allowed,1700,3000,52.43949,13.55278
+1639884,2021/05/13 - 12:30:25,Berlin,Neue Grünstraße,45.0,Pets negotiable,1450,500,52.50954,13.40521
+1639882,2021/05/13 - 12:30:27,Berlin,Schönholzer Straße,56.0,Pets negotiable,1450,500,52.53799,13.39806
+1639881,2021/05/13 - 12:30:29,Berlin,Schönholzer Straße,50.0,Pets negotiable,1450,500,52.53799,13.39806
+1585182,2021/05/13 - 12:30:32,Berlin,Dörpfeldstraße,46.0,Pets not allowed,1099,2000,52.43572,13.54244
+1706183,2021/05/13 - 12:30:34,Berlin,Brunnenstraße,102.0,Pets negotiable,3400,2000,52.53202,13.39896
+1521272,2021/05/13 - 12:30:36,Berlin,Thaerstraße,37.0,Pets negotiable,1280,1000,52.51992,13.45385
+1684742,2021/05/13 - 12:30:38,Berlin,Helmstedter Straße,49.0,Pets not allowed,1359,4077,52.49209,13.3341
+1707586,2021/05/13 - 12:30:40,Berlin,Eisenacher Straße,46.0,Pets allowed,1150,1150,52.44719,13.39937
+1710180,2021/05/13 - 12:30:42,Berlin,Cuvrystraße,35.0,Pets not allowed,1100,1000,52.49645,13.44298
+1712507,2021/05/13 - 12:30:44,Berlin,Karl-Marx-Allee,135.0,Pets not allowed,2490,8700,52.5178,13.43131
+1690426,2021/05/13 - 12:30:46,Berlin,Buchholzer Straße,65.0,Pets not allowed,1600,3200,52.58311,13.40804
+1698043,2021/05/13 - 12:30:48,Berlin,Holtzendorffstraße,48.0,Pets negotiable,1890,1890,52.50387,13.29548
+1690050,2021/05/13 - 12:30:50,Berlin,Parkstraße,68.0,Pets allowed,1490,1500,52.57156,13.4003
+1157183,2021/05/13 - 12:30:52,Berlin,Bornstedter Straße,80.0,Pets not allowed,1900,800,52.4977613,13.2843641
+1715080,2021/05/13 - 12:30:55,Berlin,Frankfurter Allee,100.0,Pets negotiable,2500,2500,52.51501,13.45929
+1699805,2021/05/13 - 12:30:57,Berlin,Metzer Straße,110.0,Pets not allowed,2790,2450,52.53161,13.41524
+1521269,2021/05/13 - 12:30:59,Berlin,Thaerstraße,40.0,Pets negotiable,1350,1000,52.51992,13.45385
+1707584,2021/05/13 - 12:31:01,Berlin,Riemannstraße,54.0,Pets allowed,1350,1350,52.49033,13.39308
+1548044,2021/05/13 - 12:31:04,Berlin,Gaudystraße,40.0,Pets negotiable,1650,1650,52.54684,13.41262
+1302611,2021/05/13 - 12:31:06,Berlin,Lüderitzstraße,36.0,Pets not allowed,880,1100,52.5504617,13.348406
+1717312,2021/05/13 - 12:31:08,Berlin,Rudower Chaussee,38.0,Pets not allowed,2489,498,52.43232,13.53478
+1717311,2021/05/13 - 12:31:10,Berlin,Rudower Chaussee,38.0,Pets not allowed,2489,498,52.43232,13.53478
+1649888,2021/05/13 - 12:31:12,Berlin,Stresemannstraße,150.0,Pets not allowed,3500,7000,52.50587,13.3802
+1400428,2021/05/13 - 12:31:15,Berlin,Wilmsstraße,35.0,Pets not allowed,1030,700,52.49523139999999,13.4026471
+1681493,2021/05/13 - 12:31:17,Berlin,Storkower Straße,48.0,Pets negotiable,1390,1500,52.53673,13.45418
+1708776,2021/05/13 - 12:31:19,Berlin,Brunnenstraße,50.0,Pets not allowed,1380,4600,52.53997,13.39435
+1398602,2021/05/13 - 12:31:21,Berlin,Lübbener Straße,55.0,Pets negotiable,1960,1850,52.4985987,13.4366344
+1592658,2021/05/13 - 12:31:24,Berlin,Liberdastraße,70.0,Pets not allowed,1400,1600,52.4925,13.43026
+1708767,2021/05/13 - 12:31:26,Berlin,Brunnenstraße,46.0,Pets not allowed,1680,4200,52.53997,13.39435
+1673849,2021/05/13 - 12:31:28,Berlin,Fromet-und-Moses-Mendelssohn-Platz,58.0,Pets negotiable,1750,0,52.50318,13.39397
+1692082,2021/05/13 - 12:31:30,Berlin,Liebermannstraße,50.0,Pets not allowed,1500,0,52.55992,13.47244
+1683628,2021/05/13 - 12:31:32,Berlin,Kastanienallee,70.0,Pets negotiable,1700,2500,52.53806,13.40889
+1683194,2021/05/13 - 12:31:34,Berlin,Karl-Marx-Allee,60.0,Pets not allowed,1695,2000,52.51712,13.44128
+1548046,2021/05/13 - 12:31:36,Berlin,Schönhauser Allee,58.0,Pets negotiable,2000,2000,52.54694,13.41282
+1720150,2021/05/13 - 12:31:38,Berlin,Hasenheide,67.0,Pets allowed,1720,0,52.48629,13.42381
+1681110,2021/05/13 - 12:31:41,Berlin,Eiswerderstraße,47.0,Pets negotiable,1490,2000,52.54867,13.21802
+1719979,2021/05/13 - 12:31:43,Berlin,Kaiser-Friedrich-Straße,92.0,Pets not allowed,1725,1995,52.5182,13.29981
+1703747,2021/05/13 - 12:31:45,Berlin,Schleiermacherstraße,90.0,Pets negotiable,2030,4060,52.49201,13.39794
+1586747,2021/05/13 - 12:31:47,Berlin,Korsörer Straße,62.0,Pets not allowed,1750,3500,52.54752,13.40246
+1697727,2021/05/13 - 12:31:50,Berlin,Krausenstraße,40.0,Pets allowed,1090,2180,52.50942,13.3917
+1710490,2021/05/13 - 12:31:52,Berlin,Kameruner Straße,59.0,Pets negotiable,1600,3200,52.54935,13.34484
+1639879,2021/05/13 - 12:31:54,Berlin,Brunnenstraße,41.0,Pets not allowed,1350,500,52.53765,13.39616
+1722838,2021/05/13 - 12:31:56,Berlin,Damaschkestraße,28.0,Pets not allowed,1490,1490,52.4996,13.30159
+1688901,2021/05/13 - 12:31:58,Berlin,Altensteinstraße,53.0,Pets not allowed,1200,1200,52.45156,13.29671
+1493497,2021/05/13 - 12:32:00,Berlin,Schönerlinder Straße,45.0,Pets not allowed,999,2000,52.44322,13.56732
+1375381,2021/05/13 - 12:32:02,Berlin,Gabriel-Max-Straße,55.0,Pets not allowed,1200,700,52.5104193,13.4580182
+1548023,2021/05/13 - 12:32:05,Berlin,Mariannenplatz,25.0,Pets not allowed,1490,1490,52.50391,13.42641
+1547549,2021/05/13 - 12:32:07,Berlin,Mariannenplatz,25.0,Pets not allowed,1490,1490,52.50391,13.42641
+1548024,2021/05/13 - 12:32:09,Berlin,Mariannenplatz,25.0,Pets not allowed,1490,1490,52.50391,13.42641
+1710487,2021/05/13 - 12:32:11,Berlin,Agricolastraße,43.0,Pets negotiable,1495,2990,52.51943,13.33574
+1632394,2021/05/13 - 12:32:13,Berlin,Thomasstraße,70.0,Pets not allowed,1500,1500,52.47183,13.42937
+1632391,2021/05/13 - 12:32:15,Berlin,Hobrechtstraße,65.0,Pets not allowed,1500,1700,52.48643,13.42704
+1645731,2021/05/13 - 12:32:17,Berlin,Französische Straße,84.0,Pets not allowed,2990,3000,52.51475,13.38718
+1627772,2021/05/13 - 12:32:20,Berlin,Blücherstraße,85.0,Pets negotiable,1800,3600,52.4909,13.40433
+1586743,2021/05/13 - 12:32:22,Berlin,Korsörer Straße,62.0,Pets not allowed,1800,3500,52.54752,13.40246
+1665763,2021/05/13 - 12:32:24,Berlin,Badensche Straße,75.0,Pets not allowed,2098,1200,52.48626,13.32718
+1665761,2021/05/13 - 12:32:26,Berlin,Badensche Straße,75.0,Pets not allowed,2098,0,52.48626,13.32718
+1665760,2021/05/13 - 12:32:28,Berlin,Badensche Straße,75.0,Pets not allowed,2098,1200,52.48626,13.32718
+1665758,2021/05/13 - 12:32:30,Berlin,Badensche Straße,75.0,Pets not allowed,2098,1200,52.48626,13.32718
+1665757,2021/05/13 - 12:32:33,Berlin,Badensche Straße,75.0,Pets not allowed,2098,1200,52.48626,13.32718
+1665756,2021/05/13 - 12:32:35,Berlin,Badensche Straße,75.0,Pets not allowed,2098,1200,52.48626,13.32718
+1569486,2021/05/13 - 12:32:37,Berlin,Osnabrücker Straße,25.0,Pets negotiable,1075,1000,52.52614,13.30096
+1654245,2021/05/13 - 12:32:39,Berlin,Otto-Braun-Straße,55.0,Pets allowed,3684,500,52.52409,13.4182
+1360107,2021/05/13 - 12:32:44,Berlin,Chausseestraße,63.0,Pets not allowed,2720,5000,52.5316655,13.3813325
+1707590,2021/05/13 - 12:32:46,Berlin,Wartenburgstraße,68.0,Pets allowed,1750,1700,52.4954,13.3812
+1640266,2021/05/13 - 12:32:49,Berlin,Behmstraße,78.0,Pets negotiable,2700,2000,52.55135,13.40106
+1665769,2021/05/13 - 12:32:51,Berlin,Kurfürstendamm,31.0,Pets not allowed,1894,1200,52.50208,13.32437
+1665767,2021/05/13 - 12:32:53,Berlin,Kurfürstendamm,31.0,Pets not allowed,1894,1200,52.50208,13.32437
+1151874,2021/05/13 - 12:32:55,Berlin,Reinickendorfer Straße,36.0,Pets not allowed,950,1200,52.55267,13.36636
+1708774,2021/05/13 - 12:32:57,Berlin,Brunnenstraße,50.0,Pets not allowed,1840,4600,52.53997,13.39435
+1608670,2021/05/13 - 12:33:00,Berlin,Uhlandstraße,67.0,Pets allowed,1650,1000,52.49031,13.32255
+1615499,2021/05/13 - 12:33:02,Berlin,Alt-Wittenau,65.0,Pets not allowed,1250,2000,52.58972,13.33395
+1675530,2021/05/13 - 12:33:04,Berlin,Lützowstraße,148.0,Pets negotiable,2800,5600,52.50557,13.35641
+1644473,2021/05/13 - 12:33:06,Berlin,Klosterstraße,145.0,Pets not allowed,3450,5000,52.51671,13.41265
+1638483,2021/05/13 - 12:33:08,Berlin,Choriner Straße,60.0,Pets not allowed,1900,1900,52.53668,13.41078
+1493898,2021/05/13 - 12:33:11,Berlin,Stralauer Allee,98.0,Pets not allowed,2490,2500,52.49817,13.4622
+1612426,2021/05/13 - 12:33:13,Berlin,Simon-Dach-Straße,60.0,Pets negotiable,1350,3000,52.51036,13.45644
+1478319,2021/05/13 - 12:33:15,Berlin,Weichselstraße,60.0,Pets not allowed,1350,1350,52.51277,13.47045
+1720152,2021/05/13 - 12:33:17,Berlin,Hasenheide,71.0,Pets allowed,1650,0,52.48629,13.42381
+1711529,2021/05/13 - 12:33:19,Berlin,Wehrmathen,40.0,Pets negotiable,1050,2000,52.39845,13.52252
+1681580,2021/05/13 - 12:33:21,Berlin,Sponholzstraße,52.0,Pets negotiable,1190,2380,52.47487,13.34094
+1683062,2021/05/13 - 12:33:23,Berlin,Winterfeldtstraße,104.0,Pets not allowed,3400,3000,52.49589,13.36026
+1707746,2021/05/13 - 12:33:25,Berlin,Malplaquetstraße,80.0,Pets negotiable,1900,2000,52.54988,13.36073
+1645052,2021/05/13 - 12:33:31,Berlin,Buchholzer Straße,120.0,Pets negotiable,2100,5000,52.58311,13.40804
+1703766,2021/05/13 - 12:33:33,Berlin,Kochstraße,85.0,Pets negotiable,2020,4040,52.50672,13.3884
+1642289,2021/05/13 - 12:33:35,Berlin,Stralauer Allee,80.0,Pets not allowed,1995,2500,52.49918,13.45962
+1533905,2021/05/13 - 12:33:37,Berlin,Stralauer Allee,80.0,Pets not allowed,1995,2500,52.49918,13.45962
+1703753,2021/05/13 - 12:33:39,Berlin,Kochstraße,80.0,Pets negotiable,2020,4040,52.50667,13.38761
+1654264,2021/05/13 - 12:33:42,Berlin,Otto-Braun-Straße,38.0,Pets allowed,3239,500,52.52409,13.4182
+1392655,2021/05/13 - 12:33:47,Berlin,Grimmstraße,76.0,Pets not allowed,2600,2600,52.49313490000001,13.4134753
+1690543,2021/05/13 - 12:33:49,Berlin,Paulstraße,50.0,Pets negotiable,2000,100,52.5219,13.35594
+1700970,2021/05/13 - 12:33:53,Berlin,Krausenstraße,50.0,Pets negotiable,1700,3000,52.50982,13.39844
+1722703,2021/05/13 - 12:33:55,Berlin,Ravenéstraße,75.0,Pets not allowed,1800,1800,52.54287,13.37206
+1722152,2021/05/13 - 12:33:59,Berlin,Raumerstraße,71.04,Pets negotiable,1805,3610,52.54142,13.42381
+1549146,2021/05/13 - 12:34:01,Berlin,Schloßstraße,41.0,Pets not allowed,1590,1590,52.45686,13.32009
+1398594,2021/05/13 - 12:34:03,Berlin,Bödikerstraße,124.0,Pets negotiable,2950,2750,52.5001904,13.4636925
+1580077,2021/05/13 - 12:34:05,Berlin,Johannisstraße,52.0,Pets negotiable,1399,2998,52.52434,13.39021
+1521234,2021/05/13 - 12:34:07,Berlin,Gervinusstraße,87.0,Pets not allowed,2690,2690,52.50473,13.30679
+1665750,2021/05/13 - 12:34:09,Berlin,Badensche Straße,75.0,Pets not allowed,2421,1200,52.48626,13.32718
+1665749,2021/05/13 - 12:34:12,Berlin,Badensche Straße,75.0,Pets not allowed,2421,1200,52.48626,13.32718
+1659716,2021/05/13 - 12:34:14,Berlin,Badensche Straße,75.0,Pets not allowed,2421,1200,52.48626,13.32718
+1654692,2021/05/13 - 12:34:16,Berlin,Jülicher Straße,44.0,Pets not allowed,1110,0,52.55076,13.39179
+1703780,2021/05/13 - 12:34:18,Berlin,Schröderstraße,88.0,Pets not allowed,1780,3000,52.53047,13.39333
+1539950,2021/05/13 - 12:34:20,Berlin,Ludwigkirchplatz,100.0,Pets negotiable,2420,2200,52.49801,13.32199
+1533381,2021/05/13 - 12:34:22,Berlin,Badenallee,75.0,Pets not allowed,1400,1400,52.51032,13.26337
+1440206,2021/05/13 - 12:34:24,Berlin,Mühsamstraße,121.0,Pets negotiable,2745,2745,52.52098,13.45332
+1701975,2021/05/13 - 12:34:26,Berlin,Am Tempelhofer Berg,88.0,Pets allowed,1900,1900,52.48836,13.388
+1680698,2021/05/13 - 12:34:28,Berlin,Otto-Weidt-Platz,90.0,Pets not allowed,3050,3050,52.53299,13.36708
+1702142,2021/05/13 - 12:34:30,Berlin,Am Tempelhofer Berg,88.0,Pets allowed,1900,1900,52.48836,13.388
+1548018,2021/05/13 - 12:34:33,Berlin,Schwedter Straße,94.0,Pets negotiable,3070,2400,52.5374,13.40687
+1655506,2021/05/13 - 12:34:35,Berlin,Choriner Straße,63.0,Pets not allowed,3150,0,52.53104,13.40576
+1606581,2021/05/13 - 12:34:37,Berlin,Bornholmer Straße,65.0,Pets negotiable,1300,1450,52.55383,13.40712
+1649885,2021/05/13 - 12:34:39,Berlin,Stresemannstraße,150.0,Pets not allowed,3500,7000,52.50587,13.3802
+1638498,2021/05/13 - 12:34:41,Berlin,Haubachstraße,90.0,Pets not allowed,2250,2250,52.51546,13.30406
+1638489,2021/05/13 - 12:34:44,Berlin,Choriner Straße,80.0,Pets not allowed,2250,2250,52.53668,13.41078
+1658076,2021/05/13 - 12:34:46,Berlin,Blissestraße,53.0,Pets not allowed,1480,2000,52.48086,13.32014
+1653113,2021/05/13 - 12:34:48,Berlin,Stralauer Allee,100.0,Pets not allowed,1995,2500,52.49918,13.45962
+1533906,2021/05/13 - 12:34:50,Berlin,Stralauer Allee,100.0,Pets not allowed,1995,2500,52.49918,13.45962
+1639874,2021/05/13 - 12:34:54,Berlin,Rheinsberger Straße,52.0,Pets negotiable,1450,500,52.53853,13.40249
+1596291,2021/05/13 - 12:34:56,Berlin,Gabriele-Tergit-Promenade,85.0,Pets not allowed,2300,4600,52.50408,13.3745
+1563297,2021/05/13 - 12:34:58,Berlin,Pasewalker Straße,70.0,Pets not allowed,1500,1000,52.58884,13.43068
+1548045,2021/05/13 - 12:35:01,Berlin,Strausberger Platz,60.0,Pets negotiable,2600,2600,52.5182595,13.4275976
+1503251,2021/05/13 - 12:35:05,Berlin,Herrenhausstraße,77.0,Pets not allowed,1390,1000,52.44398,13.50727
+1719946,2021/05/13 - 12:35:07,Berlin,Wilsnacker Straße,86.0,Pets allowed,1800,1800,52.53131,13.3503
+1546504,2021/05/13 - 12:35:09,Berlin,Steglitzer Damm,60.0,Pets not allowed,1300,1300,52.44896,13.35893
+1548035,2021/05/13 - 12:35:11,Berlin,Auguststraße,100.0,Pets not allowed,3000,3000,52.52592,13.39206
+1680502,2021/05/13 - 12:35:13,Berlin,Urbanstraße,37.0,Pets not allowed,1230,0,52.49082,13.41745
+1521215,2021/05/13 - 12:35:15,Berlin,Urbanstraße,37.0,Pets not allowed,1230,0,52.49082,13.41745
+1601226,2021/05/13 - 12:35:17,Berlin,Schützenstraße,40.0,Pets not allowed,1850,1750,52.45294,13.32222
+1710342,2021/05/13 - 12:35:19,Berlin,Zimmerstraße,92.0,Pets negotiable,2360,4720,52.50741,13.38787
+1706854,2021/05/13 - 12:35:21,Berlin,Mehringplatz,82.0,Pets not allowed,1850,1800,52.49975,13.39124
+1683648,2021/05/13 - 12:35:23,Berlin,Badensche Straße,75.0,Pets not allowed,2098,1200,52.48626,13.32718
+1665842,2021/05/13 - 12:35:25,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665841,2021/05/13 - 12:35:27,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665840,2021/05/13 - 12:35:29,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665838,2021/05/13 - 12:35:32,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665837,2021/05/13 - 12:35:34,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665836,2021/05/13 - 12:35:36,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665835,2021/05/13 - 12:35:38,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665834,2021/05/13 - 12:35:44,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665833,2021/05/13 - 12:35:46,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665832,2021/05/13 - 12:35:48,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665831,2021/05/13 - 12:35:50,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665830,2021/05/13 - 12:35:52,Berlin,Kurfürstendamm,50.0,Pets not allowed,2370,1200,52.50208,13.32437
+1665764,2021/05/13 - 12:35:54,Berlin,Badensche Straße,75.0,Pets not allowed,2098,1200,52.48626,13.32718
+1665762,2021/05/13 - 12:35:57,Berlin,Badensche Straße,75.0,Pets not allowed,2098,0,52.48626,13.32718
+1665759,2021/05/13 - 12:35:59,Berlin,Badensche Straße,75.0,Pets not allowed,2098,1200,52.48626,13.32718
+1639883,2021/05/13 - 12:36:01,Berlin,Rheinsberger Straße,80.0,Pets not allowed,2100,1000,52.53853,13.40249
+1645993,2021/05/13 - 12:36:05,Berlin,Winterfeldtstraße,60.0,Pets not allowed,2700,2400,52.49589,13.36026
+1683654,2021/05/13 - 12:36:09,Berlin,Kurfürstendamm,31.0,Pets not allowed,1894,1200,52.50208,13.32437
+1665770,2021/05/13 - 12:36:11,Berlin,Kurfürstendamm,31.0,Pets not allowed,1894,1200,52.50208,13.32437
+1665768,2021/05/13 - 12:36:13,Berlin,Kurfürstendamm,31.0,Pets not allowed,1894,1200,52.50208,13.32437
+1665766,2021/05/13 - 12:36:15,Berlin,Kurfürstendamm,31.0,Pets not allowed,1894,1200,52.50208,13.32437
+1679135,2021/05/13 - 12:36:17,Berlin,Schwedter Straße,45.0,Pets negotiable,1090,2180,52.53911,13.40529
+1339442,2021/05/13 - 12:36:19,Berlin,Paul-Lincke-Ufer,51.0,Pets not allowed,1650,3000,52.4921532,13.4354935
+1661217,2021/05/13 - 12:36:21,Berlin,Heidestraße,38.0,Pets allowed,2460,0,52.52725,13.37045
+1638494,2021/05/13 - 12:36:23,Berlin,Choriner Straße,85.0,Pets not allowed,2450,2450,52.53668,13.41078
+1700198,2021/05/13 - 12:36:25,Berlin,Sredzkistraße,63.0,Pets not allowed,1600,3200,52.53839,13.41625
+1708777,2021/05/13 - 12:36:27,Berlin,Brunnenstraße,64.0,Pets not allowed,2800,5600,52.53997,13.39435
+1645994,2021/05/13 - 12:36:29,Berlin,Winterfeldtstraße,160.0,Pets not allowed,4000,3500,52.49589,13.36026
+1659724,2021/05/13 - 12:36:31,Berlin,Kurfürstendamm,50.0,Pets not allowed,2535,1200,52.50208,13.32437
+1612160,2021/05/13 - 12:36:33,Berlin,Fraenkelufer,92.0,Pets not allowed,1800,1800,52.49553,13.41529
+1566895,2021/05/13 - 12:36:35,Berlin,Charlotte-E.-Pauly-Straße,75.0,Pets not allowed,1800,2000,52.44778,13.6184
+1722179,2021/05/13 - 12:36:38,Berlin,Zimmerstraße,64.33,Pets negotiable,1625,3250,52.50724,13.38721
+1686699,2021/05/13 - 12:36:40,Berlin,Schliemannstraße,110.0,Pets not allowed,3000,3000,52.54178,13.41688
+1438934,2021/05/13 - 12:36:42,Berlin,Karl-Kunger-Straße,79.0,Pets not allowed,1895,1895,52.49089,13.44813
+1673156,2021/05/13 - 12:36:44,Berlin,Sredzkistraße,67.0,Pets allowed,1880,1880,52.53839,13.41625
+1566903,2021/05/13 - 12:36:46,Berlin,Kleine Alexanderstraße,46.0,Pets not allowed,1800,2000,52.52517,13.41194
+1655507,2021/05/13 - 12:36:48,Berlin,Choriner Straße,90.0,Pets not allowed,3450,0,52.53104,13.40576
+1693744,2021/05/13 - 12:36:50,Berlin,Am Tempelhofer Berg,87.0,Pets allowed,1900,1900,52.48837,13.38753
+1712553,2021/05/13 - 12:36:52,Berlin,Erich-Kuttner-Straße,75.0,Pets not allowed,1995,2500,52.52771,13.46154
+1699409,2021/05/13 - 12:36:56,Berlin,Lynarstraße,90.0,Pets not allowed,2750,2500,52.54167,13.3633
+1694877,2021/05/13 - 12:36:59,Berlin,Lynarstraße,80.0,Pets not allowed,2500,2500,52.54167,13.3633
+1720241,2021/05/13 - 12:37:01,Berlin,Paul-Lincke-Ufer,70.0,Pets allowed,1300,0,52.49559,13.42407
+1692141,2021/05/13 - 12:37:03,Berlin,Graefestraße,63.0,Pets allowed,1500,1550,52.49496,13.41951
+1675959,2021/05/13 - 12:37:05,Berlin,Hufelandstraße,65.0,Pets not allowed,2650,2000,52.53108,13.43429
+1548019,2021/05/13 - 12:37:07,Berlin,Löwestraße,165.0,Pets allowed,2950,2950,52.51819,13.4474
+1649667,2021/05/13 - 12:37:09,Berlin,Reichenberger Straße,48.0,Pets not allowed,3000,2000,52.49337,13.43707
+1703777,2021/05/13 - 12:37:12,Berlin,Spandauer Damm,101.0,Pets negotiable,2455,4910,52.51923,13.29029
+1699408,2021/05/13 - 12:37:16,Berlin,Lynarstraße,110.0,Pets not allowed,3000,2750,52.54167,13.3633
+1566902,2021/05/13 - 12:37:18,Berlin,Gleyeweg,56.0,Pets not allowed,2250,2250,52.47659,13.50867
+1694879,2021/05/13 - 12:37:20,Berlin,Lynarstraße,70.0,Pets not allowed,2250,2250,52.54167,13.3633
+1599617,2021/05/13 - 12:37:22,Berlin,Winterfeldtstraße,65.0,Pets not allowed,3750,0,52.49589,13.36026
+1683838,2021/05/13 - 12:37:25,Berlin,Schwedter Straße,50.0,Pets negotiable,1190,2380,52.53911,13.40529
+1655508,2021/05/13 - 12:37:29,Berlin,Choriner Straße,104.0,Pets not allowed,4350,0,52.53104,13.40576
+1599615,2021/05/13 - 12:37:31,Berlin,Winterfeldtstraße,30.0,Pets not allowed,3300,0,52.49589,13.36026
+1713452,2021/05/13 - 12:37:33,Berlin,Skalitzer Straße,100.88,Pets negotiable,2465,4930,52.49976,13.43633
+1655354,2021/05/13 - 12:37:36,Berlin,Choriner Straße,53.0,Pets not allowed,2850,0,52.53104,13.40576
+1616960,2021/05/13 - 12:37:40,Berlin,Seydelstraße,105.0,Pets not allowed,2250,2000,52.50974,13.40338
+1699407,2021/05/13 - 12:37:42,Berlin,Lynarstraße,110.0,Pets not allowed,3000,2750,52.54167,13.3633
+1592241,2021/05/13 - 12:37:44,Berlin,Zehdenicker Straße,123.0,Pets negotiable,3400,8400,52.53013,13.4067
+1673154,2021/05/13 - 12:37:49,Berlin,Sredzkistraße,77.0,Pets allowed,2300,2300,52.53839,13.41625
+1693296,2021/05/13 - 12:37:51,Berlin,Lynarstraße,130.0,Pets not allowed,3250,2500,52.54167,13.3633
+1693295,2021/05/13 - 12:37:53,Berlin,Lynarstraße,130.0,Pets not allowed,3250,3250,52.54167,13.3633
+1692919,2021/05/13 - 12:37:55,Berlin,Lynarstraße,130.0,Pets not allowed,3250,3250,52.54167,13.3633
+1681310,2021/05/13 - 12:37:57,Berlin,Ruppiner Chaussee,220.0,Pets negotiable,2790,4500,52.61282,13.24747
+1655509,2021/05/13 - 12:38:00,Berlin,Choriner Straße,118.0,Pets not allowed,4950,0,52.53104,13.40576
+1500440,2021/05/13 - 12:38:02,Berlin,Am Hamburger Bahnhof,121.0,Pets not allowed,3140,5000,52.52776,13.37165
+1707587,2021/05/13 - 12:38:07,Berlin,Graefestraße,140.0,Pets allowed,3200,3200,52.49496,13.41951
+1678219,2021/05/13 - 12:38:11,Berlin,Höchste Straße,130.0,Pets negotiable,4500,0,52.52527,13.42816
+1678216,2021/05/13 - 12:38:13,Berlin,Höchste Straße,130.0,Pets negotiable,4500,0,52.52527,13.42816
+1655510,2021/05/13 - 12:38:15,Berlin,Choriner Straße,132.0,Pets not allowed,5500,0,52.53104,13.40576
+1692922,2021/05/13 - 12:38:17,Berlin,Lynarstraße,130.0,Pets not allowed,3250,3250,52.54167,13.3633
+1659727,2021/05/13 - 12:38:19,Berlin,Kurfürstendamm,113.0,Pets not allowed,4140,1200,52.50208,13.32437
+1659719,2021/05/13 - 12:38:21,Berlin,Kurfürstendamm,113.0,Pets not allowed,4140,1200,52.50208,13.32437
+1659714,2021/05/13 - 12:38:23,Berlin,Kurfürstendamm,113.0,Pets not allowed,4140,1200,52.50208,13.32437
+1721492,2021/05/13 - 12:38:25,Berlin,Zimmerstraße,113.41,Pets negotiable,2935,5870,52.50741,13.38787
+1599619,2021/05/13 - 12:38:28,Berlin,Winterfeldtstraße,65.0,Pets not allowed,5250,0,52.49589,13.36026
+1699961,2021/05/13 - 12:38:30,Berlin,Perleberger Straße,180.0,Pets not allowed,5600,4500,52.53342,13.35204
+1599621,2021/05/13 - 12:38:32,Berlin,Winterfeldtstraße,160.0,Pets not allowed,6200,0,52.49589,13.36026
+1700135,2021/05/13 - 12:38:34,Berlin,Perleberger Straße,180.0,Pets not allowed,5700,4600,52.53342,13.35204
+1721906,2021/05/13 - 12:38:56,Munich,Humboldtstraße,24.0,Pets negotiable,690,690,48.15146,11.68228
+1721905,2021/05/13 - 12:38:58,Munich,Humboldtstraße,24.0,Pets negotiable,690,690,48.15146,11.68228
+1699166,2021/05/13 - 12:39:00,Munich,Humboldtstraße,24.0,Pets negotiable,690,690,48.15146,11.68228
+1694096,2021/05/13 - 12:39:02,Munich,Humboldtstraße,24.0,Pets negotiable,690,690,48.15146,11.68228
+1721908,2021/05/13 - 12:39:04,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,790,690,48.17724,11.59296
+1721907,2021/05/13 - 12:39:06,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,790,690,48.17724,11.59296
+1694099,2021/05/13 - 12:39:08,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,790,690,48.17724,11.59296
+1724191,2021/05/13 - 12:39:11,Munich,Stahlgruberring,24.0,Pets allowed,760,500,48.13205,11.66897
+1724184,2021/05/13 - 12:39:13,Munich,Neumarkter Straße,25.0,Pets allowed,760,500,48.13155,11.62816
+1721891,2021/05/13 - 12:39:15,Munich,Neumarkter Straße,25.0,Pets allowed,760,500,48.13155,11.62816
+1389577,2021/05/13 - 12:39:17,Munich,Lerchenauer Straße,18.0,Pets not allowed,820,2200,48.17289,11.56188
+1724185,2021/05/13 - 12:39:19,Munich,Neumarkter Straße,25.0,Pets allowed,860,500,48.13155,11.62816
+1721892,2021/05/13 - 12:39:21,Munich,Neumarkter Straße,25.0,Pets allowed,860,500,48.13155,11.62816
+1724190,2021/05/13 - 12:39:23,Munich,Stahlgruberring,24.0,Pets allowed,660,500,48.13205,11.66897
+1721910,2021/05/13 - 12:39:25,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,950,790,48.17724,11.59296
+1694102,2021/05/13 - 12:39:27,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,950,790,48.17724,11.59296
+1694101,2021/05/13 - 12:39:29,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,950,790,48.17724,11.59296
+1694100,2021/05/13 - 12:39:31,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,790,690,48.17724,11.59296
+1715074,2021/05/13 - 12:39:35,Munich,Aschauer Straße,21.0,Pets not allowed,1050,500,48.10635,11.59963
+1646255,2021/05/13 - 12:39:37,Munich,Karolinenstraße,62.0,Pets allowed,1350,1500,48.1472,11.72788
+1694472,2021/05/13 - 12:39:39,Munich,Albert-Roßhaupter-Straße,21.0,Pets allowed,960,300,48.11706,11.53842
+1692840,2021/05/13 - 12:39:41,Munich,Albert-Roßhaupter-Straße,21.0,Pets allowed,960,300,48.11706,11.53842
+1718244,2021/05/13 - 12:39:43,Munich,Geyerstraße,22.0,Pets negotiable,870,0,48.12268,11.56489
+1721906,2021/05/13 - 12:39:45,Munich,Humboldtstraße,24.0,Pets negotiable,690,690,48.15146,11.68228
+1721905,2021/05/13 - 12:39:48,Munich,Humboldtstraße,24.0,Pets negotiable,690,690,48.15146,11.68228
+1699166,2021/05/13 - 12:39:50,Munich,Humboldtstraße,24.0,Pets negotiable,690,690,48.15146,11.68228
+1694096,2021/05/13 - 12:39:52,Munich,Humboldtstraße,24.0,Pets negotiable,690,690,48.15146,11.68228
+1721908,2021/05/13 - 12:39:54,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,790,690,48.17724,11.59296
+1721907,2021/05/13 - 12:39:56,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,790,690,48.17724,11.59296
+1694099,2021/05/13 - 12:39:59,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,790,690,48.17724,11.59296
+1724191,2021/05/13 - 12:40:01,Munich,Stahlgruberring,24.0,Pets allowed,760,500,48.13205,11.66897
+1724184,2021/05/13 - 12:40:03,Munich,Neumarkter Straße,25.0,Pets allowed,760,500,48.13155,11.62816
+1721891,2021/05/13 - 12:40:05,Munich,Neumarkter Straße,25.0,Pets allowed,760,500,48.13155,11.62816
+1389577,2021/05/13 - 12:40:08,Munich,Lerchenauer Straße,18.0,Pets not allowed,820,2200,48.17289,11.56188
+1724185,2021/05/13 - 12:40:10,Munich,Neumarkter Straße,25.0,Pets allowed,860,500,48.13155,11.62816
+1721892,2021/05/13 - 12:40:12,Munich,Neumarkter Straße,25.0,Pets allowed,860,500,48.13155,11.62816
+1724190,2021/05/13 - 12:40:14,Munich,Stahlgruberring,24.0,Pets allowed,660,500,48.13205,11.66897
+1721910,2021/05/13 - 12:40:16,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,950,790,48.17724,11.59296
+1694102,2021/05/13 - 12:40:18,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,950,790,48.17724,11.59296
+1694101,2021/05/13 - 12:40:20,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,950,790,48.17724,11.59296
+1694100,2021/05/13 - 12:40:23,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,790,690,48.17724,11.59296
+1715074,2021/05/13 - 12:40:27,Munich,Aschauer Straße,21.0,Pets not allowed,1050,500,48.10635,11.59963
+1646255,2021/05/13 - 12:40:29,Munich,Karolinenstraße,62.0,Pets allowed,1350,1500,48.1472,11.72788
+1694472,2021/05/13 - 12:40:31,Munich,Albert-Roßhaupter-Straße,21.0,Pets allowed,960,300,48.11706,11.53842
+1692840,2021/05/13 - 12:40:33,Munich,Albert-Roßhaupter-Straße,21.0,Pets allowed,960,300,48.11706,11.53842
+1718244,2021/05/13 - 12:40:35,Munich,Geyerstraße,22.0,Pets negotiable,870,0,48.12268,11.56489
+1715031,2021/05/13 - 12:40:37,Munich,Karl-Hammerschmidt-Straße,135.0,Pets negotiable,3950,0,48.14996,11.68207
+1715081,2021/05/13 - 12:40:39,Munich,Lindwurmstraße,20.0,Pets not allowed,1395,500,48.12639,11.55157
+1389542,2021/05/13 - 12:40:41,Munich,Lerchenauer Straße,22.0,Pets not allowed,880,2400,48.17289,11.56188
+1719215,2021/05/13 - 12:40:43,Munich,Feldafinger Straße,26.0,Pets not allowed,990,2550,48.09233,11.51887
+1710744,2021/05/13 - 12:40:45,Munich,Fritz-Erler-Straße,21.0,Pets not allowed,1195,1000,48.09739,11.6464
+1596384,2021/05/13 - 12:40:49,Munich,Lerchenauer Straße,20.0,Pets not allowed,700,2000,48.17293189999999,11.5618218
+1721897,2021/05/13 - 12:40:51,Munich,Stahlgruberring,24.0,Pets allowed,760,500,48.13205,11.66897
+1721896,2021/05/13 - 12:40:53,Munich,Stahlgruberring,24.0,Pets allowed,660,500,48.13205,11.66897
+1718253,2021/05/13 - 12:40:55,Munich,Geyerstraße,30.0,Pets negotiable,1140,0,48.12268,11.56489
+1398449,2021/05/13 - 12:40:57,Munich,Lerchenauer Straße,19.0,Pets not allowed,840,2200,48.17289,11.56188
+1705291,2021/05/13 - 12:40:59,Munich,Karl-Hammerschmidt-Straße,80.0,Pets not allowed,2950,0,48.14996,11.68207
+1696329,2021/05/13 - 12:41:01,Munich,Vesaliusstraße,28.0,Pets not allowed,1150,0,48.18946,11.4639
+1699590,2021/05/13 - 12:41:04,Munich,Leonhard-Frank-Straße,28.0,Pets not allowed,1050,2100,48.1659,11.56567
+1721909,2021/05/13 - 12:41:06,Munich,Mies-van-der-Rohe-Straße,24.0,Pets negotiable,950,790,48.17724,11.59296
+1389590,2021/05/13 - 12:41:08,Munich,Lerchenauer Straße,20.0,Pets not allowed,770,2200,48.17293189999999,11.5618218
+1703534,2021/05/13 - 12:41:10,Munich,Fritz-Erler-Straße,25.0,Pets not allowed,1395,1000,48.09739,11.6464
+1611758,2021/05/13 - 12:41:12,Munich,Lerchenauer Straße,22.0,Pets not allowed,850,2400,48.17293189999999,11.5618218
+1611759,2021/05/13 - 12:41:14,Munich,Lerchenauer Straße,20.0,Pets not allowed,800,2400,48.17293189999999,11.5618218
+1389588,2021/05/13 - 12:41:17,Munich,Lerchenauer Straße,20.0,Pets not allowed,800,2000,48.17289,11.56188
+1715078,2021/05/13 - 12:41:19,Munich,Aschauer Straße,28.0,Pets not allowed,1500,500,48.10635,11.59963
+1686318,2021/05/13 - 12:41:21,Munich,Bunzlauer Platz,28.0,Pets negotiable,1490,300,48.17944,11.50608
+1705317,2021/05/13 - 12:41:23,Munich,Karl-Hammerschmidt-Straße,90.0,Pets not allowed,3900,0,48.14996,11.68207
+1705330,2021/05/13 - 12:41:25,Munich,Karl-Hammerschmidt-Straße,110.0,Pets not allowed,6490,0,48.14996,11.68207
+1703827,2021/05/13 - 12:41:27,Munich,Lerchenauer Straße,19.0,Pets not allowed,840,2000,48.18358,11.55335
+1717510,2021/05/13 - 12:41:29,Munich,Kunigundenstraße,55.0,Pets not allowed,1600,1000,48.16767,11.59356
+1690046,2021/05/13 - 12:41:31,Munich,Ottobrunner Straße,24.0,Pets negotiable,1390,1000,48.11177,11.61725
+1652233,2021/05/13 - 12:41:33,Munich,Ottobrunner Straße,24.0,Pets negotiable,1390,1000,48.11177,11.61725
+1702466,2021/05/13 - 12:41:36,Munich,Marsstraße,25.0,Pets not allowed,1100,1500,48.1432,11.559
+1692843,2021/05/13 - 12:41:38,Munich,Albert-Roßhaupter-Straße,21.0,Pets allowed,960,300,48.11706,11.53842
+1712131,2021/05/13 - 12:41:41,Munich,Mettinghstraße,60.0,Pets negotiable,1750,0,48.14616,11.53033
+1715077,2021/05/13 - 12:41:43,Munich,Aschauer Straße,21.0,Pets not allowed,1200,500,48.10635,11.59963
+1707582,2021/05/13 - 12:41:45,Munich,Ebenböckstraße,80.0,Pets not allowed,1690,3400,48.14592,11.46079
+1720560,2021/05/13 - 12:41:47,Munich,Reichenbachstraße,60.0,Pets not allowed,1490,3500,48.13348,11.57596
+1686319,2021/05/13 - 12:41:49,Munich,Bunzlauer Platz,40.0,Pets negotiable,1800,300,48.17944,11.50608
+1644113,2021/05/13 - 12:41:52,Munich,Bunzlauer Platz,40.0,Pets negotiable,1800,300,48.17944,11.50608
+1663114,2021/05/13 - 12:41:54,Munich,Schellingstraße,50.0,Pets allowed,1495,1000,48.15276,11.56789
+1717327,2021/05/13 - 12:41:56,Munich,Fritz-Erler-Straße,25.0,Pets not allowed,1295,1000,48.09739,11.6464
+1717326,2021/05/13 - 12:41:58,Munich,Fritz-Erler-Straße,21.0,Pets not allowed,1295,1000,48.09739,11.6464
+1700038,2021/05/13 - 12:42:01,Munich,Fritz-Erler-Straße,25.0,Pets not allowed,1295,1000,48.09739,11.6464
+1655587,2021/05/13 - 12:42:03,Munich,Fritz-Erler-Straße,21.0,Pets not allowed,1295,1000,48.09739,11.6464
+1719751,2021/05/13 - 12:42:05,Munich,Leonrodstraße,56.0,Pets negotiable,1290,2800,48.15782,11.54585
+1696256,2021/05/13 - 12:42:07,Munich,Amalienburgstraße,24.0,Pets negotiable,1150,0,48.16382,11.48732
+1674728,2021/05/13 - 12:42:09,Munich,Rümannstraße,35.0,Pets not allowed,1250,2500,48.17599,11.57854
+1717344,2021/05/13 - 12:42:11,Munich,Fritz-Erler-Straße,25.0,Pets not allowed,1395,1000,48.09739,11.6464
+1715562,2021/05/13 - 12:42:13,Munich,Frankfurter Ring,25.0,Pets not allowed,1100,500,48.18721,11.57107
+1718227,2021/05/13 - 12:42:16,Munich,Paschstraße,22.0,Pets negotiable,990,0,48.16539,11.53396
+1679008,2021/05/13 - 12:42:18,Munich,Neunkirchner Straße,55.0,Pets not allowed,1750,3500,48.09229,11.53772
+1700509,2021/05/13 - 12:42:20,Munich,Fritz-Erler-Straße,30.0,Pets not allowed,1495,1000,48.09739,11.6464
+1648416,2021/05/13 - 12:42:22,Munich,Fritz-Erler-Straße,25.0,Pets not allowed,1495,1000,48.09739,11.6464
+1686320,2021/05/13 - 12:42:24,Munich,Bunzlauer Platz,45.0,Pets negotiable,2100,300,48.17944,11.50608
+1707572,2021/05/13 - 12:42:26,Munich,Sudetenstraße,45.0,Pets not allowed,1500,2800,48.03293,11.71644
+1655901,2021/05/13 - 12:42:29,Munich,Mauerkircherstraße,62.0,Pets negotiable,1450,2000,48.15914,11.61257
+1705378,2021/05/13 - 12:42:31,Munich,Lindenstraße,75.0,Pets not allowed,1299,4000,48.22869,11.66636
+1706739,2021/05/13 - 12:42:33,Munich,Tumblingerstraße,30.0,Pets negotiable,990,2000,48.12344,11.55406
+1721022,2021/05/13 - 12:42:35,Munich,Schwanseestraße,56.0,Pets not allowed,1250,2500,48.10448,11.5973
+1716690,2021/05/13 - 12:42:37,Munich,Johann-Clanze-Straße,53.0,Pets not allowed,1490,3000,48.11232,11.52954
+1722844,2021/05/13 - 12:42:39,Munich,Brittingweg,55.0,Pets not allowed,1550,3100,48.10295,11.65549
+1710023,2021/05/13 - 12:42:41,Munich,Aidenbachstraße,50.0,Pets not allowed,1550,3100,48.09611,11.52353
+1666744,2021/05/13 - 12:42:43,Munich,Tassiloplatz,52.0,Pets negotiable,3000,3000,48.12276,11.59646
+1717329,2021/05/13 - 12:42:46,Munich,Fritz-Erler-Straße,28.0,Pets not allowed,1595,1000,48.09739,11.6464
+1271417,2021/05/13 - 12:42:48,Munich,Georg-Reismüller-Straße,40.0,Pets not allowed,1350,3000,48.1948893,11.4637448
+1719497,2021/05/13 - 12:42:56,Munich,Guldeinstraße,48.0,Pets not allowed,1390,2780,48.13899,11.53344
+1715552,2021/05/13 - 12:42:58,Munich,Frankfurter Ring,25.0,Pets not allowed,900,500,48.18721,11.57107
+1652204,2021/05/13 - 12:43:00,Munich,Ottobrunner Straße,68.0,Pets negotiable,1890,1000,48.11177,11.61725
+1644114,2021/05/13 - 12:43:03,Munich,Bunzlauer Platz,45.0,Pets negotiable,2100,300,48.17944,11.50608
+1718252,2021/05/13 - 12:43:05,Munich,Mühlfeldweg,21.0,Pets negotiable,1110,0,48.24452,11.65498
+1700047,2021/05/13 - 12:43:07,Munich,Fritz-Erler-Straße,25.0,Pets not allowed,1295,1000,48.09739,11.6464
+1707334,2021/05/13 - 12:43:11,Munich,Zenettistraße,60.0,Pets not allowed,2500,1000,48.1265,11.55329
+1707314,2021/05/13 - 12:43:13,Munich,Zenettistraße,30.0,Pets not allowed,1900,400,48.1265,11.55329
+1708845,2021/05/13 - 12:43:15,Munich,Schlierseestraße,68.0,Pets negotiable,1605,0,48.11139,11.59467
+1702348,2021/05/13 - 12:43:17,Munich,Parkstraße,44.0,Pets not allowed,1290,2680,48.1374,11.54459
+1643133,2021/05/13 - 12:43:20,Munich,Wilhelm-Hertz-Straße,75.0,Pets not allowed,1980,3960,48.1762,11.58789
+1721010,2021/05/13 - 12:43:22,Munich,Hübnerstraße,66.0,Pets not allowed,1450,500,48.15843,11.53945
+1679721,2021/05/13 - 12:43:23,Munich,Ostpreußenstraße,83.0,Pets not allowed,1750,1000,48.15625,11.64135
+1724147,2021/05/13 - 12:43:26,Munich,Mitterwieserstraße,60.0,Pets negotiable,1770,3540,48.16226,11.56263
+1717331,2021/05/13 - 12:43:28,Munich,Fritz-Erler-Straße,30.0,Pets not allowed,1495,1000,48.09739,11.6464
+1717325,2021/05/13 - 12:43:30,Munich,Fritz-Erler-Straße,25.0,Pets not allowed,1495,1000,48.09739,11.6464
+1676059,2021/05/13 - 12:43:32,Munich,Am Oberwiesenfeld,36.0,Pets negotiable,1800,0,48.18851,11.54327
+1717319,2021/05/13 - 12:43:34,Munich,Fritz-Erler-Straße,25.0,Pets not allowed,1295,1000,48.09739,11.6464
+1700372,2021/05/13 - 12:43:36,Munich,Drygalski-Allee,70.0,Pets allowed,1500,2000,48.08246,11.50314
+1695179,2021/05/13 - 12:43:38,Munich,Landsberger Straße,65.0,Pets not allowed,2140,2000,48.1394806,11.5463642
+1652538,2021/05/13 - 12:43:40,Munich,Freischützstraße,62.0,Pets not allowed,1750,1000,48.15824,11.64109
+1720655,2021/05/13 - 12:43:42,Munich,Rupprechtstraße,75.0,Pets negotiable,2500,5000,48.14749,11.54249
+1684461,2021/05/13 - 12:43:45,Munich,Nördliche Auffahrtsallee,50.0,Pets allowed,1600,500,48.15939,11.52262
+1717317,2021/05/13 - 12:43:47,Munich,Fritz-Erler-Straße,30.0,Pets not allowed,1595,2000,48.09739,11.6464
+1630363,2021/05/13 - 12:43:49,Munich,Fritz-Erler-Straße,30.0,Pets not allowed,1595,2000,48.09739,11.6464
+1718032,2021/05/13 - 12:43:51,Munich,Leipartstraße,57.0,Pets not allowed,1400,4200,48.10873,11.53676
+1678999,2021/05/13 - 12:43:53,Munich,Ganghoferstraße,120.0,Pets not allowed,2590,4900,48.1316,11.54046
+1718217,2021/05/13 - 12:43:55,Munich,Paschstraße,22.0,Pets negotiable,1080,0,48.16539,11.53396
+1712223,2021/05/13 - 12:43:57,Munich,Mettinghstraße,60.0,Pets negotiable,1750,0,48.14616,11.53033
+1409547,2021/05/13 - 12:43:59,Munich,Baaderstraße,60.0,Pets not allowed,2400,0,48.12944,11.57742
+1703467,2021/05/13 - 12:44:01,Munich,Schwanthalerstraße,55.0,Pets not allowed,1490,300,48.13727,11.55841
+1652227,2021/05/13 - 12:44:04,Munich,Ottobrunner Straße,58.0,Pets negotiable,2390,1000,48.11177,11.61725
+1697559,2021/05/13 - 12:44:06,Munich,Tal,31.0,Pets not allowed,999,2500,48.13566,11.5799
+1658885,2021/05/13 - 12:44:08,Munich,Fröttmaninger Straße,70.0,Pets not allowed,1995,5000,48.17759,11.59792
+1703468,2021/05/13 - 12:44:10,Munich,Schwanthalerstraße,60.0,Pets not allowed,1590,300,48.13727,11.55841
+1689791,2021/05/13 - 12:44:12,Munich,Schwanthalerstraße,32.0,Pets negotiable,1600,3200,48.13711,11.5565
+1672249,2021/05/13 - 12:44:14,Munich,Schwanthalerstraße,32.0,Pets negotiable,1600,3200,48.13711,11.5565
+1658134,2021/05/13 - 12:44:17,Munich,Mutschellestraße,57.0,Pets negotiable,1600,3000,48.12543,11.63826
+1723230,2021/05/13 - 12:44:19,Munich,Kafkastraße,69.0,Pets not allowed,1850,3700,48.09787,11.64872
+1700051,2021/05/13 - 12:44:21,Munich,Fritz-Erler-Straße,28.0,Pets not allowed,1595,1000,48.09739,11.6464
+1705323,2021/05/13 - 12:44:23,Munich,Karl-Hammerschmidt-Straße,110.0,Pets not allowed,4200,0,48.14996,11.68207
+1709646,2021/05/13 - 12:44:25,Munich,Kristallstraße,83.4,Pets negotiable,1690,5250,48.21399,11.48648
+1723237,2021/05/13 - 12:44:27,Munich,Lindenstraße,55.0,Pets not allowed,1199,3600,48.22869,11.66636
+1724084,2021/05/13 - 12:44:29,Munich,Unterbiberger Straße,91.0,Pets negotiable,1935,5150,48.08372,11.62743
+1696715,2021/05/13 - 12:44:31,Munich,Grete-Mosheim-Straße,43.0,Pets negotiable,1500,3000,48.14385,11.54501
+1678259,2021/05/13 - 12:44:33,Munich,Landsberger Straße,74.0,Pets not allowed,2754,2000,48.1394806,11.5463642
+1655258,2021/05/13 - 12:44:35,Munich,Neunkirchner Straße,55.0,Pets not allowed,1750,3500,48.09229,11.53772
+1703466,2021/05/13 - 12:44:37,Munich,Schwanthalerstraße,45.0,Pets not allowed,2490,300,48.13727,11.55841
+1705370,2021/05/13 - 12:44:40,Munich,Georgenstraße,60.0,Pets not allowed,1450,2600,48.15667,11.56485
+1689789,2021/05/13 - 12:44:42,Munich,Schwanthalerstraße,32.0,Pets negotiable,1600,3200,48.13711,11.5565
+1708842,2021/05/13 - 12:44:44,Munich,Hermine-von-Parish-Straße,91.0,Pets negotiable,2290,0,48.14943,11.47849
+1552917,2021/05/13 - 12:44:46,Munich,Drygalski-Allee,70.0,Pets not allowed,1390,1900,48.08246,11.50314
+1696468,2021/05/13 - 12:44:48,Munich,Sonnenstraße,34.0,Pets negotiable,2600,0,48.13617,11.56448
+1678263,2021/05/13 - 12:44:50,Munich,Landsberger Straße,64.0,Pets not allowed,2354,2000,48.1394806,11.5463642
+1717318,2021/05/13 - 12:44:52,Munich,Fritz-Erler-Straße,50.0,Pets not allowed,1695,1595,48.09739,11.6464
+1395810,2021/05/13 - 12:44:54,Munich,Fritz-Erler-Straße,50.0,Pets not allowed,1695,1595,48.09739,11.6464
+1712242,2021/05/13 - 12:44:56,Munich,Sudetenstraße,85.0,Pets not allowed,1980,4000,48.03293,11.71644
+1710699,2021/05/13 - 12:45:11,Dusseldorf,Ellerstraße,20.0,Pets not allowed,710,1200,51.21539,6.79858
+1724148,2021/05/13 - 12:45:13,Dusseldorf,Moskauer Straße,25.0,Pets not allowed,660,500,51.22102,6.80302
+1721872,2021/05/13 - 12:45:15,Dusseldorf,Moskauer Straße,25.0,Pets not allowed,660,500,51.22102,6.80302
+1718361,2021/05/13 - 12:45:17,Dusseldorf,Kirchfeldstraße,25.0,Pets negotiable,900,0,51.21231,6.77587
+1719840,2021/05/13 - 12:45:19,Dusseldorf,Brückenstraße,34.0,Pets not allowed,850,1700,51.21598,6.75917
+1724149,2021/05/13 - 12:45:21,Dusseldorf,Moskauer Straße,25.0,Pets not allowed,760,500,51.22102,6.80302
+1721873,2021/05/13 - 12:45:24,Dusseldorf,Moskauer Straße,25.0,Pets not allowed,760,500,51.22102,6.80302
+1705818,2021/05/13 - 12:45:26,Dusseldorf,Charlottenstraße,34.0,Pets not allowed,1050,1050,51.22123,6.78793
+1705843,2021/05/13 - 12:45:28,Dusseldorf,Charlottenstraße,31.0,Pets not allowed,950,950,51.22123,6.78793
+1705836,2021/05/13 - 12:45:30,Dusseldorf,Charlottenstraße,31.0,Pets not allowed,950,950,51.22123,6.78793
+1711349,2021/05/13 - 12:45:32,Dusseldorf,Harleßstraße,24.0,Pets negotiable,799,500,51.2445,6.79983
+1717355,2021/05/13 - 12:45:34,Dusseldorf,Hoffeldstraße,38.0,Pets negotiable,1150,1200,51.22699,6.81498
+1711689,2021/05/13 - 12:45:36,Dusseldorf,Harleßstraße,27.0,Pets negotiable,799,500,51.2445,6.79983
+1705841,2021/05/13 - 12:45:38,Dusseldorf,Charlottenstraße,31.0,Pets not allowed,990,995,51.22123,6.78793
+1705823,2021/05/13 - 12:45:40,Dusseldorf,Charlottenstraße,31.0,Pets not allowed,990,995,51.22123,6.78793
+1718013,2021/05/13 - 12:45:42,Dusseldorf,Derfflingerstraße,65.0,Pets not allowed,1150,1150,51.25745,6.81531
+1722984,2021/05/13 - 12:45:44,Dusseldorf,Merziger Straße,20.0,Pets not allowed,660,0,51.2503358,6.7870948
+1718034,2021/05/13 - 12:45:47,Dusseldorf,Reisholzer Straße,100.0,Pets not allowed,590,1200,51.20634,6.8328
+1705840,2021/05/13 - 12:45:49,Dusseldorf,Charlottenstraße,34.0,Pets not allowed,1050,1050,51.22123,6.78793
+1716967,2021/05/13 - 12:45:53,Dusseldorf,Hoffeldstraße,38.0,Pets negotiable,1150,1200,51.22699,6.81498
+1722111,2021/05/13 - 12:45:55,Dusseldorf,Karl-Anton-Straße,56.0,Pets negotiable,1200,500,51.22539,6.79334
+1709049,2021/05/13 - 12:45:57,Dusseldorf,Ahnfeldstraße,40.0,Pets not allowed,900,1000,51.24032,6.79778
+1714052,2021/05/13 - 12:45:59,Dusseldorf,Oldenburger Straße,58.0,Pets not allowed,1000,1000,51.26864,6.77622
+1710699,2021/05/13 - 12:46:01,Dusseldorf,Ellerstraße,20.0,Pets not allowed,710,1200,51.21539,6.79858
+1724148,2021/05/13 - 12:46:05,Dusseldorf,Moskauer Straße,25.0,Pets not allowed,660,500,51.22102,6.80302
+1721872,2021/05/13 - 12:46:07,Dusseldorf,Moskauer Straße,25.0,Pets not allowed,660,500,51.22102,6.80302
+1718361,2021/05/13 - 12:46:09,Dusseldorf,Kirchfeldstraße,25.0,Pets negotiable,900,0,51.21231,6.77587
+1719840,2021/05/13 - 12:46:11,Dusseldorf,Brückenstraße,34.0,Pets not allowed,850,1700,51.21598,6.75917
+1724149,2021/05/13 - 12:46:13,Dusseldorf,Moskauer Straße,25.0,Pets not allowed,760,500,51.22102,6.80302
+1721873,2021/05/13 - 12:46:15,Dusseldorf,Moskauer Straße,25.0,Pets not allowed,760,500,51.22102,6.80302
+1705818,2021/05/13 - 12:46:17,Dusseldorf,Charlottenstraße,34.0,Pets not allowed,1050,1050,51.22123,6.78793
+1705843,2021/05/13 - 12:46:19,Dusseldorf,Charlottenstraße,31.0,Pets not allowed,950,950,51.22123,6.78793
+1705836,2021/05/13 - 12:46:21,Dusseldorf,Charlottenstraße,31.0,Pets not allowed,950,950,51.22123,6.78793
+1711349,2021/05/13 - 12:46:23,Dusseldorf,Harleßstraße,24.0,Pets negotiable,799,500,51.2445,6.79983
+1717355,2021/05/13 - 12:46:26,Dusseldorf,Hoffeldstraße,38.0,Pets negotiable,1150,1200,51.22699,6.81498
+1711689,2021/05/13 - 12:46:28,Dusseldorf,Harleßstraße,27.0,Pets negotiable,799,500,51.2445,6.79983
+1705841,2021/05/13 - 12:46:30,Dusseldorf,Charlottenstraße,31.0,Pets not allowed,990,995,51.22123,6.78793
+1705823,2021/05/13 - 12:46:32,Dusseldorf,Charlottenstraße,31.0,Pets not allowed,990,995,51.22123,6.78793
+1718013,2021/05/13 - 12:46:34,Dusseldorf,Derfflingerstraße,65.0,Pets not allowed,1150,1150,51.25745,6.81531
+1722984,2021/05/13 - 12:46:36,Dusseldorf,Merziger Straße,20.0,Pets not allowed,660,0,51.2503358,6.7870948
+1718034,2021/05/13 - 12:46:38,Dusseldorf,Reisholzer Straße,100.0,Pets not allowed,590,1200,51.20634,6.8328
+1705840,2021/05/13 - 12:46:41,Dusseldorf,Charlottenstraße,34.0,Pets not allowed,1050,1050,51.22123,6.78793
+1716967,2021/05/13 - 12:46:45,Dusseldorf,Hoffeldstraße,38.0,Pets negotiable,1150,1200,51.22699,6.81498
+1722111,2021/05/13 - 12:46:48,Dusseldorf,Karl-Anton-Straße,56.0,Pets negotiable,1200,500,51.22539,6.79334
+1709049,2021/05/13 - 12:46:50,Dusseldorf,Ahnfeldstraße,40.0,Pets not allowed,900,1000,51.24032,6.79778
+1714052,2021/05/13 - 12:46:52,Dusseldorf,Oldenburger Straße,58.0,Pets not allowed,1000,1000,51.26864,6.77622
+1715442,2021/05/13 - 12:46:54,Dusseldorf,Collenbachstraße,42.0,Pets negotiable,1000,500,51.2438,6.78295
+1723918,2021/05/13 - 12:46:56,Dusseldorf,Oberbilker Allee,60.0,Pets negotiable,1300,1000,51.21096,6.78545
+1713953,2021/05/13 - 12:46:58,Dusseldorf,Gneisenaustraße,30.0,Pets not allowed,695,800,51.23907,6.78377
+1718580,2021/05/13 - 12:47:01,Dusseldorf,Gottfried-Keller-Straße,45.0,Pets negotiable,950,200,51.26061,6.75716
+1711913,2021/05/13 - 12:47:03,Dusseldorf,Mathildenstraße,24.0,Pets negotiable,799,500,51.24363,6.80792
+1722679,2021/05/13 - 12:47:05,Dusseldorf,Klapheckstraße,73.0,Pets not allowed,1490,1490,51.25927,6.75859
+1713751,2021/05/13 - 12:47:07,Dusseldorf,Radeberger Straße,60.0,Pets negotiable,1500,2000,51.2289,6.84812
+1613665,2021/05/13 - 12:47:09,Dusseldorf,Geibelstraße,45.0,Pets not allowed,990,1980,51.24252,6.82311
+1715489,2021/05/13 - 12:47:11,Dusseldorf,Glockenstraße,30.0,Pets not allowed,849,2790,51.24546,6.78685
+1705842,2021/05/13 - 12:47:13,Dusseldorf,Charlottenstraße,34.0,Pets not allowed,1050,1100,51.22123,6.78793
+1705795,2021/05/13 - 12:47:16,Dusseldorf,Charlottenstraße,34.0,Pets not allowed,1050,1100,51.22123,6.78793
+1720936,2021/05/13 - 12:47:18,Dusseldorf,Weseler Straße,30.0,Pets allowed,850,1500,51.24086,6.79889
+1704583,2021/05/13 - 12:47:20,Dusseldorf,Westfalenstraße,30.0,Pets not allowed,850,0,51.26296,6.8168
+1709069,2021/05/13 - 12:47:22,Dusseldorf,Moltkestraße,35.0,Pets not allowed,1100,600,51.23666,6.79301
+1717989,2021/05/13 - 12:47:24,Dusseldorf,Füsilierstraße,50.0,Pets negotiable,1040,1800,51.25029,6.77988
+1717578,2021/05/13 - 12:47:26,Dusseldorf,Kurfürstenstraße,48.0,Pets not allowed,1180,2360,51.22356,6.79328
+1711909,2021/05/13 - 12:47:28,Dusseldorf,Hansaplatz,49.0,Pets negotiable,990,650,51.24601,6.80335
+1709077,2021/05/13 - 12:47:30,Dusseldorf,Moltkestraße,35.0,Pets not allowed,1200,600,51.23666,6.79301
+1720880,2021/05/13 - 12:47:32,Dusseldorf,Grupellostraße,56.0,Pets negotiable,1200,1200,51.22076,6.78691
+1704584,2021/05/13 - 12:47:34,Dusseldorf,Dorstener Straße,45.0,Pets not allowed,1200,0,51.2707,6.79669
+1722166,2021/05/13 - 12:47:39,Dusseldorf,Brehmstraße,72.0,Pets not allowed,1200,1000,51.24256,6.80179
+1712204,2021/05/13 - 12:47:41,Dusseldorf,Rethelstraße,50.0,Pets negotiable,910,3600,51.23594,6.79765
+1713912,2021/05/13 - 12:47:43,Dusseldorf,Görlitzer Straße,54.0,Pets negotiable,1250,0,51.20208,6.72161
+1716604,2021/05/13 - 12:47:45,Dusseldorf,Jahnstraße,45.0,Pets negotiable,1050,1500,51.21443,6.78072
+1724005,2021/05/13 - 12:47:50,Dusseldorf,Hohe Straße,50.0,Pets not allowed,1650,1750,51.22069,6.77401
+1718920,2021/05/13 - 12:47:52,Dusseldorf,Kirchstraße,60.0,Pets not allowed,1420,2140,51.21374,6.80321
+1712112,2021/05/13 - 12:47:54,Dusseldorf,Gustav-Poensgen-Straße,35.0,Pets not allowed,1000,0,51.21244,6.78866
+1667253,2021/05/13 - 12:47:58,Dusseldorf,Münsterstraße,90.0,Pets negotiable,1950,1950,51.24483,6.78807
+1711820,2021/05/13 - 12:48:01,Dusseldorf,Lennéstraße,68.0,Pets not allowed,1300,2500,51.23946,6.79134
+1711833,2021/05/13 - 12:48:03,Dusseldorf,Plockstraße,70.0,Pets not allowed,1300,2500,51.21008,6.7547
+1673897,2021/05/13 - 12:48:06,Dusseldorf,Karl-Anton-Straße,55.0,Pets not allowed,1300,500,51.22539,6.79334
+1719745,2021/05/13 - 12:48:08,Dusseldorf,Am Holderbusch,70.0,Pets not allowed,1290,1080,51.20766,6.84986
+1709191,2021/05/13 - 12:48:12,Dusseldorf,Gertrudisplatz,37.0,Pets negotiable,1095,2500,51.20107,6.83856
+1712211,2021/05/13 - 12:48:15,Dusseldorf,Glatzer Straße,40.0,Pets not allowed,2100,0,51.21068,6.83655
+1712213,2021/05/13 - 12:48:18,Dusseldorf,Glatzer Straße,40.0,Pets not allowed,3300,0,51.21068,6.83655
+1718670,2021/05/13 - 12:48:20,Dusseldorf,Schirmerstraße,51.0,Pets negotiable,1150,1200,51.23109,6.79399
+1664844,2021/05/13 - 12:48:22,Dusseldorf,Tannenstraße,36.0,Pets not allowed,1199,0,51.25082,6.77975
+1714335,2021/05/13 - 12:48:26,Dusseldorf,Gustav-Poensgen-Straße,35.0,Pets not allowed,1250,0,51.21244,6.78866
+1712234,2021/05/13 - 12:48:31,Dusseldorf,Gustav-Poensgen-Straße,35.0,Pets not allowed,1250,0,51.21244,6.78866
+1710339,2021/05/13 - 12:48:33,Dusseldorf,Rethelstraße,50.0,Pets negotiable,910,3600,51.23594,6.79765
+1705844,2021/05/13 - 12:48:38,Dusseldorf,Charlottenstraße,42.45,Pets not allowed,1250,1250,51.22123,6.78793
+1705824,2021/05/13 - 12:48:42,Dusseldorf,Charlottenstraße,42.45,Pets not allowed,1250,1250,51.22123,6.78793
+1665688,2021/05/13 - 12:48:46,Dusseldorf,Parkstraße,55.0,Pets negotiable,1190,2200,51.23803,6.78248
+1722633,2021/05/13 - 12:48:50,Dusseldorf,Tußmannstraße,68.0,Pets allowed,1190,2200,51.23985,6.79305
+1720833,2021/05/13 - 12:48:53,Dusseldorf,Tannenstraße,80.0,Pets negotiable,1850,4000,51.25031,6.7773
+1720898,2021/05/13 - 12:49:11,Cologne,Mauenheimer Straße,27.0,Pets not allowed,700,1400,50.96843,6.94446
+1724072,2021/05/13 - 12:49:13,Cologne,Rixdorfer Straße,30.0,Pets not allowed,400,300,50.97565,7.01186
+1721609,2021/05/13 - 12:49:15,Cologne,Heidelberger Straße,17.0,Pets not allowed,980,3360,50.95187,7.00838
+1718794,2021/05/13 - 12:49:18,Cologne,Am Tetzerkamp,33.0,Pets negotiable,800,1000,50.98436,6.94483
+1387777,2021/05/13 - 12:49:20,Cologne,Siegesstraße,40.0,Pets not allowed,1240,1200,50.9387009,6.9746172
+1703166,2021/05/13 - 12:49:22,Cologne,Mauenheimer Straße,30.0,Pets negotiable,850,990,50.96606,6.95201
+1716477,2021/05/13 - 12:49:24,Cologne,Bismarckstraße,26.0,Pets negotiable,790,1580,50.94239,6.93842
+1713616,2021/05/13 - 12:49:26,Cologne,Neuhöfferstraße,35.0,Pets not allowed,940,1776,50.93756,6.97523
+1379643,2021/05/13 - 12:49:28,Cologne,Vogelsanger Straße,55.0,Pets not allowed,1650,1650,50.955364,6.8855894
+1717473,2021/05/13 - 12:49:30,Cologne,Weißer Straße,41.0,Pets negotiable,1040,1040,50.88696,7.00242
+1717910,2021/05/13 - 12:49:32,Cologne,Friesenwall,29.0,Pets not allowed,1140,1000,50.94135,6.94154
+1717867,2021/05/13 - 12:49:35,Cologne,Friesenwall,29.0,Pets not allowed,1090,1000,50.94129,6.94153
+1717888,2021/05/13 - 12:49:37,Cologne,Friesenwall,44.0,Pets not allowed,1450,1500,50.94129,6.94153
+1712340,2021/05/13 - 12:49:39,Cologne,Waldecker Straße,55.0,Pets not allowed,1550,3100,50.9495,7.00568
+1387559,2021/05/13 - 12:49:41,Cologne,Hohenzollernring,65.0,Pets not allowed,1860,2000,50.9398068,6.940206300000001
+1721585,2021/05/13 - 12:49:43,Cologne,Heidelberger Straße,32.0,Pets not allowed,1680,3360,50.95187,7.00838
+1387770,2021/05/13 - 12:49:45,Cologne,Roonstraße,38.0,Pets not allowed,1460,1500,50.9325581,6.9356155
+1715806,2021/05/13 - 12:49:47,Cologne,Deutz-Mülheimer Straße,60.0,Pets negotiable,1200,2000,50.95779,6.99467
+1718002,2021/05/13 - 12:49:49,Cologne,Aachener Straße,42.0,Pets not allowed,2000,1000,50.93663,6.93525
+1717880,2021/05/13 - 12:49:52,Cologne,Friesenwall,34.0,Pets not allowed,1170,1000,50.94129,6.94153
+1387722,2021/05/13 - 12:49:54,Cologne,Limburger Straße,45.0,Pets not allowed,2150,2000,50.9398793,6.938379299999999
+1689397,2021/05/13 - 12:49:56,Cologne,Waldstraße,20.0,Pets not allowed,990,1980,50.88142,7.09611
+1722684,2021/05/13 - 12:49:58,Cologne,Friesenplatz,60.0,Pets not allowed,1350,1500,50.94076,6.93864
+1527679,2021/05/13 - 12:50:01,Cologne,Gereonshof,60.0,Pets not allowed,1690,1690,50.9429,6.94202
+1720898,2021/05/13 - 12:50:05,Cologne,Mauenheimer Straße,27.0,Pets not allowed,700,1400,50.96843,6.94446
+1724072,2021/05/13 - 12:50:07,Cologne,Rixdorfer Straße,30.0,Pets not allowed,400,300,50.97565,7.01186
+1721609,2021/05/13 - 12:50:09,Cologne,Heidelberger Straße,17.0,Pets not allowed,980,3360,50.95187,7.00838
+1718794,2021/05/13 - 12:50:12,Cologne,Am Tetzerkamp,33.0,Pets negotiable,800,1000,50.98436,6.94483
+1387777,2021/05/13 - 12:50:14,Cologne,Siegesstraße,40.0,Pets not allowed,1240,1200,50.9387009,6.9746172
+1703166,2021/05/13 - 12:50:18,Cologne,Mauenheimer Straße,30.0,Pets negotiable,850,990,50.96606,6.95201
+1716477,2021/05/13 - 12:50:21,Cologne,Bismarckstraße,26.0,Pets negotiable,790,1580,50.94239,6.93842
+1713616,2021/05/13 - 12:50:23,Cologne,Neuhöfferstraße,35.0,Pets not allowed,940,1776,50.93756,6.97523
+1379643,2021/05/13 - 12:50:25,Cologne,Vogelsanger Straße,55.0,Pets not allowed,1650,1650,50.955364,6.8855894
+1717473,2021/05/13 - 12:50:27,Cologne,Weißer Straße,41.0,Pets negotiable,1040,1040,50.88696,7.00242
+1717910,2021/05/13 - 12:50:30,Cologne,Friesenwall,29.0,Pets not allowed,1140,1000,50.94135,6.94154
+1717867,2021/05/13 - 12:50:32,Cologne,Friesenwall,29.0,Pets not allowed,1090,1000,50.94129,6.94153
+1717888,2021/05/13 - 12:50:34,Cologne,Friesenwall,44.0,Pets not allowed,1450,1500,50.94129,6.94153
+1712340,2021/05/13 - 12:50:36,Cologne,Waldecker Straße,55.0,Pets not allowed,1550,3100,50.9495,7.00568
+1387559,2021/05/13 - 12:50:39,Cologne,Hohenzollernring,65.0,Pets not allowed,1860,2000,50.9398068,6.940206300000001
+1721585,2021/05/13 - 12:50:41,Cologne,Heidelberger Straße,32.0,Pets not allowed,1680,3360,50.95187,7.00838
+1387770,2021/05/13 - 12:50:43,Cologne,Roonstraße,38.0,Pets not allowed,1460,1500,50.9325581,6.9356155
+1715806,2021/05/13 - 12:50:45,Cologne,Deutz-Mülheimer Straße,60.0,Pets negotiable,1200,2000,50.95779,6.99467
+1718002,2021/05/13 - 12:50:48,Cologne,Aachener Straße,42.0,Pets not allowed,2000,1000,50.93663,6.93525
+1717880,2021/05/13 - 12:50:50,Cologne,Friesenwall,34.0,Pets not allowed,1170,1000,50.94129,6.94153
+1387722,2021/05/13 - 12:50:53,Cologne,Limburger Straße,45.0,Pets not allowed,2150,2000,50.9398793,6.938379299999999
+1689397,2021/05/13 - 12:50:55,Cologne,Waldstraße,20.0,Pets not allowed,990,1980,50.88142,7.09611
+1722684,2021/05/13 - 12:50:57,Cologne,Friesenplatz,60.0,Pets not allowed,1350,1500,50.94076,6.93864
+1527679,2021/05/13 - 12:50:59,Cologne,Gereonshof,60.0,Pets not allowed,1690,1690,50.9429,6.94202
+1721399,2021/05/13 - 12:51:01,Cologne,Heidelberger Straße,60.0,Pets not allowed,1980,3360,50.95187,7.00838
+1673491,2021/05/13 - 12:51:03,Cologne,Blaubach,32.0,Pets negotiable,699,1798,50.93167,6.95356
+1387558,2021/05/13 - 12:51:06,Cologne,Hohenzollernring,58.0,Pets not allowed,2280,2500,50.9398068,6.940206300000001
+1680814,2021/05/13 - 12:51:08,Cologne,Waldecker Straße,33.0,Pets not allowed,1150,2300,50.9495,7.00568
+1711490,2021/05/13 - 12:51:10,Cologne,Gaußstraße,64.0,Pets negotiable,1390,2980,50.95124,6.9911
+1714402,2021/05/13 - 12:51:12,Cologne,Hülchrather Straße,54.0,Pets not allowed,1550,2000,50.95305,6.96106
+1387408,2021/05/13 - 12:51:15,Cologne,Ehrenstraße,50.0,Pets not allowed,1890,2000,50.9385248,6.9437598
+1719369,2021/05/13 - 12:51:18,Cologne,Dellbrücker Hauptstraße,38.0,Pets not allowed,850,1500,50.97668,7.0726
+1700421,2021/05/13 - 12:51:20,Cologne,Bismarckstraße,50.0,Pets negotiable,1490,2780,50.94239,6.93842
+1693915,2021/05/13 - 12:51:22,Cologne,Nikolausstraße,30.0,Pets not allowed,1140,1000,50.92,6.92393
+1722146,2021/05/13 - 12:51:24,Cologne,Tempelstraße,28.0,Pets not allowed,875,500,50.93558,6.97333
+1718783,2021/05/13 - 12:51:26,Cologne,Venloer Straße,62.0,Pets not allowed,1190,0,50.95473,6.90873
+1414523,2021/05/13 - 12:51:28,Cologne,Hartwichstraße,35.0,Pets negotiable,990,2000,50.9584,6.94587
+1717857,2021/05/13 - 12:51:30,Cologne,Schulze-Delitzsch-Straße,106.0,Pets negotiable,1600,2000,50.89897,6.95116
+1722143,2021/05/13 - 12:51:32,Cologne,Tempelstraße,22.0,Pets not allowed,815,500,50.93558,6.97333
+1716475,2021/05/13 - 12:51:34,Cologne,Bismarckstraße,70.0,Pets negotiable,1650,3300,50.94239,6.93842
+1722276,2021/05/13 - 12:51:36,Cologne,Heidelberger Straße,49.0,Pets not allowed,2500,3360,50.95187,7.00838
+1718781,2021/05/13 - 12:51:38,Cologne,Griesberger Straße,90.0,Pets not allowed,1020,2000,51.01436,6.85707
+1721746,2021/05/13 - 12:51:40,Cologne,Siegburger Straße,53.0,Pets not allowed,1400,0,50.9271,6.97671
+1719457,2021/05/13 - 12:51:42,Cologne,Erlanger Straße,90.0,Pets not allowed,1500,500,50.93853,7.02717
+1631346,2021/05/13 - 12:51:44,Cologne,Hohenzollernring,40.0,Pets negotiable,1250,1000,50.93868,6.93982
+1688493,2021/05/13 - 12:51:46,Cologne,Kirchweg,60.0,Pets negotiable,1199,2398,50.93355,6.85963
+1684910,2021/05/13 - 12:51:49,Cologne,Bismarckstraße,70.0,Pets negotiable,1650,3300,50.94239,6.93842
+1414435,2021/05/13 - 12:51:51,Cologne,Hartwichstraße,33.0,Pets negotiable,1150,2000,50.9584,6.94587
+1403543,2021/05/13 - 12:51:53,Cologne,Hartwichstraße,42.0,Pets negotiable,1150,3000,50.95829,6.944999999999999
+1702203,2021/05/13 - 12:51:55,Cologne,An Groß Sankt Martin,48.0,Pets not allowed,1150,500,50.93896,6.9612
+1387771,2021/05/13 - 12:51:59,Cologne,Roonstraße,78.0,Pets not allowed,3186,3000,50.9325581,6.9356155
+1387730,2021/05/13 - 12:52:01,Cologne,Neue Maastrichter Straße,68.0,Pets not allowed,2605,2500,50.9390342,6.9345316
+1387769,2021/05/13 - 12:52:03,Cologne,Roonstraße,78.0,Pets not allowed,3200,3000,50.9325581,6.9356155
+1722841,2021/05/13 - 12:52:05,Cologne,Graeffstraße,22.0,Pets not allowed,1190,1190,50.95042,6.93357
+1687810,2021/05/13 - 12:52:07,Cologne,Piusstraße,65.0,Pets negotiable,1250,1900,50.94502,6.92454
+1444486,2021/05/13 - 12:52:09,Cologne,Hartwichstraße,52.0,Pets negotiable,1250,2500,50.95822,6.94512
+1715676,2021/05/13 - 12:52:11,Cologne,An Groß Sankt Martin,70.0,Pets not allowed,1890,2800,50.93896,6.9612
+1704887,2021/05/13 - 12:52:13,Cologne,Mevissenstraße,95.0,Pets negotiable,2490,3580,50.95372,6.96686
+1704891,2021/05/13 - 12:52:16,Cologne,Clever Straße,85.0,Pets negotiable,2290,3380,50.95358,6.96615
+1387562,2021/05/13 - 12:52:18,Cologne,Humboldtstraße,75.0,Pets not allowed,2900,2500,50.9315039,6.9431997
+1700465,2021/05/13 - 12:52:20,Cologne,Hansemannstraße,62.0,Pets negotiable,3000,1486,50.94993,6.9182
+1415306,2021/05/13 - 12:52:22,Cologne,Hartwichstraße,85.0,Pets negotiable,1380,4000,50.9584,6.94587
+1387414,2021/05/13 - 12:52:24,Cologne,Gilbachstraße,101.0,Pets not allowed,3642,3000,50.94582219999999,6.938156299999999
+1151528,2021/05/13 - 12:52:26,Cologne,Poller Kirchweg,45.0,Pets negotiable,2100,6300,50.921524,6.981537500000001
+1700473,2021/05/13 - 12:52:29,Cologne,Bismarckstraße,120.0,Pets negotiable,2990,2990,50.94245,6.93865
+1704980,2021/05/13 - 12:52:31,Cologne,Belvederestraße,85.0,Pets negotiable,2490,3380,50.9434,6.87426
+1689401,2021/05/13 - 12:52:33,Cologne,Waldstraße,70.0,Pets not allowed,2000,2000,50.88142,7.09611
+1707482,2021/05/13 - 12:52:35,Cologne,Am Höfchen,95.0,Pets negotiable,2290,3980,50.87741,6.95522
+1704814,2021/05/13 - 12:52:37,Cologne,Schneider-Clauß-Straße,135.0,Pets negotiable,2990,4980,50.88162,6.88945
+1646509,2021/05/13 - 12:52:39,Cologne,Ringstraße,140.0,Pets not allowed,3500,7000,50.8872,6.99543
+1614908,2021/05/13 - 12:52:44,Cologne,Hohenzollernring,88.0,Pets not allowed,2800,1500,50.93868,6.93982
+1693363,2021/05/13 - 12:52:58,Dortmund,Hans-Litten-Straße,26.0,Pets not allowed,599,1698,51.51457,7.47536
+1693367,2021/05/13 - 12:53:00,Dortmund,Liebigstraße,26.0,Pets not allowed,599,1098,51.50616,7.45432
+1672283,2021/05/13 - 12:53:03,Dortmund,Hans-Litten-Straße,34.0,Pets not allowed,749,1698,51.51457,7.47536
+1615066,2021/05/13 - 12:53:05,Dortmund,Ernst-Mehlich-Straße,60.0,Pets not allowed,700,800,51.50754,7.47376
+1369885,2021/05/13 - 12:53:07,Dortmund,Schwanenwall,25.0,Pets not allowed,500,600,51.5159947,7.4716222
+1693368,2021/05/13 - 12:53:10,Dortmund,Vinckeplatz,34.0,Pets not allowed,749,1298,51.5029,7.4551
+1359186,2021/05/13 - 12:53:12,Dortmund,Heinitzstraße,30.0,Pets not allowed,450,500,51.3668275,7.4830861
+1671754,2021/05/13 - 12:53:14,Dortmund,Insterburger Straße,33.0,Pets not allowed,650,1000,51.52516,7.42304
+1671753,2021/05/13 - 12:53:16,Dortmund,Insterburger Straße,33.0,Pets not allowed,650,1000,51.52516,7.42304
+7022,2021/05/13 - 12:53:18,Dortmund,Unterm Kolm,27.0,Pets not allowed,350,350,51.4385395,7.231075099999999
+1672280,2021/05/13 - 12:53:21,Dortmund,Hans-Litten-Straße,55.0,Pets not allowed,999,1998,51.51457,7.47536
+1686608,2021/05/13 - 12:53:23,Dortmund,Willem-van-Vloten-Straße,55.0,Pets not allowed,850,1000,51.49423,7.49942
+1671613,2021/05/13 - 12:53:25,Dortmund,Insterburger Straße,38.0,Pets not allowed,650,1000,51.52516,7.42304
+1671614,2021/05/13 - 12:53:27,Dortmund,Insterburger Straße,33.0,Pets not allowed,650,1000,51.52516,7.42304
+1671612,2021/05/13 - 12:53:29,Dortmund,Insterburger Straße,47.0,Pets not allowed,825,1500,51.52516,7.42304
+1672290,2021/05/13 - 12:53:31,Dortmund,Hans-Litten-Straße,56.0,Pets not allowed,849,1898,51.51457,7.47536
+1359184,2021/05/13 - 12:53:33,Dortmund,Wittekindstraße,40.0,Pets not allowed,600,500,51.3650004,7.4651104
+1675026,2021/05/13 - 12:53:35,Dortmund,Ernst-Mehlich-Straße,60.0,Pets not allowed,700,600,51.50722,7.47232
+1620541,2021/05/13 - 12:53:38,Dortmund,Ernst-Mehlich-Straße,45.0,Pets not allowed,700,800,51.50722,7.47232
+1672289,2021/05/13 - 12:53:40,Dortmund,Hans-Litten-Straße,46.0,Pets not allowed,899,1698,51.51457,7.47536
+1679173,2021/05/13 - 12:53:42,Dortmund,Kleppingstraße,47.0,Pets not allowed,850,0,51.51265,7.46845
+1723442,2021/05/13 - 12:53:44,Dortmund,Zimmerstraße,55.0,Pets not allowed,790,1500,51.52101,7.46362
+1552027,2021/05/13 - 12:53:46,Dortmund,Schwanenwall,25.0,Pets not allowed,500,600,51.5159947,7.4716222
+1654814,2021/05/13 - 12:53:49,Dortmund,Schwanenwall,25.0,Pets not allowed,550,600,51.5159947,7.4716222
+1693363,2021/05/13 - 12:53:51,Dortmund,Hans-Litten-Straße,26.0,Pets not allowed,599,1698,51.51457,7.47536
+1693367,2021/05/13 - 12:53:53,Dortmund,Liebigstraße,26.0,Pets not allowed,599,1098,51.50616,7.45432
+1672283,2021/05/13 - 12:53:55,Dortmund,Hans-Litten-Straße,34.0,Pets not allowed,749,1698,51.51457,7.47536
+1615066,2021/05/13 - 12:53:57,Dortmund,Ernst-Mehlich-Straße,60.0,Pets not allowed,700,800,51.50754,7.47376
+1369885,2021/05/13 - 12:53:59,Dortmund,Schwanenwall,25.0,Pets not allowed,500,600,51.5159947,7.4716222
+1693368,2021/05/13 - 12:54:01,Dortmund,Vinckeplatz,34.0,Pets not allowed,749,1298,51.5029,7.4551
+1359186,2021/05/13 - 12:54:03,Dortmund,Heinitzstraße,30.0,Pets not allowed,450,500,51.3668275,7.4830861
+1671754,2021/05/13 - 12:54:05,Dortmund,Insterburger Straße,33.0,Pets not allowed,650,1000,51.52516,7.42304
+1671753,2021/05/13 - 12:54:07,Dortmund,Insterburger Straße,33.0,Pets not allowed,650,1000,51.52516,7.42304
+7022,2021/05/13 - 12:54:09,Dortmund,Unterm Kolm,27.0,Pets not allowed,350,350,51.4385395,7.231075099999999
+1672280,2021/05/13 - 12:54:11,Dortmund,Hans-Litten-Straße,55.0,Pets not allowed,999,1998,51.51457,7.47536
+1686608,2021/05/13 - 12:54:13,Dortmund,Willem-van-Vloten-Straße,55.0,Pets not allowed,850,1000,51.49423,7.49942
+1671613,2021/05/13 - 12:54:15,Dortmund,Insterburger Straße,38.0,Pets not allowed,650,1000,51.52516,7.42304
+1671614,2021/05/13 - 12:54:18,Dortmund,Insterburger Straße,33.0,Pets not allowed,650,1000,51.52516,7.42304
+1671612,2021/05/13 - 12:54:20,Dortmund,Insterburger Straße,47.0,Pets not allowed,825,1500,51.52516,7.42304
+1672290,2021/05/13 - 12:54:22,Dortmund,Hans-Litten-Straße,56.0,Pets not allowed,849,1898,51.51457,7.47536
+1359184,2021/05/13 - 12:54:24,Dortmund,Wittekindstraße,40.0,Pets not allowed,600,500,51.3650004,7.4651104
+1675026,2021/05/13 - 12:54:26,Dortmund,Ernst-Mehlich-Straße,60.0,Pets not allowed,700,600,51.50722,7.47232
+1620541,2021/05/13 - 12:54:28,Dortmund,Ernst-Mehlich-Straße,45.0,Pets not allowed,700,800,51.50722,7.47232
+1672289,2021/05/13 - 12:54:30,Dortmund,Hans-Litten-Straße,46.0,Pets not allowed,899,1698,51.51457,7.47536
+1679173,2021/05/13 - 12:54:33,Dortmund,Kleppingstraße,47.0,Pets not allowed,850,0,51.51265,7.46845
+1723442,2021/05/13 - 12:54:35,Dortmund,Zimmerstraße,55.0,Pets not allowed,790,1500,51.52101,7.46362
+1552027,2021/05/13 - 12:54:37,Dortmund,Schwanenwall,25.0,Pets not allowed,500,600,51.5159947,7.4716222
+1654814,2021/05/13 - 12:54:39,Dortmund,Schwanenwall,25.0,Pets not allowed,550,600,51.5159947,7.4716222
+1692420,2021/05/13 - 12:54:41,Dortmund,Zimmerstraße,70.0,Pets not allowed,890,1500,51.52111,7.46359
+1435834,2021/05/13 - 12:54:44,Dortmund,Schwanenwall,25.0,Pets not allowed,600,600,51.5159947,7.4716222
+1413235,2021/05/13 - 12:54:46,Dortmund,Saarbrücker Straße,60.0,Pets not allowed,900,900,51.51629,7.4758
+1159674,2021/05/13 - 12:54:48,Dortmund,Rosental,40.0,Pets not allowed,800,800,51.51292369999999,7.469253300000001
+1671618,2021/05/13 - 12:54:50,Dortmund,Zimmerstraße,60.0,Pets not allowed,850,1500,51.52111,7.46359
+1426013,2021/05/13 - 12:54:53,Dortmund,Ludwigstraße,25.0,Pets not allowed,700,600,51.5166745,7.466407999999999
+1387444,2021/05/13 - 12:54:55,Dortmund,Kaiserstraße,55.0,Pets not allowed,900,900,51.51403000000001,7.49121
+1359183,2021/05/13 - 12:54:57,Dortmund,Graf-Haeseler-Straße,45.0,Pets not allowed,800,800,51.51256309999999,7.485148300000001
+1699445,2021/05/13 - 12:55:37,Frankfurt-am-Main,Unterortstraße,30.0,Pets negotiable,850,1500,50.13863,8.57402
+1715072,2021/05/13 - 12:55:39,Frankfurt-am-Main,Idsteiner Straße,21.0,Pets not allowed,865,500,50.10587,8.64081
+1724175,2021/05/13 - 12:55:42,Frankfurt-am-Main,Berliner Straße,25.0,Pets not allowed,660,500,50.10608,8.7551
+1721886,2021/05/13 - 12:55:44,Frankfurt-am-Main,Berliner Straße,25.0,Pets not allowed,660,500,50.10608,8.7551
+1715070,2021/05/13 - 12:55:46,Frankfurt-am-Main,Idsteiner Straße,24.0,Pets not allowed,855,500,50.10587,8.64081
+1719886,2021/05/13 - 12:55:49,Frankfurt-am-Main,Habsburgerallee,39.0,Pets not allowed,795,1100,50.12194,8.70321
+1724177,2021/05/13 - 12:55:51,Frankfurt-am-Main,Berliner Straße,25.0,Pets not allowed,760,500,50.10608,8.7551
+1721888,2021/05/13 - 12:55:53,Frankfurt-am-Main,Berliner Straße,25.0,Pets not allowed,760,500,50.10608,8.7551
+1721879,2021/05/13 - 12:55:55,Frankfurt-am-Main,Grusonstraße,25.0,Pets not allowed,810,500,50.11224,8.70686
+1705019,2021/05/13 - 12:55:57,Frankfurt-am-Main,Brückenstraße,43.0,Pets not allowed,1050,3150,50.10225,8.68673
+1389694,2021/05/13 - 12:55:59,Frankfurt-am-Main,Güntherstraße,34.0,Pets not allowed,1000,3500,50.08338209999999,8.6486577
+1693785,2021/05/13 - 12:56:01,Frankfurt-am-Main,Huizener Straße,35.0,Pets not allowed,730,1260,50.182,8.73317
+1712125,2021/05/13 - 12:56:03,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712124,2021/05/13 - 12:56:05,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712123,2021/05/13 - 12:56:07,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712121,2021/05/13 - 12:56:10,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712120,2021/05/13 - 12:56:12,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712117,2021/05/13 - 12:56:14,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1715071,2021/05/13 - 12:56:16,Frankfurt-am-Main,Idsteiner Straße,24.0,Pets not allowed,865,500,50.10587,8.64081
+1715069,2021/05/13 - 12:56:18,Frankfurt-am-Main,Idsteiner Straße,21.0,Pets not allowed,855,500,50.10587,8.64081
+1679446,2021/05/13 - 12:56:21,Frankfurt-am-Main,Beethovenstraße,20.0,Pets negotiable,790,1770,50.11209,8.65695
+1706801,2021/05/13 - 12:56:23,Frankfurt-am-Main,Beethovenstraße,20.0,Pets negotiable,795,1770,50.11209,8.65695
+1675994,2021/05/13 - 12:56:25,Frankfurt-am-Main,Hoherodskopfstraße,49.0,Pets not allowed,1300,2000,50.15257,8.68985
+1584775,2021/05/13 - 12:56:27,Frankfurt-am-Main,Gräfstraße,25.0,Pets not allowed,890,900,50.11969,8.6499
+1699445,2021/05/13 - 12:56:29,Frankfurt-am-Main,Unterortstraße,30.0,Pets negotiable,850,1500,50.13863,8.57402
+1715072,2021/05/13 - 12:56:31,Frankfurt-am-Main,Idsteiner Straße,21.0,Pets not allowed,865,500,50.10587,8.64081
+1724175,2021/05/13 - 12:56:34,Frankfurt-am-Main,Berliner Straße,25.0,Pets not allowed,660,500,50.10608,8.7551
+1721886,2021/05/13 - 12:56:36,Frankfurt-am-Main,Berliner Straße,25.0,Pets not allowed,660,500,50.10608,8.7551
+1715070,2021/05/13 - 12:56:38,Frankfurt-am-Main,Idsteiner Straße,24.0,Pets not allowed,855,500,50.10587,8.64081
+1719886,2021/05/13 - 12:56:41,Frankfurt-am-Main,Habsburgerallee,39.0,Pets not allowed,795,1100,50.12194,8.70321
+1724177,2021/05/13 - 12:56:43,Frankfurt-am-Main,Berliner Straße,25.0,Pets not allowed,760,500,50.10608,8.7551
+1721888,2021/05/13 - 12:56:45,Frankfurt-am-Main,Berliner Straße,25.0,Pets not allowed,760,500,50.10608,8.7551
+1721879,2021/05/13 - 12:56:48,Frankfurt-am-Main,Grusonstraße,25.0,Pets not allowed,810,500,50.11224,8.70686
+1705019,2021/05/13 - 12:56:50,Frankfurt-am-Main,Brückenstraße,43.0,Pets not allowed,1050,3150,50.10225,8.68673
+1389694,2021/05/13 - 12:56:52,Frankfurt-am-Main,Güntherstraße,34.0,Pets not allowed,1000,3500,50.08338209999999,8.6486577
+1693785,2021/05/13 - 12:56:54,Frankfurt-am-Main,Huizener Straße,35.0,Pets not allowed,730,1260,50.182,8.73317
+1712125,2021/05/13 - 12:56:56,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712124,2021/05/13 - 12:56:59,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712123,2021/05/13 - 12:57:01,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712121,2021/05/13 - 12:57:04,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712120,2021/05/13 - 12:57:06,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712117,2021/05/13 - 12:57:08,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1715071,2021/05/13 - 12:57:10,Frankfurt-am-Main,Idsteiner Straße,24.0,Pets not allowed,865,500,50.10587,8.64081
+1715069,2021/05/13 - 12:57:12,Frankfurt-am-Main,Idsteiner Straße,21.0,Pets not allowed,855,500,50.10587,8.64081
+1679446,2021/05/13 - 12:57:15,Frankfurt-am-Main,Beethovenstraße,20.0,Pets negotiable,790,1770,50.11209,8.65695
+1706801,2021/05/13 - 12:57:18,Frankfurt-am-Main,Beethovenstraße,20.0,Pets negotiable,795,1770,50.11209,8.65695
+1675994,2021/05/13 - 12:57:21,Frankfurt-am-Main,Hoherodskopfstraße,49.0,Pets not allowed,1300,2000,50.15257,8.68985
+1584775,2021/05/13 - 12:57:24,Frankfurt-am-Main,Gräfstraße,25.0,Pets not allowed,890,900,50.11969,8.6499
+1672988,2021/05/13 - 12:57:26,Frankfurt-am-Main,Ottostraße,30.0,Pets not allowed,900,900,50.10841,8.65996
+1706496,2021/05/13 - 12:57:29,Frankfurt-am-Main,Grethenweg,35.0,Pets negotiable,1200,3600,50.09961,8.68953
+1706495,2021/05/13 - 12:57:31,Frankfurt-am-Main,Grethenweg,35.0,Pets negotiable,1200,3600,50.09961,8.68953
+1686129,2021/05/13 - 12:57:33,Frankfurt-am-Main,Am Weingarten,35.0,Pets negotiable,750,750,50.12312,8.64781
+1691735,2021/05/13 - 12:57:35,Frankfurt-am-Main,Neebstraße,31.0,Pets not allowed,850,850,50.12779,8.70708
+1679447,2021/05/13 - 12:57:37,Frankfurt-am-Main,Beethovenstraße,20.0,Pets negotiable,760,0,50.11209,8.65695
+1706498,2021/05/13 - 12:57:39,Frankfurt-am-Main,Grethenweg,37.0,Pets negotiable,1250,3750,50.09961,8.68953
+1719039,2021/05/13 - 12:57:41,Frankfurt-am-Main,Schneckenhofstraße,77.0,Pets negotiable,1495,3000,50.10142,8.67928
+1693617,2021/05/13 - 12:57:44,Frankfurt-am-Main,Emmerich-Josef-Straße,20.0,Pets negotiable,945,1500,50.09973,8.54433
+1699448,2021/05/13 - 12:57:46,Frankfurt-am-Main,Unterortstraße,40.0,Pets negotiable,890,1800,50.13863,8.57402
+1721005,2021/05/13 - 12:57:48,Frankfurt-am-Main,Frankensteiner Straße,19.0,Pets allowed,999,0,50.10635,8.69137
+1720419,2021/05/13 - 12:57:50,Frankfurt-am-Main,Frankensteiner Straße,19.0,Pets allowed,999,0,50.10635,8.69137
+1720113,2021/05/13 - 12:57:52,Frankfurt-am-Main,Lyoner Straße,54.0,Pets negotiable,1000,0,50.0815,8.62437
+1722213,2021/05/13 - 12:57:54,Frankfurt-am-Main,Luisenstraße,42.0,Pets negotiable,998,998,50.1231,8.69725
+1699446,2021/05/13 - 12:57:56,Frankfurt-am-Main,Unterortstraße,45.0,Pets negotiable,1100,3000,50.13863,8.57402
+1724044,2021/05/13 - 12:57:59,Frankfurt-am-Main,Teplitz-Schönauer-Straße,65.0,Pets negotiable,1395,2600,50.08738,8.6719
+1694794,2021/05/13 - 12:58:01,Frankfurt-am-Main,Galvanistraße,47.5,Pets not allowed,1450,3000,50.11644,8.63586
+1712122,2021/05/13 - 12:58:03,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1699256,2021/05/13 - 12:58:05,Frankfurt-am-Main,Europa-Allee,27.0,Pets negotiable,1200,0,50.10826,8.65218
+1724157,2021/05/13 - 12:58:08,Frankfurt-am-Main,Grusonstraße,25.0,Pets not allowed,710,500,50.11224,8.70686
+1721877,2021/05/13 - 12:58:10,Frankfurt-am-Main,Grusonstraße,25.0,Pets not allowed,710,500,50.11224,8.70686
+1724158,2021/05/13 - 12:58:12,Frankfurt-am-Main,Grusonstraße,25.0,Pets not allowed,810,500,50.11224,8.70686
+1716731,2021/05/13 - 12:58:14,Frankfurt-am-Main,Grethenweg,59.0,Pets negotiable,1670,5010,50.09961,8.68953
+1706502,2021/05/13 - 12:58:16,Frankfurt-am-Main,Grethenweg,60.0,Pets negotiable,1700,5100,50.09961,8.68953
+1678518,2021/05/13 - 12:58:19,Frankfurt-am-Main,Wilhelm-Leuschner-Straße,40.0,Pets not allowed,1100,500,50.05304,8.68294
+1646784,2021/05/13 - 12:58:21,Frankfurt-am-Main,Oswaltstraße,83.0,Pets not allowed,1700,3000,50.16397,8.62524
+1704739,2021/05/13 - 12:58:23,Frankfurt-am-Main,Mendelssohnstraße,22.0,Pets negotiable,1176,1500,50.11791,8.65888
+1712129,2021/05/13 - 12:58:25,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712126,2021/05/13 - 12:58:27,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1716729,2021/05/13 - 12:58:29,Frankfurt-am-Main,Grethenweg,37.0,Pets negotiable,1250,3750,50.09961,8.68953
+1716727,2021/05/13 - 12:58:31,Frankfurt-am-Main,Grethenweg,37.0,Pets negotiable,1250,3750,50.09961,8.68953
+1716725,2021/05/13 - 12:58:34,Frankfurt-am-Main,Grethenweg,35.0,Pets negotiable,1200,3600,50.09961,8.68953
+1706497,2021/05/13 - 12:58:36,Frankfurt-am-Main,Grethenweg,37.0,Pets negotiable,1250,3750,50.09961,8.68953
+1706802,2021/05/13 - 12:58:38,Frankfurt-am-Main,Beethovenstraße,20.0,Pets negotiable,765,1770,50.11209,8.65695
+1704848,2021/05/13 - 12:58:40,Frankfurt-am-Main,Spohrstraße,50.0,Pets not allowed,1500,2000,50.12963,8.69021
+1690438,2021/05/13 - 12:58:42,Frankfurt-am-Main,Europa-Allee,35.0,Pets negotiable,1800,0,50.10826,8.65218
+1704757,2021/05/13 - 12:58:47,Frankfurt-am-Main,An der Staufenmauer,52.0,Pets not allowed,1290,1290,50.11346,8.6872
+1706102,2021/05/13 - 12:58:50,Frankfurt-am-Main,Darmstädter Landstraße,50.0,Pets negotiable,1300,2200,50.09934,8.69151
+1696123,2021/05/13 - 12:58:52,Frankfurt-am-Main,Darmstädter Landstraße,50.0,Pets negotiable,1300,2200,50.09934,8.69151
+1674533,2021/05/13 - 12:58:55,Frankfurt-am-Main,Nieder Kirchweg,56.0,Pets negotiable,1180,3600,50.09743,8.56826
+1674536,2021/05/13 - 12:58:57,Frankfurt-am-Main,Nieder Kirchweg,56.0,Pets negotiable,1180,3000,50.09743,8.56826
+1707448,2021/05/13 - 12:59:00,Frankfurt-am-Main,Berliner Straße,70.0,Pets not allowed,1390,2980,50.10588,8.76357
+1705096,2021/05/13 - 12:59:02,Frankfurt-am-Main,Uhlandstraße,30.0,Pets not allowed,1145,1095,50.11117,8.69679
+1702631,2021/05/13 - 12:59:05,Frankfurt-am-Main,Vilbeler Landstraße,74.0,Pets negotiable,1700,2700,50.15696,8.74458
+1716726,2021/05/13 - 12:59:07,Frankfurt-am-Main,Grethenweg,35.0,Pets negotiable,1200,3600,50.09961,8.68953
+1712128,2021/05/13 - 12:59:09,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1712127,2021/05/13 - 12:59:12,Frankfurt-am-Main,Sonnemannstraße,20.0,Pets not allowed,850,2250,50.11106,8.70273
+1674876,2021/05/13 - 12:59:14,Frankfurt-am-Main,Ginnheimer Straße,28.0,Pets not allowed,950,1650,50.12762,8.6407
+1717534,2021/05/13 - 12:59:17,Frankfurt-am-Main,Niddastraße,60.0,Pets negotiable,1045,900,50.10728,8.65816
+1686161,2021/05/13 - 12:59:19,Frankfurt-am-Main,Bolongarostraße,40.0,Pets negotiable,1050,2200,50.09939,8.54839
+1718040,2021/05/13 - 12:59:22,Frankfurt-am-Main,Nibelungenallee,34.0,Pets negotiable,790,2070,50.13116,8.68531
+1699380,2021/05/13 - 12:59:24,Frankfurt-am-Main,Ziegelhüttenweg,70.0,Pets not allowed,1570,3810,50.09384,8.68116
+1649555,2021/05/13 - 12:59:27,Frankfurt-am-Main,Werftstraße,32.0,Pets not allowed,1600,500,50.10224,8.66116
+1699581,2021/05/13 - 12:59:29,Frankfurt-am-Main,Hanauer Landstraße,40.0,Pets negotiable,990,2000,50.11275,8.70241
+1706804,2021/05/13 - 12:59:31,Frankfurt-am-Main,Beethovenstraße,32.0,Pets negotiable,995,0,50.11209,8.65695
+1716732,2021/05/13 - 12:59:33,Frankfurt-am-Main,Grethenweg,60.0,Pets negotiable,1700,5100,50.09961,8.68953
+1715049,2021/05/13 - 12:59:35,Frankfurt-am-Main,Lohweg,30.0,Pets negotiable,1657,0,50.11731,8.80981
+1706500,2021/05/13 - 12:59:38,Frankfurt-am-Main,Grethenweg,59.0,Pets negotiable,1670,5010,50.09961,8.68953
+1701909,2021/05/13 - 12:59:40,Frankfurt-am-Main,Oeserstraße,33.0,Pets negotiable,900,1500,50.10503,8.57866
+1697632,2021/05/13 - 12:59:42,Frankfurt-am-Main,Emmerich-Josef-Straße,25.0,Pets negotiable,1145,2000,50.09973,8.54433
+1702970,2021/05/13 - 12:59:44,Frankfurt-am-Main,Lahnstraße,65.0,Pets not allowed,1690,2500,50.10047,8.63307
+1703703,2021/05/13 - 12:59:46,Frankfurt-am-Main,Niedernhausener Straße,48.0,Pets negotiable,1440,1440,50.10745,8.63795
+1693629,2021/05/13 - 12:59:48,Frankfurt-am-Main,Emmerich-Josef-Straße,20.0,Pets negotiable,890,1500,50.09973,8.54433
+1706503,2021/05/13 - 12:59:50,Frankfurt-am-Main,Grethenweg,61.0,Pets negotiable,1740,5220,50.09961,8.68953
+1620617,2021/05/13 - 12:59:52,Frankfurt-am-Main,Erlenbacher Stadtweg,63.0,Pets not allowed,1200,2700,50.20227,8.70763
+1694182,2021/05/13 - 12:59:55,Frankfurt-am-Main,Cranachstraße,37.0,Pets negotiable,1750,1750,50.10223,8.67889
+1693644,2021/05/13 - 12:59:57,Frankfurt-am-Main,Emmerich-Josef-Straße,25.0,Pets negotiable,945,1500,50.09973,8.54433
+1693626,2021/05/13 - 12:59:59,Frankfurt-am-Main,Emmerich-Josef-Straße,25.0,Pets negotiable,945,1500,50.09973,8.54433
+1688988,2021/05/13 - 13:00:01,Frankfurt-am-Main,Altenhöferallee,34.0,Pets not allowed,1050,1050,50.17734,8.63019
+1699357,2021/05/13 - 13:00:03,Frankfurt-am-Main,Florianweg,65.0,Pets not allowed,1250,2000,50.1480568,8.7495505
+1649557,2021/05/13 - 13:00:05,Frankfurt-am-Main,Werftstraße,32.0,Pets not allowed,1800,500,50.10224,8.66116
+1384457,2021/05/13 - 13:00:08,Frankfurt-am-Main,Florianweg,65.0,Pets not allowed,1250,2000,50.1480568,8.7495505
+1645950,2021/05/13 - 13:00:10,Frankfurt-am-Main,Gerolsteiner Straße,50.0,Pets not allowed,1290,2000,50.08681,8.57699
+1665664,2021/05/13 - 13:00:12,Frankfurt-am-Main,Schwarzbachstraße,65.0,Pets negotiable,1300,2600,50.0861,8.58057
+1690440,2021/05/13 - 13:00:14,Frankfurt-am-Main,Europa-Allee,35.0,Pets negotiable,2400,0,50.10826,8.65218
+1694170,2021/05/13 - 13:00:16,Frankfurt-am-Main,Cranachstraße,49.0,Pets negotiable,1860,1860,50.10223,8.67889
+1693637,2021/05/13 - 13:00:19,Frankfurt-am-Main,Emmerich-Josef-Straße,25.0,Pets negotiable,1045,1500,50.09973,8.54433
+1678478,2021/05/13 - 13:00:21,Frankfurt-am-Main,Cassellastraße,32.0,Pets not allowed,990,0,50.13037,8.75895
+1716730,2021/05/13 - 13:00:23,Frankfurt-am-Main,Grethenweg,59.0,Pets negotiable,1670,5010,50.09961,8.68953
+1706501,2021/05/13 - 13:00:25,Frankfurt-am-Main,Grethenweg,59.0,Pets negotiable,1670,5010,50.09961,8.68953
+1696339,2021/05/13 - 13:00:27,Frankfurt-am-Main,Würzburger Straße,40.0,Pets not allowed,1350,1325,50.12159,8.70464
+1681542,2021/05/13 - 13:00:30,Frankfurt-am-Main,Kalbacher Hauptstraße,70.0,Pets negotiable,1350,2700,50.18688,8.64728
+1694192,2021/05/13 - 13:00:32,Frankfurt-am-Main,Cranachstraße,37.0,Pets negotiable,1640,1640,50.10223,8.67889
+1699209,2021/05/13 - 13:00:34,Frankfurt-am-Main,Uhlandstraße,30.0,Pets not allowed,1095,1095,50.11117,8.69679
+1715043,2021/05/13 - 13:00:36,Frankfurt-am-Main,Lohweg,50.0,Pets negotiable,2488,0,50.11731,8.80981
+1711774,2021/05/13 - 13:00:38,Frankfurt-am-Main,Mittelweg,90.0,Pets negotiable,1900,4000,50.12126,8.68129
+1674534,2021/05/13 - 13:00:41,Frankfurt-am-Main,Nieder Kirchweg,65.0,Pets negotiable,1300,3600,50.09743,8.56826
+1716733,2021/05/13 - 13:00:43,Frankfurt-am-Main,Grethenweg,61.0,Pets negotiable,1740,5220,50.09961,8.68953
+1702682,2021/05/13 - 13:00:45,Frankfurt-am-Main,Niedernhausener Straße,88.0,Pets negotiable,1980,0,50.10745,8.63795
+1693634,2021/05/13 - 13:00:47,Frankfurt-am-Main,Emmerich-Josef-Straße,30.0,Pets negotiable,1095,1500,50.09973,8.54433
+1643029,2021/05/13 - 13:00:49,Frankfurt-am-Main,Frankenallee,72.0,Pets not allowed,1980,1000,50.10668,8.65054
+1675434,2021/05/13 - 13:00:51,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675425,2021/05/13 - 13:00:53,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1660413,2021/05/13 - 13:00:55,Frankfurt-am-Main,Langweidenstraße,54.0,Pets negotiable,1450,2700,50.13251,8.63111
+1693640,2021/05/13 - 13:00:58,Frankfurt-am-Main,Emmerich-Josef-Straße,35.0,Pets negotiable,1145,1500,50.09973,8.54433
+1693319,2021/05/13 - 13:01:00,Frankfurt-am-Main,Schwarzwaldstraße,87.3,Pets negotiable,1245,3735,50.08656,8.64682
+1685532,2021/05/13 - 13:01:02,Frankfurt-am-Main,Europa-Allee,50.0,Pets negotiable,1200,1500,50.10741,8.62633
+1721936,2021/05/13 - 13:01:04,Frankfurt-am-Main,Münchener Straße,39.0,Pets negotiable,2040,0,50.10831,8.67126
+1692916,2021/05/13 - 13:01:07,Frankfurt-am-Main,Münchener Straße,39.0,Pets negotiable,2040,0,50.10831,8.67126
+1643576,2021/05/13 - 13:01:09,Frankfurt-am-Main,Inheidener Straße,66.0,Pets negotiable,1495,2000,50.13197,8.71647
+1692984,2021/05/13 - 13:01:11,Frankfurt-am-Main,Wehrhofstraße,40.0,Pets not allowed,1250,2500,50.12462,8.61411
+1720601,2021/05/13 - 13:01:13,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720569,2021/05/13 - 13:01:16,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1699214,2021/05/13 - 13:01:18,Frankfurt-am-Main,Weserstraße,46.0,Pets negotiable,1300,1300,50.10954,8.66863
+1669200,2021/05/13 - 13:01:20,Frankfurt-am-Main,Georg-Speyer-Straße,70.0,Pets not allowed,1570,1570,50.12616,8.64729
+1706138,2021/05/13 - 13:01:23,Frankfurt-am-Main,Kurfürstenstraße,58.0,Pets allowed,1600,2000,50.12206,8.64426
+1720425,2021/05/13 - 13:01:26,Frankfurt-am-Main,Weserstraße,65.0,Pets negotiable,1350,8100,50.10923,8.66876
+1694181,2021/05/13 - 13:01:28,Frankfurt-am-Main,Cranachstraße,38.0,Pets negotiable,1640,1640,50.10223,8.67889
+1672472,2021/05/13 - 13:01:30,Frankfurt-am-Main,Hausener Weg,46.0,Pets not allowed,930,3300,50.13007,8.61688
+1693641,2021/05/13 - 13:01:33,Frankfurt-am-Main,Emmerich-Josef-Straße,55.0,Pets negotiable,1745,2000,50.09973,8.54433
+1695224,2021/05/13 - 13:01:35,Frankfurt-am-Main,Bernhard-Becker-Straße,50.0,Pets not allowed,990,2970,50.13854,8.69905
+1692654,2021/05/13 - 13:01:37,Frankfurt-am-Main,Parsevalstraße,84.5,Pets negotiable,1950,4950,50.11402,8.6257
+1649922,2021/05/13 - 13:01:40,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649913,2021/05/13 - 13:01:42,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1643005,2021/05/13 - 13:01:44,Frankfurt-am-Main,Kantstraße,90.0,Pets not allowed,1740,3120,50.12005,8.69724
+1697657,2021/05/13 - 13:01:46,Frankfurt-am-Main,Elbestraße,56.0,Pets negotiable,1500,2500,50.10849,8.66795
+1694175,2021/05/13 - 13:01:48,Frankfurt-am-Main,Cranachstraße,49.0,Pets negotiable,1750,1750,50.10223,8.67889
+1694183,2021/05/13 - 13:01:50,Frankfurt-am-Main,Cranachstraße,36.0,Pets negotiable,1750,1750,50.10223,8.67889
+1694179,2021/05/13 - 13:01:53,Frankfurt-am-Main,Cranachstraße,37.0,Pets negotiable,1750,1750,50.10223,8.67889
+1647236,2021/05/13 - 13:01:55,Frankfurt-am-Main,Cranachstraße,38.0,Pets negotiable,1750,1750,50.10223,8.67889
+1695710,2021/05/13 - 13:01:57,Frankfurt-am-Main,Am Mühlkanal,80.0,Pets not allowed,1500,3000,50.10069,8.70099
+1692108,2021/05/13 - 13:02:00,Frankfurt-am-Main,Gutleutstraße,52.0,Pets negotiable,1500,3000,50.1050666,8.6675676
+1719645,2021/05/13 - 13:02:02,Frankfurt-am-Main,Lahnstraße,51.0,Pets negotiable,1245,2900,50.10078,8.63294
+1623731,2021/05/13 - 13:02:05,Frankfurt-am-Main,Musikantenweg,23.0,Pets negotiable,990,0,50.11962,8.69586
+1701962,2021/05/13 - 13:02:07,Frankfurt-am-Main,Lyoner Straße,77.0,Pets negotiable,2350,6000,50.07775,8.6317
+1646067,2021/05/13 - 13:02:09,Frankfurt-am-Main,Allmeygang,55.0,Pets not allowed,1800,3000,50.09907,8.54795
+1720592,2021/05/13 - 13:02:11,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720578,2021/05/13 - 13:02:14,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1675300,2021/05/13 - 13:02:16,Frankfurt-am-Main,Inheidener Straße,64.0,Pets negotiable,850,1700,50.13197,8.71647
+1707451,2021/05/13 - 13:02:18,Frankfurt-am-Main,Dreieichring,105.0,Pets negotiable,2490,5900,50.1002,8.74788
+1662299,2021/05/13 - 13:02:20,Frankfurt-am-Main,Voltastraße,54.0,Pets negotiable,1300,2850,50.1173,8.63201
+1674551,2021/05/13 - 13:02:22,Frankfurt-am-Main,Mainzer Landstraße,49.0,Pets not allowed,1311,2500,50.10295,8.64117
+1647241,2021/05/13 - 13:02:25,Frankfurt-am-Main,Cranachstraße,38.0,Pets negotiable,1860,1860,50.10223,8.67889
+1647210,2021/05/13 - 13:02:27,Frankfurt-am-Main,Cranachstraße,49.0,Pets negotiable,1860,1860,50.10223,8.67889
+1647220,2021/05/13 - 13:02:29,Frankfurt-am-Main,Cranachstraße,36.0,Pets negotiable,1860,1860,50.10223,8.67889
+1647214,2021/05/13 - 13:02:31,Frankfurt-am-Main,Cranachstraße,37.0,Pets negotiable,1860,1860,50.10223,8.67889
+1694187,2021/05/13 - 13:02:34,Frankfurt-am-Main,Cranachstraße,44.0,Pets negotiable,1640,1640,50.10223,8.67889
+1694185,2021/05/13 - 13:02:36,Frankfurt-am-Main,Cranachstraße,38.0,Pets negotiable,1640,1640,50.10223,8.67889
+1693168,2021/05/13 - 13:02:38,Frankfurt-am-Main,Heisterstraße,45.0,Pets negotiable,1390,4170,50.10263,8.6917
+1715051,2021/05/13 - 13:02:40,Frankfurt-am-Main,Lohweg,50.0,Pets negotiable,3049,0,50.11731,8.80981
+1647196,2021/05/13 - 13:02:42,Frankfurt-am-Main,Cranachstraße,36.0,Pets negotiable,1970,1970,50.10223,8.67889
+1675438,2021/05/13 - 13:02:44,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675437,2021/05/13 - 13:02:47,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675436,2021/05/13 - 13:02:49,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675435,2021/05/13 - 13:02:51,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675433,2021/05/13 - 13:02:53,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675423,2021/05/13 - 13:02:56,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675422,2021/05/13 - 13:02:57,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675418,2021/05/13 - 13:02:59,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675417,2021/05/13 - 13:03:02,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1649926,2021/05/13 - 13:03:05,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649925,2021/05/13 - 13:03:07,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649924,2021/05/13 - 13:03:09,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649921,2021/05/13 - 13:03:11,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649918,2021/05/13 - 13:03:13,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649917,2021/05/13 - 13:03:15,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649915,2021/05/13 - 13:03:17,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649911,2021/05/13 - 13:03:19,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649909,2021/05/13 - 13:03:21,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649908,2021/05/13 - 13:03:23,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649907,2021/05/13 - 13:03:25,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,0,50.12469,8.68874
+1649906,2021/05/13 - 13:03:27,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1649900,2021/05/13 - 13:03:29,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1615297,2021/05/13 - 13:03:31,Frankfurt-am-Main,Pfingstbrunnenstraße,95.0,Pets negotiable,2500,0,50.11735,8.63916
+1647217,2021/05/13 - 13:03:33,Frankfurt-am-Main,Cranachstraße,38.0,Pets negotiable,1750,1750,50.10223,8.67889
+1694176,2021/05/13 - 13:03:36,Frankfurt-am-Main,Cranachstraße,44.0,Pets negotiable,1750,1750,50.10223,8.67889
+1647242,2021/05/13 - 13:03:38,Frankfurt-am-Main,Cranachstraße,37.0,Pets negotiable,1750,1750,50.10223,8.67889
+1713438,2021/05/13 - 13:03:40,Frankfurt-am-Main,Oeserstraße,53.0,Pets negotiable,1225,1850,50.10503,8.57866
+1702663,2021/05/13 - 13:03:42,Frankfurt-am-Main,Niddastraße,67.0,Pets negotiable,2100,5000,50.11068,8.66704
+1720605,2021/05/13 - 13:03:44,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720604,2021/05/13 - 13:03:46,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720603,2021/05/13 - 13:03:51,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720602,2021/05/13 - 13:03:54,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720600,2021/05/13 - 13:03:56,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720597,2021/05/13 - 13:03:58,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720596,2021/05/13 - 13:04:00,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720594,2021/05/13 - 13:04:02,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720590,2021/05/13 - 13:04:04,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720589,2021/05/13 - 13:04:06,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720588,2021/05/13 - 13:04:08,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720587,2021/05/13 - 13:04:10,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720586,2021/05/13 - 13:04:14,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,0,50.12469,8.68874
+1720585,2021/05/13 - 13:04:16,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720584,2021/05/13 - 13:04:18,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1295,1500,50.12469,8.68874
+1720582,2021/05/13 - 13:04:20,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720580,2021/05/13 - 13:04:22,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720577,2021/05/13 - 13:04:24,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720574,2021/05/13 - 13:04:26,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720573,2021/05/13 - 13:04:28,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720571,2021/05/13 - 13:04:31,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720567,2021/05/13 - 13:04:33,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720566,2021/05/13 - 13:04:35,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720565,2021/05/13 - 13:04:38,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720564,2021/05/13 - 13:04:40,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,0,50.12469,8.68874
+1720563,2021/05/13 - 13:04:42,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720562,2021/05/13 - 13:04:43,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1676456,2021/05/13 - 13:04:46,Frankfurt-am-Main,Freiligrathstraße,80.0,Pets negotiable,1850,3700,50.12402,8.71061
+1647218,2021/05/13 - 13:04:48,Frankfurt-am-Main,Cranachstraße,37.0,Pets negotiable,1860,1860,50.10223,8.67889
+1696576,2021/05/13 - 13:04:50,Frankfurt-am-Main,Gartenstraße,70.0,Pets not allowed,1590,1500,50.10386,8.68063
+1675426,2021/05/13 - 13:04:52,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1619,2000,50.12469,8.68874
+1693627,2021/05/13 - 13:04:54,Frankfurt-am-Main,Emmerich-Josef-Straße,60.0,Pets negotiable,1945,2000,50.09973,8.54433
+1720607,2021/05/13 - 13:04:56,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1650,1500,50.12469,8.68874
+1647206,2021/05/13 - 13:04:59,Frankfurt-am-Main,Cranachstraße,49.0,Pets negotiable,1970,1970,50.10223,8.67889
+1650762,2021/05/13 - 13:05:01,Frankfurt-am-Main,Elbestraße,64.0,Pets negotiable,2813,0,50.10886,8.66739
+1675430,2021/05/13 - 13:05:03,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675429,2021/05/13 - 13:05:05,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675427,2021/05/13 - 13:05:07,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675421,2021/05/13 - 13:05:09,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675420,2021/05/13 - 13:05:11,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,1500,50.12469,8.68874
+1675419,2021/05/13 - 13:05:13,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1195,0,50.12469,8.68874
+1649923,2021/05/13 - 13:05:15,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1450,1500,50.12469,8.68874
+1647238,2021/05/13 - 13:05:17,Frankfurt-am-Main,Cranachstraße,44.0,Pets negotiable,1750,1750,50.10223,8.67889
+1694191,2021/05/13 - 13:05:20,Frankfurt-am-Main,Cranachstraße,38.0,Pets negotiable,1750,1750,50.10223,8.67889
+1694171,2021/05/13 - 13:05:22,Frankfurt-am-Main,Cranachstraße,36.0,Pets negotiable,1750,1750,50.10223,8.67889
+1620979,2021/05/13 - 13:05:24,Frankfurt-am-Main,Erlenbacher Stadtweg,120.0,Pets not allowed,2300,2700,50.20227,8.70763
+1650045,2021/05/13 - 13:05:26,Frankfurt-am-Main,Georg-Voigt-Straße,129.0,Pets negotiable,2343,0,50.11531,8.6499
+1691789,2021/05/13 - 13:05:28,Frankfurt-am-Main,Bettinastraße,87.0,Pets negotiable,1900,6000,50.11348,8.65857
+1689320,2021/05/13 - 13:05:30,Frankfurt-am-Main,Bettinastraße,87.0,Pets negotiable,2350,6000,50.11348,8.65857
+1720581,2021/05/13 - 13:05:32,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1720579,2021/05/13 - 13:05:35,Frankfurt-am-Main,Wielandstraße,30.0,Pets not allowed,1550,1500,50.12469,8.68874
+1675431,2021/05/13 - 13:05:37,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1619,2000,50.12469,8.68874
+1675428,2021/05/13 - 13:05:39,Frankfurt-am-Main,Wielandstraße,50.0,Pets not allowed,1619,2000,50.12469,8.68874
+1675424,2021/05/13 - 13:05:41,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1619,2000,50.12469,8.68874
+1649919,2021/05/13 - 13:05:43,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1819,2000,50.12469,8.68874
+1649916,2021/05/13 - 13:05:45,Frankfurt-am-Main,Wielandstraße,50.0,Pets not allowed,1819,2000,50.12469,8.68874
+1649912,2021/05/13 - 13:05:48,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1819,2000,50.12469,8.68874
+1649872,2021/05/13 - 13:05:50,Frankfurt-am-Main,Liebigstraße,60.0,Pets not allowed,1800,1500,50.11806,8.6659
+1675439,2021/05/13 - 13:05:53,Frankfurt-am-Main,Wielandstraße,52.0,Pets not allowed,1650,2000,50.12469,8.68874
+1649927,2021/05/13 - 13:05:55,Frankfurt-am-Main,Wielandstraße,52.0,Pets not allowed,1850,2000,50.12469,8.68874
+1694169,2021/05/13 - 13:05:57,Frankfurt-am-Main,Cranachstraße,36.0,Pets negotiable,1860,1860,50.10223,8.67889
+1647212,2021/05/13 - 13:06:00,Frankfurt-am-Main,Cranachstraße,44.0,Pets negotiable,1860,1860,50.10223,8.67889
+1647208,2021/05/13 - 13:06:02,Frankfurt-am-Main,Cranachstraße,36.0,Pets negotiable,1860,1860,50.10223,8.67889
+1720598,2021/05/13 - 13:06:04,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1719,2000,50.12469,8.68874
+1720595,2021/05/13 - 13:06:06,Frankfurt-am-Main,Wielandstraße,50.0,Pets not allowed,1719,2000,50.12469,8.68874
+1720575,2021/05/13 - 13:06:08,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1919,2000,50.12469,8.68874
+1720572,2021/05/13 - 13:06:10,Frankfurt-am-Main,Wielandstraße,50.0,Pets not allowed,1919,2000,50.12469,8.68874
+1720570,2021/05/13 - 13:06:12,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1919,2000,50.12469,8.68874
+1720568,2021/05/13 - 13:06:14,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1919,2000,50.12469,8.68874
+1675432,2021/05/13 - 13:06:16,Frankfurt-am-Main,Wielandstraße,56.0,Pets not allowed,1726,2000,50.12469,8.68874
+1649920,2021/05/13 - 13:06:18,Frankfurt-am-Main,Wielandstraße,56.0,Pets not allowed,1926,2000,50.12469,8.68874
+1721771,2021/05/13 - 13:06:21,Frankfurt-am-Main,Scheffelstraße,100.0,Pets negotiable,2495,4990,50.12075,8.68844
+1696575,2021/05/13 - 13:06:23,Frankfurt-am-Main,Gartenstraße,112.0,Pets not allowed,2390,2750,50.10386,8.68063
+1720606,2021/05/13 - 13:06:25,Frankfurt-am-Main,Wielandstraße,52.0,Pets not allowed,1750,2000,50.12469,8.68874
+1720583,2021/05/13 - 13:06:27,Frankfurt-am-Main,Wielandstraße,52.0,Pets not allowed,1950,2000,50.12469,8.68874
+1637427,2021/05/13 - 13:06:29,Frankfurt-am-Main,Kurfürstenstraße,80.0,Pets negotiable,1950,4000,50.12206,8.64426
+1720593,2021/05/13 - 13:06:31,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1719,2000,50.12469,8.68874
+1692418,2021/05/13 - 13:06:34,Frankfurt-am-Main,Balduinstraße,97.0,Pets negotiable,1800,3000,50.09867,8.71467
+1720599,2021/05/13 - 13:06:36,Frankfurt-am-Main,Wielandstraße,56.0,Pets not allowed,1826,2000,50.12469,8.68874
+1720576,2021/05/13 - 13:06:38,Frankfurt-am-Main,Wielandstraße,56.0,Pets not allowed,2026,2000,50.12469,8.68874
+1649914,2021/05/13 - 13:06:40,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1819,2000,50.12469,8.68874
+1720591,2021/05/13 - 13:06:42,Frankfurt-am-Main,Wielandstraße,48.0,Pets not allowed,1719,2000,50.12469,8.68874
+1720453,2021/05/13 - 13:06:46,Frankfurt-am-Main,Grethenweg,60.0,Pets negotiable,3340,9990,50.09961,8.68953
+1717569,2021/05/13 - 13:06:48,Frankfurt-am-Main,Wilhelm-Leuschner-Straße,102.0,Pets not allowed,2950,2500,50.10493,8.66819
+1678217,2021/05/13 - 13:06:50,Frankfurt-am-Main,Wilhelm-Leuschner-Straße,104.0,Pets not allowed,2950,2500,50.10493,8.66819
+1686743,2021/05/13 - 13:06:52,Frankfurt-am-Main,Oskar-von-Miller-Straße,94.0,Pets negotiable,2990,7470,50.10877,8.69943
+1721977,2021/05/13 - 13:06:54,Frankfurt-am-Main,Elbestraße,64.0,Pets negotiable,2813,0,50.10886,8.66739
+1715055,2021/05/13 - 13:06:56,Frankfurt-am-Main,Lohweg,32.0,Pets negotiable,3972,0,50.11731,8.80981
+1647240,2021/05/13 - 13:06:58,Frankfurt-am-Main,Cranachstraße,125.0,Pets negotiable,4060,4060,50.10223,8.67889
+1715054,2021/05/13 - 13:07:01,Frankfurt-am-Main,Lohweg,50.0,Pets negotiable,4063,0,50.11731,8.80981
+1650819,2021/05/13 - 13:07:03,Frankfurt-am-Main,Leerbachstraße,54.0,Pets not allowed,4190,500,50.118,8.67247
+1650777,2021/05/13 - 13:07:05,Frankfurt-am-Main,Leerbachstraße,54.0,Pets not allowed,4190,500,50.118,8.67247
+1686353,2021/05/13 - 13:07:07,Frankfurt-am-Main,Gebeschusstraße,165.0,Pets negotiable,3500,3500,50.10338,8.53889
+1694188,2021/05/13 - 13:07:10,Frankfurt-am-Main,Cranachstraße,125.0,Pets negotiable,3840,3840,50.10223,8.67889
+1712163,2021/05/13 - 13:07:38,Nuremberg,Walter-Meckauer-Straße,34.0,Pets negotiable,604,0,49.44403,11.09528
+1716687,2021/05/13 - 13:07:41,Nuremberg,Heideloffstraße,58.0,Pets negotiable,950,1450,49.44392,11.08738
+1697589,2021/05/13 - 13:07:43,Nuremberg,Schweinauer Hauptstraße,55.7,Pets negotiable,806,2142,49.4348,11.04807
+1718257,2021/05/13 - 13:07:45,Nuremberg,Obere Kanalstraße,21.0,Pets allowed,750,0,49.44864,11.0588
+1694661,2021/05/13 - 13:07:47,Nuremberg,Teutonenstraße,55.0,Pets not allowed,990,1980,49.45486,11.11
+1650697,2021/05/13 - 13:07:49,Nuremberg,Am Plärrer,58.0,Pets negotiable,2100,0,49.4487,11.06561
+1650700,2021/05/13 - 13:07:51,Nuremberg,Am Plärrer,71.0,Pets negotiable,2700,0,49.4487,11.06561
+1712163,2021/05/13 - 13:07:53,Nuremberg,Walter-Meckauer-Straße,34.0,Pets negotiable,604,0,49.44403,11.09528
+1716687,2021/05/13 - 13:07:55,Nuremberg,Heideloffstraße,58.0,Pets negotiable,950,1450,49.44392,11.08738
+1697589,2021/05/13 - 13:07:57,Nuremberg,Schweinauer Hauptstraße,55.7,Pets negotiable,806,2142,49.4348,11.04807
+1718257,2021/05/13 - 13:08:00,Nuremberg,Obere Kanalstraße,21.0,Pets allowed,750,0,49.44864,11.0588
+1694661,2021/05/13 - 13:08:02,Nuremberg,Teutonenstraße,55.0,Pets not allowed,990,1980,49.45486,11.11
+1650697,2021/05/13 - 13:08:05,Nuremberg,Am Plärrer,58.0,Pets negotiable,2100,0,49.4487,11.06561
+1650700,2021/05/13 - 13:08:07,Nuremberg,Am Plärrer,71.0,Pets negotiable,2700,0,49.4487,11.06561
+1718338,2021/05/13 - 13:08:21,Stuttgart,Wagenburgstraße,70.0,Pets negotiable,580,1160,48.78108,9.20923
+1718347,2021/05/13 - 13:08:23,Stuttgart,Wagenburgstraße,70.0,Pets negotiable,580,1160,48.78108,9.20923
+1718348,2021/05/13 - 13:08:25,Stuttgart,Wagenburgstraße,70.0,Pets negotiable,580,1160,48.78108,9.20923
+1724016,2021/05/13 - 13:08:27,Stuttgart,Weidachstraße,47.0,Pets not allowed,990,0,48.74636,9.16693
+1714094,2021/05/13 - 13:08:29,Stuttgart,Schloß Hohenheim,72.0,Pets not allowed,780,1400,48.71188,9.21407
+1721319,2021/05/13 - 13:08:31,Stuttgart,Dessauer Straße,42.0,Pets negotiable,1100,2500,48.81777,9.2098
+1711828,2021/05/13 - 13:08:35,Stuttgart,Sillenbucher Straße,30.0,Pets negotiable,1090,0,48.72474,9.23126
+1711763,2021/05/13 - 13:08:37,Stuttgart,Sillenbucher Straße,30.0,Pets negotiable,1090,0,48.72474,9.23126
+1718698,2021/05/13 - 13:08:39,Stuttgart,Hegelstraße,29.0,Pets not allowed,880,1320,48.78425,9.16093
+1722451,2021/05/13 - 13:08:42,Stuttgart,Bismarckstraße,47.0,Pets not allowed,1320,2000,48.77263,9.15394
+1722448,2021/05/13 - 13:08:44,Stuttgart,Bismarckstraße,47.0,Pets not allowed,1320,2000,48.77263,9.15394
+1715209,2021/05/13 - 13:08:46,Stuttgart,Landstuhler Straße,55.0,Pets not allowed,1340,0,48.81121,9.11746
+1722426,2021/05/13 - 13:08:48,Stuttgart,Bismarckstraße,53.0,Pets not allowed,1360,2300,48.77263,9.15394
+1722440,2021/05/13 - 13:08:50,Stuttgart,Bismarckstraße,55.0,Pets not allowed,1420,2400,48.77263,9.15394
+1722445,2021/05/13 - 13:08:53,Stuttgart,Bismarckstraße,59.0,Pets not allowed,1460,2500,48.77263,9.15394
+1724085,2021/05/13 - 13:08:55,Stuttgart,Waiblinger Straße,35.0,Pets not allowed,890,1780,48.80408,9.22176
+1714132,2021/05/13 - 13:08:57,Stuttgart,Dessauer Straße,42.0,Pets negotiable,1100,2500,48.81777,9.2098
+1711829,2021/05/13 - 13:09:00,Stuttgart,Sillenbucher Straße,30.0,Pets negotiable,1090,0,48.72474,9.23126
+1715792,2021/05/13 - 13:09:02,Stuttgart,Hauptstätter Straße,47.0,Pets not allowed,2550,0,48.77013,9.17592
+1711810,2021/05/13 - 13:09:05,Stuttgart,Im Buchrain,43.0,Pets not allowed,1930,1930,48.76558,9.19559
+1714363,2021/05/13 - 13:09:07,Stuttgart,Schützenstraße,20.0,Pets not allowed,1290,0,48.78439,9.19339
+1714362,2021/05/13 - 13:09:09,Stuttgart,Schützenstraße,20.0,Pets not allowed,1290,0,48.78439,9.19339
+1714356,2021/05/13 - 13:09:11,Stuttgart,Schützenstraße,20.0,Pets not allowed,1290,0,48.78439,9.19339
+1722447,2021/05/13 - 13:09:13,Stuttgart,Bismarckstraße,51.0,Pets not allowed,1320,2200,48.77263,9.15394
+1718338,2021/05/13 - 13:09:15,Stuttgart,Wagenburgstraße,70.0,Pets negotiable,580,1160,48.78108,9.20923
+1718347,2021/05/13 - 13:09:18,Stuttgart,Wagenburgstraße,70.0,Pets negotiable,580,1160,48.78108,9.20923
+1718348,2021/05/13 - 13:09:20,Stuttgart,Wagenburgstraße,70.0,Pets negotiable,580,1160,48.78108,9.20923
+1724016,2021/05/13 - 13:09:22,Stuttgart,Weidachstraße,47.0,Pets not allowed,990,0,48.74636,9.16693
+1714094,2021/05/13 - 13:09:24,Stuttgart,Schloß Hohenheim,72.0,Pets not allowed,780,1400,48.71188,9.21407
+1721319,2021/05/13 - 13:09:26,Stuttgart,Dessauer Straße,42.0,Pets negotiable,1100,2500,48.81777,9.2098
+1711828,2021/05/13 - 13:09:28,Stuttgart,Sillenbucher Straße,30.0,Pets negotiable,1090,0,48.72474,9.23126
+1711763,2021/05/13 - 13:09:30,Stuttgart,Sillenbucher Straße,30.0,Pets negotiable,1090,0,48.72474,9.23126
+1718698,2021/05/13 - 13:09:32,Stuttgart,Hegelstraße,29.0,Pets not allowed,880,1320,48.78425,9.16093
+1722451,2021/05/13 - 13:09:34,Stuttgart,Bismarckstraße,47.0,Pets not allowed,1320,2000,48.77263,9.15394
+1722448,2021/05/13 - 13:09:36,Stuttgart,Bismarckstraße,47.0,Pets not allowed,1320,2000,48.77263,9.15394
+1715209,2021/05/13 - 13:09:38,Stuttgart,Landstuhler Straße,55.0,Pets not allowed,1340,0,48.81121,9.11746
+1722426,2021/05/13 - 13:09:41,Stuttgart,Bismarckstraße,53.0,Pets not allowed,1360,2300,48.77263,9.15394
+1722440,2021/05/13 - 13:09:43,Stuttgart,Bismarckstraße,55.0,Pets not allowed,1420,2400,48.77263,9.15394
+1722445,2021/05/13 - 13:09:45,Stuttgart,Bismarckstraße,59.0,Pets not allowed,1460,2500,48.77263,9.15394
+1724085,2021/05/13 - 13:09:47,Stuttgart,Waiblinger Straße,35.0,Pets not allowed,890,1780,48.80408,9.22176
+1714132,2021/05/13 - 13:09:50,Stuttgart,Dessauer Straße,42.0,Pets negotiable,1100,2500,48.81777,9.2098
+1711829,2021/05/13 - 13:09:52,Stuttgart,Sillenbucher Straße,30.0,Pets negotiable,1090,0,48.72474,9.23126
+1715792,2021/05/13 - 13:09:57,Stuttgart,Hauptstätter Straße,47.0,Pets not allowed,2550,0,48.77013,9.17592
+1711810,2021/05/13 - 13:09:59,Stuttgart,Im Buchrain,43.0,Pets not allowed,1930,1930,48.76558,9.19559
+1714363,2021/05/13 - 13:10:02,Stuttgart,Schützenstraße,20.0,Pets not allowed,1290,0,48.78439,9.19339
+1714362,2021/05/13 - 13:10:04,Stuttgart,Schützenstraße,20.0,Pets not allowed,1290,0,48.78439,9.19339
+1714356,2021/05/13 - 13:10:06,Stuttgart,Schützenstraße,20.0,Pets not allowed,1290,0,48.78439,9.19339
+1722447,2021/05/13 - 13:10:09,Stuttgart,Bismarckstraße,51.0,Pets not allowed,1320,2200,48.77263,9.15394
+1722475,2021/05/13 - 13:10:11,Stuttgart,Bismarckstraße,80.0,Pets not allowed,1960,2800,48.77263,9.15394
+1722439,2021/05/13 - 13:10:13,Stuttgart,Bismarckstraße,55.0,Pets not allowed,1420,2400,48.77263,9.15394
+1723071,2021/05/13 - 13:10:16,Stuttgart,Reinsburgstraße,70.0,Pets not allowed,1200,0,48.76934,9.14981
+1692948,2021/05/13 - 13:10:17,Stuttgart,Stuttgarter Straße,57.0,Pets not allowed,1050,2100,48.8089,9.15784
+1711147,2021/05/13 - 13:10:19,Stuttgart,Leuschnerstraße,73.0,Pets negotiable,1528,0,48.77659,9.16589
+1724062,2021/05/13 - 13:10:23,Stuttgart,Alexanderstraße,45.0,Pets negotiable,1250,1250,48.77305,9.18616
+1724698,2021/05/13 - 13:10:25,Stuttgart,Immenhofer Straße,65.0,Pets not allowed,1280,2200,48.76863,9.17509
+1700804,2021/05/13 - 13:10:27,Stuttgart,Theodor-Heuss-Straße,65.0,Pets not allowed,2200,0,48.85838,9.19795
+1717320,2021/05/13 - 13:10:29,Stuttgart,Bebelstraße,64.0,Pets not allowed,1150,2340,48.77474,9.1508
+1700832,2021/05/13 - 13:10:31,Stuttgart,Terrotstraße,35.0,Pets not allowed,1700,0,48.81212,9.23138
+1700803,2021/05/13 - 13:10:33,Stuttgart,Theodor-Heuss-Straße,65.0,Pets not allowed,2300,0,48.85838,9.19795
+1714896,2021/05/13 - 13:10:35,Stuttgart,Möhringer Landstraße,38.0,Pets not allowed,1000,800,48.72902,9.12706
+1700812,2021/05/13 - 13:10:37,Stuttgart,Terrotstraße,30.0,Pets not allowed,1500,0,48.81212,9.23138
+1710352,2021/05/13 - 13:10:39,Stuttgart,Leuschnerstraße,96.0,Pets negotiable,1866,0,48.77659,9.16589
+1700988,2021/05/13 - 13:10:41,Stuttgart,Terrotstraße,65.0,Pets not allowed,2500,0,48.81212,9.23138
+1710960,2021/05/13 - 13:10:44,Stuttgart,Leuschnerstraße,89.0,Pets negotiable,1932,0,48.77653,9.1657
+1700834,2021/05/13 - 13:10:46,Stuttgart,Terrotstraße,55.0,Pets not allowed,2000,0,48.81212,9.23138
+1658288,2021/05/13 - 13:10:48,Stuttgart,Alexanderstraße,20.0,Pets not allowed,1170,0,48.77407,9.188
+1658259,2021/05/13 - 13:10:50,Stuttgart,Alexanderstraße,20.0,Pets not allowed,1170,0,48.77407,9.188
+1710965,2021/05/13 - 13:10:52,Stuttgart,Leuschnerstraße,77.0,Pets negotiable,1666,0,48.77659,9.16589
+1710961,2021/05/13 - 13:10:54,Stuttgart,Leuschnerstraße,77.0,Pets negotiable,1670,0,48.77659,9.16589
+1658260,2021/05/13 - 13:10:56,Stuttgart,Alexanderstraße,45.0,Pets not allowed,1380,0,48.77407,9.188
+1700809,2021/05/13 - 13:10:58,Stuttgart,Rotenbergstraße,55.0,Pets not allowed,2300,0,48.78785,9.21109
+1700807,2021/05/13 - 13:11:00,Stuttgart,Rotenbergstraße,55.0,Pets not allowed,2300,0,48.78785,9.21109
+1700805,2021/05/13 - 13:11:02,Stuttgart,Rotenbergstraße,65.0,Pets not allowed,2300,0,48.78785,9.21109
+1718316,2021/05/13 - 13:11:04,Stuttgart,Wagenburgstraße,70.0,Pets negotiable,1740,1750,48.78108,9.20923
+1724500,2021/05/13 - 13:11:06,Stuttgart,Oderstraße,70.0,Pets not allowed,1600,1400,48.82102,9.21934
+1700827,2021/05/13 - 13:11:08,Stuttgart,Auberlenstraße,85.0,Pets not allowed,3000,0,48.81855,9.27
+1700999,2021/05/13 - 13:11:11,Stuttgart,Terrotstraße,65.0,Pets not allowed,2500,0,48.81212,9.23138
+1700835,2021/05/13 - 13:11:13,Stuttgart,Terrotstraße,65.0,Pets not allowed,2500,0,48.81212,9.23138
+1700798,2021/05/13 - 13:11:15,Stuttgart,Asangstraße,60.0,Pets not allowed,2500,0,48.77329,9.27701
+1713775,2021/05/13 - 13:11:17,Stuttgart,Echazstraße,45.0,Pets not allowed,1400,1300,48.81998,9.22399
+1700996,2021/05/13 - 13:11:20,Stuttgart,Ostendstraße,75.0,Pets not allowed,3200,0,48.78418,9.2078
+1700806,2021/05/13 - 13:11:22,Stuttgart,Rotenbergstraße,65.0,Pets not allowed,2300,0,48.78785,9.21109
+1718346,2021/05/13 - 13:11:24,Stuttgart,Hasenbergsteige,65.0,Pets negotiable,710,1420,48.76778,9.16135
+1713330,2021/05/13 - 13:11:26,Stuttgart,Beim Schnatzgraben,60.0,Pets negotiable,1100,900,48.80219,9.1104
+1694915,2021/05/13 - 13:11:28,Stuttgart,Leuschnerstraße,73.0,Pets negotiable,1528,0,48.77659,9.16589
+1700814,2021/05/13 - 13:11:30,Stuttgart,Böblinger Straße,70.0,Pets not allowed,2500,0,48.75608,9.14188
+1700810,2021/05/13 - 13:11:32,Stuttgart,Hauptstraße,60.0,Pets not allowed,2500,0,48.84182,9.26427
+1700539,2021/05/13 - 13:11:34,Stuttgart,Terrotstraße,65.0,Pets not allowed,2800,0,48.81212,9.23138
+1658849,2021/05/13 - 13:11:36,Stuttgart,Grazer Straße,85.0,Pets not allowed,2590,2000,48.81091,9.15922
+1700997,2021/05/13 - 13:11:39,Stuttgart,Libanonstraße,60.0,Pets not allowed,2300,0,48.77844,9.20615
+1700549,2021/05/13 - 13:11:41,Stuttgart,Augsburger Straße,50.0,Pets not allowed,2300,0,48.78265,9.24967
+1700829,2021/05/13 - 13:11:43,Stuttgart,Salamanderplatz,65.0,Pets not allowed,3000,0,48.8582584,9.1771876
+1700801,2021/05/13 - 13:11:45,Stuttgart,Salamanderstraße,65.0,Pets not allowed,3000,0,48.86058,9.17727
+1724275,2021/05/13 - 13:11:47,Stuttgart,Wiener Straße,109.0,Pets negotiable,2750,2500,48.80862,9.14883
+1700987,2021/05/13 - 13:11:49,Stuttgart,Terrotstraße,65.0,Pets not allowed,2500,0,48.81212,9.23138
+1700986,2021/05/13 - 13:11:51,Stuttgart,Terrotstraße,65.0,Pets not allowed,2500,0,48.81212,9.23138
+1716649,2021/05/13 - 13:12:19,Hamburg,Maria-Louisen-Straße,29.0,Pets not allowed,650,650,53.58757,10.00284
+1722958,2021/05/13 - 13:12:21,Hamburg,Koppel,50.0,Pets not allowed,770,1000,53.55776,10.0101
+1721470,2021/05/13 - 13:12:23,Hamburg,Henry-Budge-Straße,37.0,Pets not allowed,675,1350,53.60054,10.00906
+1696099,2021/05/13 - 13:12:26,Hamburg,Schleemer Weg,35.0,Pets allowed,1050,2550,53.53595,10.11278
+1660414,2021/05/13 - 13:12:28,Hamburg,Herbert-Weichmann-Straße,45.0,Pets negotiable,1090,1500,53.57223,10.01409
+1718928,2021/05/13 - 13:12:30,Hamburg,Angelnstraße,31.0,Pets not allowed,850,1700,53.57875,10.06216
+1721883,2021/05/13 - 13:12:32,Hamburg,Wikingerweg,24.0,Pets not allowed,760,500,53.55186,10.03163
+1723740,2021/05/13 - 13:12:34,Hamburg,Berner Heerweg,52.77,Pets not allowed,1150,1000,53.62124,10.12663
+1676263,2021/05/13 - 13:12:37,Hamburg,Hartwicusstraße,60.0,Pets not allowed,1400,1400,53.56629,10.02029
+1621888,2021/05/13 - 13:12:39,Hamburg,Hartwicusstraße,50.0,Pets not allowed,1200,1000,53.56609,10.02299
+1665740,2021/05/13 - 13:12:42,Hamburg,Oberstraße,24.0,Pets not allowed,899,1798,53.57703,9.97914
+1665741,2021/05/13 - 13:12:44,Hamburg,Oberstraße,29.0,Pets not allowed,1115,2230,53.57703,9.97914
+1724168,2021/05/13 - 13:12:46,Hamburg,Wikingerweg,24.0,Pets not allowed,760,500,53.55186,10.03163
+1724167,2021/05/13 - 13:12:48,Hamburg,Wikingerweg,24.0,Pets not allowed,860,500,53.55186,10.03163
+1721882,2021/05/13 - 13:12:50,Hamburg,Wikingerweg,24.0,Pets not allowed,860,500,53.55186,10.03163
+1722519,2021/05/13 - 13:12:52,Hamburg,Klausstraße,38.0,Pets not allowed,1250,500,53.55035,9.93175
+1362152,2021/05/13 - 13:12:54,Hamburg,Rodigallee,40.0,Pets negotiable,1150,1200,53.5712548,10.1291275
+1675466,2021/05/13 - 13:12:56,Hamburg,Platanenallee,16.0,Pets not allowed,640,1000,53.59154,9.96229
+1665802,2021/05/13 - 13:12:58,Hamburg,Oberstraße,45.0,Pets not allowed,1199,2398,53.57703,9.97914
+1678047,2021/05/13 - 13:13:01,Hamburg,Reeperbahn,42.0,Pets negotiable,1200,1400,53.54946,9.95654
+1721171,2021/05/13 - 13:13:03,Hamburg,Richardallee,40.0,Pets not allowed,910,910,53.56086,10.02671
+1665813,2021/05/13 - 13:13:05,Hamburg,Oberstraße,33.0,Pets not allowed,1129,2258,53.57703,9.97914
+1691835,2021/05/13 - 13:13:07,Hamburg,Halstenbeker Weg,39.0,Pets not allowed,920,920,53.61502,9.88908
+1716649,2021/05/13 - 13:13:10,Hamburg,Maria-Louisen-Straße,29.0,Pets not allowed,650,650,53.58757,10.00284
+1722958,2021/05/13 - 13:13:12,Hamburg,Koppel,50.0,Pets not allowed,770,1000,53.55776,10.0101
+1721470,2021/05/13 - 13:13:14,Hamburg,Henry-Budge-Straße,37.0,Pets not allowed,675,1350,53.60054,10.00906
+1696099,2021/05/13 - 13:13:16,Hamburg,Schleemer Weg,35.0,Pets allowed,1050,2550,53.53595,10.11278
+1660414,2021/05/13 - 13:13:19,Hamburg,Herbert-Weichmann-Straße,45.0,Pets negotiable,1090,1500,53.57223,10.01409
+1718928,2021/05/13 - 13:13:20,Hamburg,Angelnstraße,31.0,Pets not allowed,850,1700,53.57875,10.06216
+1721883,2021/05/13 - 13:13:23,Hamburg,Wikingerweg,24.0,Pets not allowed,760,500,53.55186,10.03163
+1723740,2021/05/13 - 13:13:25,Hamburg,Berner Heerweg,52.77,Pets not allowed,1150,1000,53.62124,10.12663
+1676263,2021/05/13 - 13:13:27,Hamburg,Hartwicusstraße,60.0,Pets not allowed,1400,1400,53.56629,10.02029
+1621888,2021/05/13 - 13:13:29,Hamburg,Hartwicusstraße,50.0,Pets not allowed,1200,1000,53.56609,10.02299
+1665740,2021/05/13 - 13:13:31,Hamburg,Oberstraße,24.0,Pets not allowed,899,1798,53.57703,9.97914
+1665741,2021/05/13 - 13:13:33,Hamburg,Oberstraße,29.0,Pets not allowed,1115,2230,53.57703,9.97914
+1724168,2021/05/13 - 13:13:36,Hamburg,Wikingerweg,24.0,Pets not allowed,760,500,53.55186,10.03163
+1724167,2021/05/13 - 13:13:38,Hamburg,Wikingerweg,24.0,Pets not allowed,860,500,53.55186,10.03163
+1721882,2021/05/13 - 13:13:40,Hamburg,Wikingerweg,24.0,Pets not allowed,860,500,53.55186,10.03163
+1722519,2021/05/13 - 13:13:42,Hamburg,Klausstraße,38.0,Pets not allowed,1250,500,53.55035,9.93175
+1362152,2021/05/13 - 13:13:45,Hamburg,Rodigallee,40.0,Pets negotiable,1150,1200,53.5712548,10.1291275
+1675466,2021/05/13 - 13:13:47,Hamburg,Platanenallee,16.0,Pets not allowed,640,1000,53.59154,9.96229
+1665802,2021/05/13 - 13:13:49,Hamburg,Oberstraße,45.0,Pets not allowed,1199,2398,53.57703,9.97914
+1678047,2021/05/13 - 13:13:51,Hamburg,Reeperbahn,42.0,Pets negotiable,1200,1400,53.54946,9.95654
+1721171,2021/05/13 - 13:13:53,Hamburg,Richardallee,40.0,Pets not allowed,910,910,53.56086,10.02671
+1665813,2021/05/13 - 13:13:55,Hamburg,Oberstraße,33.0,Pets not allowed,1129,2258,53.57703,9.97914
+1691835,2021/05/13 - 13:13:57,Hamburg,Halstenbeker Weg,39.0,Pets not allowed,920,920,53.61502,9.88908
+1669881,2021/05/13 - 13:14:01,Hamburg,Grindelallee,38.0,Pets not allowed,1300,1300,53.56524,9.98275
+1360106,2021/05/13 - 13:14:03,Hamburg,Rodigallee,55.0,Pets negotiable,1350,1200,53.5712548,10.1291275
+1639849,2021/05/13 - 13:14:05,Hamburg,Vereinsstraße,46.0,Pets negotiable,1060,1060,53.56557,9.96212
+1674140,2021/05/13 - 13:14:07,Hamburg,Osterfeldstraße,49.0,Pets not allowed,1690,4800,53.5983689,9.9724639
+1665696,2021/05/13 - 13:14:09,Hamburg,Oberstraße,54.0,Pets not allowed,1399,2798,53.57703,9.97914
+1714161,2021/05/13 - 13:14:11,Hamburg,Billstedter Hauptstraße,28.0,Pets negotiable,680,1950,53.53652,10.11004
+1716764,2021/05/13 - 13:14:13,Hamburg,Rambatzweg,63.0,Pets negotiable,990,1200,53.58446,10.02095
+1714143,2021/05/13 - 13:14:16,Hamburg,Mühlenberger Weg,22.0,Pets not allowed,1000,2040,53.5606,9.81343
+1515842,2021/05/13 - 13:14:18,Hamburg,Am Zollhafen,55.0,Pets negotiable,995,1500,53.52316,10.02042
+1582235,2021/05/13 - 13:14:20,Hamburg,Grelckstraße,45.0,Pets negotiable,999,1000,53.6015,9.95438
+1709864,2021/05/13 - 13:14:23,Hamburg,Brennerstraße,48.0,Pets not allowed,1400,2800,53.5561,10.01607
+1718826,2021/05/13 - 13:14:25,Hamburg,Grelckstraße,65.0,Pets negotiable,999,1500,53.6015,9.95438
+1384435,2021/05/13 - 13:14:27,Hamburg,Kurveneck,35.0,Pets negotiable,1000,2000,53.63584,10.01712
+1698127,2021/05/13 - 13:14:29,Hamburg,Lübecker Straße,48.0,Pets not allowed,1210,2000,53.56105,10.03127
+1723963,2021/05/13 - 13:14:34,Hamburg,Genslerstraße,50.0,Pets not allowed,990,3000,53.59333,10.04032
+1673510,2021/05/13 - 13:14:36,Hamburg,Sethweg,37.0,Pets not allowed,750,2250,53.6326,9.94538
+1710752,2021/05/13 - 13:14:38,Hamburg,Kapitelbuschweg,82.0,Pets not allowed,1850,1850,53.60275,9.90957
+1621417,2021/05/13 - 13:14:40,Hamburg,Bostelreihe,60.0,Pets not allowed,1500,3000,53.57381,10.03098
+1355812,2021/05/13 - 13:14:42,Hamburg,Ohlsdorfer Straße,51.0,Pets negotiable,1290,500,53.59559,9.99969
+1673105,2021/05/13 - 13:14:45,Hamburg,Wrangelstraße,42.0,Pets not allowed,1295,2500,53.57872,9.97197
+1723868,2021/05/13 - 13:14:47,Hamburg,Neuer Kamp,65.0,Pets negotiable,1600,1800,53.55767,9.96691
+1719123,2021/05/13 - 13:14:50,Hamburg,Elbgaustraße,68.0,Pets not allowed,850,2550,53.6065,9.9013
+1722512,2021/05/13 - 13:14:52,Hamburg,An der Alster,35.0,Pets negotiable,1350,500,53.5589,10.00838
+1722124,2021/05/13 - 13:14:54,Hamburg,Grindelhof,57.0,Pets negotiable,1300,2800,53.56869,9.98215
+1704281,2021/05/13 - 13:14:56,Hamburg,Fischers Allee,82.0,Pets not allowed,2000,1000,53.54972,9.92212
+1714042,2021/05/13 - 13:14:58,Hamburg,Oldesloer Straße,72.0,Pets not allowed,1400,2000,53.64275,9.92749
+1689211,2021/05/13 - 13:15:00,Hamburg,Rehmstraße,50.0,Pets not allowed,1395,2700,53.59715,9.99846
+1672291,2021/05/13 - 13:15:04,Hamburg,Burggarten,70.0,Pets not allowed,2354,2000,53.55571,10.03201
+1713640,2021/05/13 - 13:15:06,Hamburg,Wandsbeker Königstraße,51.0,Pets not allowed,1400,1300,53.57402,10.06316
+1677592,2021/05/13 - 13:15:08,Hamburg,Rodigallee,54.0,Pets negotiable,1350,1200,53.56974,10.10044
+1676119,2021/05/13 - 13:15:10,Hamburg,Hartwig-Hesse-Straße,50.0,Pets not allowed,1480,2960,53.58105,9.94461
+1710838,2021/05/13 - 13:15:12,Hamburg,Soltaus Allee,73.0,Pets not allowed,1500,3000,53.59645,10.06419
+1608630,2021/05/13 - 13:15:14,Hamburg,Harkortstieg,80.0,Pets allowed,1500,1000,53.55835,9.93978
+1698761,2021/05/13 - 13:15:17,Hamburg,Lutterothstraße,68.0,Pets negotiable,1395,0,53.58006,9.95507
+1362168,2021/05/13 - 13:15:19,Hamburg,Rodigallee,55.0,Pets negotiable,1250,1200,53.5712548,10.1291275
+1706966,2021/05/13 - 13:15:21,Hamburg,Großer Grasbrook,40.0,Pets not allowed,1575,3000,53.5394512,9.9954079
+1683647,2021/05/13 - 13:15:23,Hamburg,Vinzenzweg,45.0,Pets not allowed,1589,1500,53.4493954,9.9853959
+1718207,2021/05/13 - 13:15:25,Hamburg,Grindelallee,38.0,Pets not allowed,1300,1300,53.56524,9.98275
+1715024,2021/05/13 - 13:15:27,Hamburg,Schottweg,50.0,Pets not allowed,1914,200,53.56266,10.02174
+1715023,2021/05/13 - 13:15:30,Hamburg,Schottweg,50.0,Pets not allowed,1914,200,53.56266,10.02174
+1715022,2021/05/13 - 13:15:32,Hamburg,Schottweg,50.0,Pets not allowed,1914,200,53.56266,10.02174
+1715021,2021/05/13 - 13:15:34,Hamburg,Schottweg,50.0,Pets not allowed,1914,200,53.56266,10.02174
+1669880,2021/05/13 - 13:15:37,Hamburg,Grindelallee,38.0,Pets not allowed,1300,1300,53.56524,9.98275
+1715098,2021/05/13 - 13:15:39,Hamburg,Elbchaussee,65.0,Pets allowed,1150,500,53.54659,9.92949
+1723102,2021/05/13 - 13:15:41,Hamburg,Rissener Landstraße,72.0,Pets allowed,1155,1255,53.56755,9.79386
+1681265,2021/05/13 - 13:15:43,Hamburg,Königstraße,31.0,Pets negotiable,2580,0,53.54848,9.94497
+1681263,2021/05/13 - 13:15:45,Hamburg,Königstraße,31.0,Pets negotiable,2580,0,53.54848,9.94497
+1645924,2021/05/13 - 13:15:48,Hamburg,Großer Grasbrook,40.0,Pets not allowed,1650,3000,53.5394512,9.9954079
+1710063,2021/05/13 - 13:15:50,Hamburg,Alter Teichweg,34.0,Pets not allowed,1375,1500,53.58243,10.05475
+1643142,2021/05/13 - 13:15:52,Hamburg,Straßweg,70.0,Pets negotiable,1700,3400,53.5616,9.88105
+1711262,2021/05/13 - 13:15:54,Hamburg,Luisenstraße,95.0,Pets not allowed,1590,4000,53.56332,10.08261
+1495723,2021/05/13 - 13:15:57,Hamburg,Simrockstraße,75.0,Pets not allowed,1750,2500,53.56543,9.82226
+1621204,2021/05/13 - 13:15:59,Hamburg,Hoheluftchaussee,47.0,Pets not allowed,990,1000,53.58225,9.97162
+1676276,2021/05/13 - 13:16:01,Hamburg,Ohlsdorfer Straße,24.0,Pets not allowed,795,1500,53.59538,10.00039
+1718659,2021/05/13 - 13:16:09,Hamburg,Dorotheenstraße,49.0,Pets not allowed,1500,2000,53.58239,10.00851
+1678309,2021/05/13 - 13:16:11,Hamburg,Mittelweg,37.0,Pets not allowed,1495,2500,53.57387,9.99421
+1470890,2021/05/13 - 13:16:13,Hamburg,Hallerstraße,43.0,Pets not allowed,1495,2500,53.57226,9.9821
+1678157,2021/05/13 - 13:16:15,Hamburg,Friedensallee,60.0,Pets not allowed,1800,1800,53.55903,9.91218
+1642343,2021/05/13 - 13:16:17,Hamburg,Staudenweg,40.0,Pets negotiable,1520,0,53.67359,10.00126
+1722078,2021/05/13 - 13:16:19,Hamburg,Mumsenstraße,60.0,Pets allowed,1300,650,53.55752,9.95065
+1683646,2021/05/13 - 13:16:21,Hamburg,Julius-Ludowieg-Straße,40.0,Pets not allowed,1315,1500,53.45891,9.97304
+1718629,2021/05/13 - 13:16:23,Hamburg,Schomburgstraße,70.0,Pets negotiable,1950,1950,53.55252,9.9463
+1681918,2021/05/13 - 13:16:25,Hamburg,Ohlenhoff,50.0,Pets negotiable,2580,0,53.67473,9.96677
+1681268,2021/05/13 - 13:16:27,Hamburg,Königstraße,32.0,Pets negotiable,2880,0,53.54848,9.94497
+1681261,2021/05/13 - 13:16:29,Hamburg,Königstraße,32.0,Pets negotiable,2580,0,53.54848,9.94497
+1642385,2021/05/13 - 13:16:31,Hamburg,Staudenweg,30.0,Pets negotiable,1350,0,53.67359,10.00126
+1681898,2021/05/13 - 13:16:33,Hamburg,Lemsahler Landstraße,34.0,Pets not allowed,1695,0,53.67438,10.09125
+1681847,2021/05/13 - 13:16:35,Hamburg,Lemsahler Landstraße,34.0,Pets not allowed,1695,0,53.67438,10.09125
+1649034,2021/05/13 - 13:16:37,Hamburg,Im Tale,50.0,Pets negotiable,1500,500,53.59574,9.98203
+1718400,2021/05/13 - 13:16:39,Hamburg,Mühlenkamp,56.0,Pets not allowed,1500,1500,53.58166,10.01142
+1681926,2021/05/13 - 13:16:41,Hamburg,Ohechaussee,54.0,Pets negotiable,2820,0,53.66702,9.97675
+1680735,2021/05/13 - 13:16:43,Hamburg,Lembekstraße,25.0,Pets negotiable,950,0,53.60172,9.96707
+1681900,2021/05/13 - 13:16:45,Hamburg,Lemsahler Landstraße,44.0,Pets not allowed,1945,0,53.67438,10.09125
+1681848,2021/05/13 - 13:16:48,Hamburg,Lemsahler Landstraße,44.0,Pets not allowed,1945,0,53.67438,10.09125
+1681921,2021/05/13 - 13:16:50,Hamburg,Ohlenhoff,50.0,Pets negotiable,2580,0,53.67473,9.96677
+1647366,2021/05/13 - 13:16:52,Hamburg,Hans-Henny-Jahnn-Weg,82.0,Pets not allowed,2300,4600,53.58172,10.01891
+1724562,2021/05/13 - 13:16:54,Hamburg,Abbestraße,40.0,Pets not allowed,1400,500,53.55452,9.93029
+1696173,2021/05/13 - 13:16:56,Hamburg,Hofweg,95.0,Pets negotiable,3000,3000,53.57533,10.01476
+1668768,2021/05/13 - 13:17:02,Hamburg,Von-Hutten-Straße,61.0,Pets not allowed,1395,3500,53.56924,9.90991
+1592663,2021/05/13 - 13:17:04,Hamburg,Steinfeldtstraße,50.0,Pets negotiable,1150,1500,53.54676,10.09915
+1686671,2021/05/13 - 13:17:06,Hamburg,Graumannsweg,65.0,Pets not allowed,1500,2500,53.56384,10.02171
+1614618,2021/05/13 - 13:17:08,Hamburg,Freiweide,50.0,Pets not allowed,780,2100,53.48426,10.22462
+1681928,2021/05/13 - 13:17:10,Hamburg,Ohechaussee,15.0,Pets negotiable,1920,0,53.66702,9.97675
+1695343,2021/05/13 - 13:17:12,Hamburg,Oelkersallee,40.0,Pets not allowed,1150,600,53.56394,9.95686
+1681269,2021/05/13 - 13:17:15,Hamburg,Königstraße,30.0,Pets negotiable,3180,0,53.54848,9.94497
+1390267,2021/05/13 - 13:17:17,Hamburg,Rademachergang,58.0,Pets not allowed,1990,2000,53.5522199,9.9823519
+1719569,2021/05/13 - 13:17:19,Hamburg,Lembekstraße,95.0,Pets negotiable,1990,3600,53.60172,9.96707
+1678155,2021/05/13 - 13:17:21,Hamburg,Regerstraße,60.0,Pets not allowed,1500,1400,53.56857,9.91175
+1636947,2021/05/13 - 13:17:24,Hamburg,Frahmstraße,67.0,Pets not allowed,1740,3480,53.56408,9.82363
+1676121,2021/05/13 - 13:17:26,Hamburg,Rehmstraße,50.0,Pets not allowed,1480,2960,53.59742,9.99842
+1697370,2021/05/13 - 13:17:28,Hamburg,Schrötteringksweg,39.0,Pets not allowed,2730,0,53.57042,10.02364
+1697363,2021/05/13 - 13:17:31,Hamburg,Schrötteringksweg,39.0,Pets not allowed,2730,0,53.57042,10.02364
+1613387,2021/05/13 - 13:17:33,Hamburg,Schrötteringksweg,39.0,Pets not allowed,2730,0,53.57042,10.02364
+1616955,2021/05/13 - 13:17:35,Hamburg,Schwenckestraße,70.0,Pets not allowed,2150,2150,53.57696,9.94956
+1714135,2021/05/13 - 13:17:37,Hamburg,An der Alster,83.0,Pets negotiable,2800,350,53.55949,10.01033
+1710911,2021/05/13 - 13:17:39,Hamburg,Hartungstraße,64.0,Pets negotiable,1690,3000,53.57046,9.98743
+1681923,2021/05/13 - 13:17:41,Hamburg,Kirchenstraße,47.0,Pets negotiable,2580,0,53.67974,9.97881
+1681267,2021/05/13 - 13:17:43,Hamburg,Königstraße,32.0,Pets negotiable,2880,0,53.54848,9.94497
+1681901,2021/05/13 - 13:17:45,Hamburg,Lemsahler Landstraße,46.0,Pets not allowed,1995,0,53.67438,10.09125
+1681849,2021/05/13 - 13:17:47,Hamburg,Lemsahler Landstraße,46.0,Pets not allowed,1995,0,53.67438,10.09125
+1672847,2021/05/13 - 13:17:49,Hamburg,Segeberger Chaussee,60.0,Pets negotiable,2940,0,53.70151,10.05685
+1681925,2021/05/13 - 13:17:51,Hamburg,Ohechaussee,18.0,Pets negotiable,2100,0,53.66702,9.97675
+1690467,2021/05/13 - 13:17:53,Hamburg,Elbgaustraße,85.0,Pets negotiable,1950,2000,53.60446,9.89631
+1681260,2021/05/13 - 13:17:59,Hamburg,Königstraße,18.0,Pets negotiable,2580,0,53.54848,9.94497
+1681259,2021/05/13 - 13:18:01,Hamburg,Königstraße,18.0,Pets negotiable,2580,0,53.54848,9.94497
+1647375,2021/05/13 - 13:18:04,Hamburg,Hans-Henny-Jahnn-Weg,82.0,Pets not allowed,2300,4600,53.58172,10.01891
+1681273,2021/05/13 - 13:18:06,Hamburg,Königstraße,80.0,Pets negotiable,4170,0,53.54848,9.94497
+1697369,2021/05/13 - 13:18:08,Hamburg,Schrötteringksweg,40.0,Pets not allowed,2440,0,53.57042,10.02364
+1697361,2021/05/13 - 13:18:10,Hamburg,Schrötteringksweg,40.0,Pets not allowed,2440,0,53.57042,10.02364
+1613386,2021/05/13 - 13:18:13,Hamburg,Schrötteringksweg,40.0,Pets not allowed,2440,0,53.57042,10.02364
+1681924,2021/05/13 - 13:18:15,Hamburg,Ohechaussee,45.0,Pets negotiable,2520,0,53.66702,9.97675
+1697371,2021/05/13 - 13:18:17,Hamburg,Schrötteringksweg,46.0,Pets not allowed,2860,0,53.57042,10.02364
+1697364,2021/05/13 - 13:18:19,Hamburg,Schrötteringksweg,46.0,Pets not allowed,2860,0,53.57042,10.02364
+1613388,2021/05/13 - 13:18:21,Hamburg,Schrötteringksweg,46.0,Pets not allowed,2860,0,53.57042,10.02364
+1712748,2021/05/13 - 13:18:24,Hamburg,Bramfelder Straße,50.0,Pets not allowed,2700,250,53.59186,10.05652
+1712695,2021/05/13 - 13:18:26,Hamburg,Bramfelder Straße,50.0,Pets not allowed,2700,250,53.59186,10.05652
+1650313,2021/05/13 - 13:18:28,Hamburg,Bramfelder Straße,50.0,Pets not allowed,2700,250,53.59186,10.05652
+1650308,2021/05/13 - 13:18:30,Hamburg,Bramfelder Straße,50.0,Pets not allowed,2700,250,53.59186,10.05652
+1619778,2021/05/13 - 13:18:33,Hamburg,Moorweidenstraße,75.0,Pets not allowed,3500,1000,53.56385,9.99151
+1632400,2021/05/13 - 13:18:35,Hamburg,Im Keil,48.0,Pets negotiable,2600,0,53.60239,9.89658
+1673088,2021/05/13 - 13:18:37,Hamburg,Segeberger Chaussee,45.0,Pets negotiable,2940,0,53.70151,10.05685
+1672846,2021/05/13 - 13:18:39,Hamburg,Segeberger Chaussee,60.0,Pets negotiable,2940,0,53.70151,10.05685
+1672696,2021/05/13 - 13:18:41,Hamburg,Segeberger Chaussee,60.0,Pets negotiable,2940,0,53.70151,10.05685
+1672694,2021/05/13 - 13:18:43,Hamburg,Segeberger Chaussee,60.0,Pets negotiable,2940,0,53.70151,10.05685
+1613439,2021/05/13 - 13:18:45,Hamburg,Herbert-Weichmann-Straße,36.0,Pets not allowed,2395,0,53.57319,10.01342
+1647378,2021/05/13 - 13:18:47,Hamburg,Ferdinand-Beit-Straße,104.0,Pets negotiable,2400,4800,53.55433,10.01923
+1623715,2021/05/13 - 13:18:49,Hamburg,Osterfeldstraße,76.0,Pets not allowed,1800,1500,53.59901,9.96854
+1718342,2021/05/13 - 13:18:51,Hamburg,Carsten-Rehder-Straße,60.0,Pets not allowed,3700,0,53.54454,9.94653
+1645126,2021/05/13 - 13:18:54,Hamburg,Carsten-Rehder-Straße,60.0,Pets not allowed,3700,0,53.54454,9.94653
+1697372,2021/05/13 - 13:18:56,Hamburg,Schrötteringksweg,49.0,Pets not allowed,3090,0,53.57042,10.02364
+1697365,2021/05/13 - 13:18:58,Hamburg,Schrötteringksweg,49.0,Pets not allowed,3090,0,53.57042,10.02364
+1613390,2021/05/13 - 13:19:00,Hamburg,Schrötteringksweg,49.0,Pets not allowed,3090,0,53.57042,10.02364
+1681272,2021/05/13 - 13:19:03,Hamburg,Königstraße,30.0,Pets negotiable,3180,0,53.54848,9.94497
+1681271,2021/05/13 - 13:19:05,Hamburg,Königstraße,30.0,Pets negotiable,3180,0,53.54848,9.94497
+1645127,2021/05/13 - 13:19:07,Hamburg,Carsten-Rehder-Straße,68.0,Pets not allowed,4100,0,53.54454,9.94653
+1615279,2021/05/13 - 13:19:09,Hamburg,Herbert-Weichmann-Straße,44.0,Pets not allowed,2600,0,53.57319,10.01342
+1632815,2021/05/13 - 13:19:11,Hamburg,Brüderstraße,73.0,Pets allowed,1700,1650,53.55152,9.9818
+1681274,2021/05/13 - 13:19:13,Hamburg,Königstraße,80.0,Pets negotiable,4170,0,53.54848,9.94497
+1681942,2021/05/13 - 13:19:16,Hamburg,Moorweidenstraße,80.0,Pets not allowed,4000,1000,53.56385,9.99151
+1615244,2021/05/13 - 13:19:18,Hamburg,Herbert-Weichmann-Straße,60.0,Pets not allowed,3792,0,53.57319,10.01342
+1619788,2021/05/13 - 13:19:20,Hamburg,Holstenwall,115.0,Pets not allowed,3500,1000,53.5535,9.97716
+1649169,2021/05/13 - 13:19:22,Hamburg,Breckwoldtstraße,156.0,Pets not allowed,3500,8000,53.55783,9.81043
+1635719,2021/05/13 - 13:19:24,Hamburg,Holstenwall,60.0,Pets not allowed,3000,1000,53.5535,9.97716
+1645152,2021/05/13 - 13:19:26,Hamburg,Carsten-Rehder-Straße,68.0,Pets not allowed,4600,0,53.54454,9.94653
+1615231,2021/05/13 - 13:19:28,Hamburg,Herbert-Weichmann-Straße,52.0,Pets not allowed,3684,0,53.57319,10.01342
+1613395,2021/05/13 - 13:19:30,Hamburg,Herbert-Weichmann-Straße,36.0,Pets not allowed,2495,0,53.57319,10.01342
+1615258,2021/05/13 - 13:19:32,Hamburg,Herbert-Weichmann-Straße,47.0,Pets not allowed,3792,0,53.57319,10.01342
+1615218,2021/05/13 - 13:19:34,Hamburg,Herbert-Weichmann-Straße,43.0,Pets not allowed,3792,0,53.57319,10.01342
+1681940,2021/05/13 - 13:19:36,Hamburg,Holstenwall,100.0,Pets not allowed,3500,1000,53.5527,9.97599
+1615221,2021/05/13 - 13:19:38,Hamburg,Herbert-Weichmann-Straße,52.0,Pets not allowed,3684,0,53.57319,10.01342
+1619794,2021/05/13 - 13:19:40,Hamburg,Holzdamm,170.0,Pets not allowed,4000,1500,53.55548,10.00578
+1615260,2021/05/13 - 13:19:42,Hamburg,Herbert-Weichmann-Straße,48.0,Pets not allowed,3792,0,53.57319,10.01342
+1615256,2021/05/13 - 13:19:45,Hamburg,Herbert-Weichmann-Straße,57.0,Pets not allowed,3792,0,53.57319,10.01342
+1615230,2021/05/13 - 13:19:47,Hamburg,Herbert-Weichmann-Straße,47.0,Pets not allowed,3792,0,53.57319,10.01342
+1615278,2021/05/13 - 13:19:49,Hamburg,Herbert-Weichmann-Straße,40.0,Pets not allowed,3792,0,53.57319,10.01342
+1615249,2021/05/13 - 13:19:51,Hamburg,Herbert-Weichmann-Straße,41.0,Pets not allowed,3792,0,53.57319,10.01342
+1615240,2021/05/13 - 13:19:54,Hamburg,Herbert-Weichmann-Straße,46.0,Pets not allowed,3792,0,53.57319,10.01342
+1615237,2021/05/13 - 13:19:56,Hamburg,Herbert-Weichmann-Straße,63.0,Pets not allowed,3792,0,53.57319,10.01342
+1620618,2021/05/13 - 13:19:58,Hamburg,Holzdamm,155.0,Pets not allowed,5500,2000,53.55548,10.00578
+1620594,2021/05/13 - 13:20:00,Hamburg,Holzdamm,180.0,Pets not allowed,5500,2000,53.55548,10.00578
+1615263,2021/05/13 - 13:20:02,Hamburg,Herbert-Weichmann-Straße,49.0,Pets not allowed,3792,0,53.57319,10.01342
+1615253,2021/05/13 - 13:20:04,Hamburg,Herbert-Weichmann-Straße,49.0,Pets not allowed,3792,0,53.57319,10.01342
+1635696,2021/05/13 - 13:20:06,Hamburg,Holzdamm,155.0,Pets not allowed,5500,2000,53.55548,10.00578
+1665871,2021/05/13 - 13:20:32,Hanover,Dörnbergstraße,64.0,Pets not allowed,1300,1200,52.38911,9.73752
+1683644,2021/05/13 - 13:20:34,Hanover,Witzendorffstraße,40.0,Pets not allowed,1389,1200,52.39843,9.73899
+1688900,2021/05/13 - 13:20:37,Hanover,Ballhofstraße,40.0,Pets not allowed,1485,1200,52.37268,9.7327
+1665872,2021/05/13 - 13:20:39,Hanover,Lange Laube,45.0,Pets not allowed,1479,1200,52.3759,9.73126
+1665873,2021/05/13 - 13:20:41,Hanover,Lange Laube,45.0,Pets not allowed,1300,1200,52.3759,9.73126
+1689278,2021/05/13 - 13:20:43,Hanover,Kramerstraße,70.0,Pets not allowed,1859,1500,52.37169,9.73345
+1692054,2021/05/13 - 13:20:46,Hanover,Am See,85.0,Pets negotiable,1900,0,52.34341,9.67477
+1689219,2021/05/13 - 13:20:48,Hanover,Burgstraße,45.0,Pets not allowed,1386,2400,52.37277,9.73161
+1689273,2021/05/13 - 13:20:50,Hanover,Kramerstraße,70.0,Pets not allowed,1859,1500,52.37169,9.73345
+1683645,2021/05/13 - 13:20:53,Hanover,Charlottenstraße,35.0,Pets not allowed,1649,0,52.3591,9.71847
+1689300,2021/05/13 - 13:20:55,Hanover,Kramerstraße,90.0,Pets not allowed,1983,1500,52.37169,9.73345
+1689287,2021/05/13 - 13:20:57,Hanover,Kreuzkirchhof,130.0,Pets not allowed,3098,2500,52.3732,9.7323
+1689276,2021/05/13 - 13:21:01,Hanover,Knochenhauerstraße,100.0,Pets not allowed,3098,2000,52.37273,9.73362
+1665871,2021/05/13 - 13:21:06,Hanover,Dörnbergstraße,64.0,Pets not allowed,1300,1200,52.38911,9.73752
+1683644,2021/05/13 - 13:21:08,Hanover,Witzendorffstraße,40.0,Pets not allowed,1389,1200,52.39843,9.73899
+1688900,2021/05/13 - 13:21:11,Hanover,Ballhofstraße,40.0,Pets not allowed,1485,1200,52.37268,9.7327
+1665872,2021/05/13 - 13:21:13,Hanover,Lange Laube,45.0,Pets not allowed,1479,1200,52.3759,9.73126
+1665873,2021/05/13 - 13:21:15,Hanover,Lange Laube,45.0,Pets not allowed,1300,1200,52.3759,9.73126
+1689278,2021/05/13 - 13:21:17,Hanover,Kramerstraße,70.0,Pets not allowed,1859,1500,52.37169,9.73345
+1692054,2021/05/13 - 13:21:20,Hanover,Am See,85.0,Pets negotiable,1900,0,52.34341,9.67477
+1689219,2021/05/13 - 13:21:22,Hanover,Burgstraße,45.0,Pets not allowed,1386,2400,52.37277,9.73161
+1689273,2021/05/13 - 13:21:25,Hanover,Kramerstraße,70.0,Pets not allowed,1859,1500,52.37169,9.73345
+1683645,2021/05/13 - 13:21:27,Hanover,Charlottenstraße,35.0,Pets not allowed,1649,0,52.3591,9.71847
+1689300,2021/05/13 - 13:21:29,Hanover,Kramerstraße,90.0,Pets not allowed,1983,1500,52.37169,9.73345
+1689287,2021/05/13 - 13:21:31,Hanover,Kreuzkirchhof,130.0,Pets not allowed,3098,2500,52.3732,9.7323
+1689276,2021/05/13 - 13:21:35,Hanover,Knochenhauerstraße,100.0,Pets not allowed,3098,2000,52.37273,9.73362
+1713827,2021/05/13 - 13:22:01,Leipzig,Sebastian-Bach-Straße,60.0,Pets negotiable,700,500,51.33548,12.35846
+1643812,2021/05/13 - 13:22:06,Leipzig,Albrechtshainer Straße,20.0,Pets not allowed,699,0,51.32319,12.43873
+1643811,2021/05/13 - 13:22:12,Leipzig,Albrechtshainer Straße,30.0,Pets not allowed,799,0,51.32319,12.43873
+1691608,2021/05/13 - 13:22:15,Leipzig,Bothestraße,39.0,Pets negotiable,720,400,51.36384,12.35397
+1713827,2021/05/13 - 13:22:23,Leipzig,Sebastian-Bach-Straße,60.0,Pets negotiable,700,500,51.33548,12.35846
+1643812,2021/05/13 - 13:22:28,Leipzig,Albrechtshainer Straße,20.0,Pets not allowed,699,0,51.32319,12.43873
+1643811,2021/05/13 - 13:22:34,Leipzig,Albrechtshainer Straße,30.0,Pets not allowed,799,0,51.32319,12.43873
+1691608,2021/05/13 - 13:22:36,Leipzig,Bothestraße,39.0,Pets negotiable,720,400,51.36384,12.35397
