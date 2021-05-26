@@ -1,12 +1,13 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import folium
 import json
-from folium import plugins
-from streamlit_folium import folium_static
-from PIL import Image
+import folium
+import numpy           as np
+import pandas          as pd
+import streamlit       as st
+import plotly.express as px
 
+from PIL              import Image
+from folium           import plugins
+from streamlit_folium import folium_static
 
 st.set_page_config(layout='wide') # turns the app scream "wide" <--->
 @st.cache(allow_output_mutation=True) # will use cache memory - faster.
@@ -15,18 +16,17 @@ def get_data(path):
 
     return data
 
-
 # get data
 path = '../data/df_houses_full_cleanned.csv'
 data = get_data(path)
+path2 = '../data/nearby_venues_full_cleanned.csv'
+data_venues = get_data(path2)
 
-#-------------------
+#==========================================
 # data overview
-#-------------------
+#==========================================
 
 # add a filter
-#f_attributes = st.sidebar.multiselect('Enter columns', data.columns)
-
 image = Image.open('../images/germany_flag3.png')
 st.sidebar.image(image)
 st.sidebar.title('Germany Rental Houses App')
@@ -37,7 +37,7 @@ f_pets = st.sidebar.multiselect('Pets Allowence', data['pets'].unique())
 
 a1, a2, a3 = st.beta_columns((2.6, 6, 0.1))
 b1, b2, b3 = st.beta_columns((2.9, 6, 0.1))
-#a2.markdown("<h1 style='text-align: center; color: red;'>German Rent Houses</h1>", unsafe_allow_html=True)
+
 image2 = Image.open('../images/german_house.jpg')
 
 b2.image(image2)
@@ -46,7 +46,6 @@ st.title('Data Overview')
 
 df1 = data.groupby('city')['size', 'montly_rent', 'deposit_value', 'm2_value'].mean().round(2).reset_index()
 df1.columns = ['CITY', 'AVG SIZE', 'AVG RENT PRICE (€)', 'AVG DEPOSIT VALUE (€)', 'AVG M2 PRICE (€)']
-
 
 # add a "filter description"
 if (f_city != []) & (f_pets != []):
@@ -58,8 +57,6 @@ elif (f_city == []) & (f_pets != []):
 else:
     data = data
 
-
-#c1, c2 = st.beta_columns((1, 1)) # inputs like columns
 # statistic descritive
 num_att = data[['size', 'montly_rent', 'deposit_value', 'm2_value']]
 mean = pd.DataFrame(num_att.apply(np.mean))
@@ -71,24 +68,40 @@ min_ = pd.DataFrame(num_att.apply(np.min))
 df = pd.concat([max_, min_, mean, median, std], axis = 1).reset_index()
 df.columns = ['attributes', 'max_', 'min_', 'mean', 'median', 'std']
 
-
 # st.dataframe(df1)
-st.header('Dataset')
+st.markdown('## :large_blue_diamond: **Full Selected Dataset**')
 st.dataframe(data) # display infos in the webbrowsest
-st.header('Descriptive Caracteristics')
+st.markdown('## :clipboard: **Descriptive Caracteristics**')
 st.dataframe(df)
 
-#-------------------
-# maps
-#-------------------
+#=================================================
+# GRAPHS
+#=================================================
+st.markdown('## :bar_chart: **Rent Prices Distribution (€)**')
 
-st.markdown('## :earth_americas: Rental Houses Map')
+st.markdown(f'**Number of Houses: {data.shape[0]}**')
+st.markdown(f'**Average Size: {data["size"].mean():.2f}m²**')
+st.markdown(f'**Average Rent Price: {data["montly_rent"].mean():.2f}€**')
+
+ax = px.box(data,
+            x='city',
+            y='montly_rent',
+            points='all',
+            labels={
+                'city': 'City',
+                'montly_rent': 'Rent Amount (€)'
+            })
+st.plotly_chart(ax, use_container_width=True)
+#========================================
+# maps
+#========================================
+
+st.markdown('## :earth_americas: **Rental Houses Map**')
 c1, c2 = st.beta_columns((1, 1))
 
-#c1.header('Map - 01')
 df = data.sample(10)
 
-# base map
+# 1st map - houses for rent
 lat = 51.1642292
 long = 10.4541194
 
@@ -112,6 +125,4 @@ for lat, lng, i in zip(data['lat'],
 folium.GeoJson(geo_json_data, style_function=lambda feature: {'color': 'darkred', 'weight': 0.5, }).add_to(map_b)
 
 folium_static(map_b, width=1200, height=550)
-
-
 
