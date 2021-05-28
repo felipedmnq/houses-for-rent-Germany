@@ -1,8 +1,8 @@
 import json
 import folium
-import numpy           as np
-import pandas          as pd
-import streamlit       as st
+import numpy          as np
+import pandas         as pd
+import streamlit      as st
 import plotly.express as px
 
 from PIL              import Image
@@ -19,11 +19,9 @@ def get_data(path):
 # get data
 path = '../data/df_houses_full_cleanned.csv'
 data = get_data(path)
-path2 = '../data/nearby_venues_full_cleanned.csv'
-data_venues = get_data(path2)
 
 #==========================================
-# data overview
+# sidebar
 #==========================================
 
 # add a filter
@@ -32,20 +30,38 @@ st.sidebar.image(image)
 st.sidebar.title('Germany Rental Houses App')
 st.sidebar.markdown('#### By **Felipe Demenech Vasconcelos** :sunglasses:')
 st.sidebar.header('Filters')
+
+# city filters
 f_city = st.sidebar.multiselect('Select City', data['city'].unique())
+# pets filter
 f_pets = st.sidebar.multiselect('Pets Allowence', data['pets'].unique())
+# rent price filter
+min_ = int(500)
+max_ = int(data['montly_rent'].max())
+mean_ = int(data['montly_rent'].mean())
+f_rent = st.sidebar.slider('Max Rent Price (€)', min_, max_, mean_)
+
+# display data
+data = data.loc[data['montly_rent'] <= f_rent]
 
 a1, a2, a3 = st.beta_columns((2.6, 6, 0.1))
 b1, b2, b3 = st.beta_columns((2.9, 6, 0.1))
+
+# dataframe download button
+st.sidebar.subheader('Save Dataframe as CSV')
+st.sidebar.button('Download')
+
+#data.to_csv('')
+
+#======================================
+# app page
+#======================================
 
 image2 = Image.open('../images/german_house.jpg')
 
 b2.image(image2)
 a2.markdown('# **_Rental Houses in Germany_**')
 st.title('Data Overview')
-
-df1 = data.groupby('city')['size', 'montly_rent', 'deposit_value', 'm2_value'].mean().round(2).reset_index()
-df1.columns = ['CITY', 'AVG SIZE', 'AVG RENT PRICE (€)', 'AVG DEPOSIT VALUE (€)', 'AVG M2 PRICE (€)']
 
 # add a "filter description"
 if (f_city != []) & (f_pets != []):
@@ -125,4 +141,5 @@ for lat, lng, i in zip(data['lat'],
 folium.GeoJson(geo_json_data, style_function=lambda feature: {'color': 'darkred', 'weight': 0.5, }).add_to(map_b)
 
 folium_static(map_b, width=1200, height=550)
+
 
