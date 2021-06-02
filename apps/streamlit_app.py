@@ -8,6 +8,7 @@ import plotly.express as px
 from PIL              import Image
 from folium           import plugins
 from streamlit_folium import folium_static
+from pdf_generator2 import *
 
 st.set_page_config(layout='wide') # turns the app scream "wide" <--->
 @st.cache(allow_output_mutation=True) # will use cache memory - faster.
@@ -15,6 +16,12 @@ def get_data(path):
     data = pd.read_csv(path)
 
     return data
+
+
+def hist_plot(data, column, title=''):
+    hist = px.histogram(data[column], title=title)
+    hist.figure.savefig(f'../images/{column}.png')
+    return hist
 
 # get data
 path = '../data/df_houses_full_cleanned.csv'
@@ -39,17 +46,19 @@ f_pets = st.sidebar.multiselect('Pets Allowence', data['pets'].unique())
 min_ = int(500)
 max_ = int(data['montly_rent'].max())
 mean_ = int(data['montly_rent'].mean())
-f_rent = st.sidebar.slider('Max Rent Price (€)', min_, max_, mean_)
+f_rent = st.sidebar.slider('Rent Price Range (€)', min_, max_, (2000, 5000))
 
 # display data
-data = data.loc[data['montly_rent'] <= f_rent]
+data = data.loc[(data['montly_rent'] >= f_rent[0]) & (data['montly_rent'] <= f_rent[1])]
 
 a1, a2, a3 = st.beta_columns((2.6, 6, 0.1))
 b1, b2, b3 = st.beta_columns((2.9, 6, 0.1))
 
 # dataframe download button
-st.sidebar.subheader('Save Dataframe as CSV')
-st.sidebar.button('Download')
+st.sidebar.subheader('Report Download')
+download = st.sidebar.button('Download')
+if download:
+    pdf_creator(data)
 
 #data.to_csv('')
 
@@ -82,18 +91,34 @@ max_ = pd.DataFrame(num_att.apply(np.max))
 min_ = pd.DataFrame(num_att.apply(np.min))
 
 df = pd.concat([max_, min_, mean, median, std], axis = 1).reset_index()
-df.columns = ['attributes', 'max_', 'min_', 'mean', 'median', 'std']
+df.columns = ['ATTRIBUTES', 'MAX', 'MIN', 'MEAN', 'MEDIAN', 'STD']
+df.set_index('ATTRIBUTES', inplace=True)
 
 # st.dataframe(df1)
 st.markdown('## :large_blue_diamond: **Full Selected Dataset**')
-st.dataframe(data) # display infos in the webbrowsest
-st.markdown('## :clipboard: **Descriptive Caracteristics**')
-st.dataframe(df)
+data_button = st.checkbox('Display Dataset')
+if data_button:
+    st.dataframe(data) # display infos in the webbrowsest
+st.markdown('## :bar_chart: **Descriptive Caracteristics**')
+st.dataframe(df.T)
+
+#=================================================
+# HISTOGRAMS
+#=================================================
+hist_button = st.checkbox('Display Histograms')
+e1, e2 = st.beta_columns((1, 1))
+e3, e4 = st.beta_columns((1, 1))
+
+if hist_button:
+    e1.plotly_chart(hist_plot(data, 'montly_rent', 'MONTLY RENT (€)'), use_container_width=True)
+    e2.plotly_chart(hist_plot(data, 'size', 'SIZE (M²)'), use_container_width=True)
+    e3.plotly_chart(hist_plot(data, 'deposit_value', 'DEPOSIT VALUE (€)'), use_container_width=True)
+    e4.plotly_chart(hist_plot(data, 'pets', 'PETS'), use_container_width=True)
 
 #=================================================
 # GRAPHS
 #=================================================
-st.markdown('## :bar_chart: **Rent Prices Distribution (€)**')
+st.markdown('## :clipboard: **Rent Prices Distribution (€)**')
 
 st.markdown(f'**Number of Houses: {data.shape[0]}**')
 st.markdown(f'**Average Size: {data["size"].mean():.2f}m²**')
@@ -108,6 +133,7 @@ ax = px.box(data,
                 'montly_rent': 'Rent Amount (€)'
             })
 st.plotly_chart(ax, use_container_width=True)
+
 #========================================
 # maps
 #========================================
