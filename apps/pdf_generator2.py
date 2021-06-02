@@ -1,5 +1,5 @@
-from fpdf import FPDF, HTMLMixin
-import pandas as pd
+from fpdf import FPDF
+from datetime import date
 import matplotlib.pyplot as plt
 
 
@@ -56,7 +56,7 @@ def pet_plot(data):
 
 def pdf_creator(data):
     width = 210
-    height = 297
+    today = date.today()
 
     pdf = FPDF()
     pdf.add_page()
@@ -65,6 +65,7 @@ def pdf_creator(data):
     # header display
     pdf.image('../images/germany_flag1.png')
     pdf.image('../images/header_pdf.png', 70, 10)
+    #pdf.cell(f'Date: {today}')
 
     # descriptive text
     pdf.set_font('Arial', 'BU', 18)
@@ -139,7 +140,9 @@ def pdf_creator(data):
     pet_plot(data)
     pdf.image('../images/pet_plot.png', x=25, h=55)
 
+    pdf.set_author('Felipe Demenech Vasconcelos')
     pdf.close()
     pdf.output('../reports/rent_houses_germany.pdf', 'F')
 
+    return pdf.output(dest='S')
 

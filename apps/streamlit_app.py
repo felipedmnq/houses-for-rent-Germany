@@ -1,4 +1,6 @@
 import json
+import time
+import base64
 import folium
 import numpy          as np
 import pandas         as pd
@@ -10,12 +12,31 @@ from folium           import plugins
 from streamlit_folium import folium_static
 from pdf_generator2 import *
 
+today = time.strftime('%d%m%Y-%H%M%S')
+
 st.set_page_config(layout='wide') # turns the app scream "wide" <--->
 @st.cache(allow_output_mutation=True) # will use cache memory - faster.
 def get_data(path):
     data = pd.read_csv(path)
 
     return data
+
+
+def csv_download_link(data):
+    csv = data.to_csv(index=False)
+    file_name = f'german_rent_houses_{time}.csv'
+    b64 = base64.b64encode(csv.encode()).decode()
+    href = f'<a href="data:file/csv;base64,{b64}" download="{file_name}">Download CSV file</a>'
+    st.sidebar.markdown(href, unsafe_allow_html=True)
+
+
+def pdf_download_link(pdf):
+    #file = pdf_creator(data)
+    #pdf_creator(data)
+    file_name = f'german_rent_houses_{today}.pdf'
+    b64 = base64.b64encode(pdf)
+    return f'<a href="data:application/octet-stream;base64,{b64.decode()}" download="{file_name}">Download PDF file</a>'
+
 
 
 def hist_plot(data, column, title=''):
@@ -36,7 +57,7 @@ image = Image.open('../images/germany_flag3.png')
 st.sidebar.image(image)
 st.sidebar.title('Germany Rental Houses App')
 st.sidebar.markdown('#### By **Felipe Demenech Vasconcelos** :sunglasses:')
-st.sidebar.header('Filters')
+st.sidebar.markdown('### :mag: Filters')
 
 # city filters
 f_city = st.sidebar.multiselect('Select City', data['city'].unique())
@@ -54,13 +75,21 @@ data = data.loc[(data['montly_rent'] >= f_rent[0]) & (data['montly_rent'] <= f_r
 a1, a2, a3 = st.beta_columns((2.6, 6, 0.1))
 b1, b2, b3 = st.beta_columns((2.9, 6, 0.1))
 
-# dataframe download button
-st.sidebar.subheader('Report Download')
-download = st.sidebar.button('Download')
-if download:
-    pdf_creator(data)
+# csv file download
+st.sidebar.markdown('### :floppy_disk: CSV file Download')
+download_csv = st.sidebar.button('Export to CSV')
+if download_csv:
+    csv_download_link((data))
 
-#data.to_csv('')
+# pdf report download button
+st.sidebar.markdown('### :floppy_disk: PDF Report Download')
+download = st.sidebar.button('Export to PDF')
+if download:
+    html = pdf_download_link(pdf_creator(data).encode("latin-1"))
+    st.sidebar.markdown(html, unsafe_allow_html=True)
+
+# send to email
+st.sidebar.markdown('### :e-mail: Send Files')
 
 #======================================
 # app page
