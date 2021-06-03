@@ -215,10 +215,3 @@ if __name__ == "__main__":
     box_plot_display(data)
     # maps
     map_display(data)
-
-
-
-
-
-
-

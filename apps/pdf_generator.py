@@ -145,4 +145,3 @@ def pdf_creator(data):
     pdf.output('../reports/rent_houses_germany.pdf', 'F')
 
     return pdf.output(dest='S')
-
