@@ -5,6 +5,9 @@ Germany geojson source: https://github.com/isellsoap/deutschlandGeoJSON
 
 ## The Problem:
 
-- In a few months I'll move to Germany, so, I need to rent a house to live in. With this problem, I decided to scrape a german rent houses web site in order to collect infos about prices, conditions, if pets are allowed (I'll take a huge dog and a little cat with me, my pets) an so on.
+- In a few months I'll move to Germany, so, I need to rent a house to live in. 
+I need to know how does work rent in Germany, how much I'll spend in average with rent itself, how does work with pets (I've a huge dog - Odin - and a little cat that I'll take with me), are pets allowed? Which size, location, and so on.
 
 website: https://housinganywhere.com/
+
+## The Solution:
