@@ -55,6 +55,7 @@ def pet_plot(data):
 
 
 def pdf_creator(data):
+    '''receive some data and create a pdf report with a summary of information'''
     width = 210
     today = date.today()
 

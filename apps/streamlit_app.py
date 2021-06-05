@@ -18,17 +18,20 @@ st.set_page_config(layout='wide')
 
 @st.cache(allow_output_mutation=True)
 def get_data(path):
+    '''load data'''
     data = pd.read_csv(path)
     return data
 
 
 @st.cache(allow_output_mutation=True)
 def get_geofile(geo_url):
+    '''load geodata'''
     geo_json_data = json.load(open(geo_url))
     return geo_json_data
 
 
 def csv_download_link(data):
+    '''create a link to download a filtered csv file'''
     csv = data.to_csv(index=False)
     file_name = f'german_rent_houses_{time}.csv'
     b64 = base64.b64encode(csv.encode()).decode()
@@ -37,20 +40,21 @@ def csv_download_link(data):
 
 
 def pdf_download_link(pdf):
-    #file = pdf_creator(data)
-    #pdf_creator(data)
+    '''create a link to download a pdf file'''
     file_name = f'german_rent_houses_{today}.pdf'
     b64 = base64.b64encode(pdf)
     return f'<a href="data:application/octet-stream;base64,{b64.decode()}" download="{file_name}">Download PDF file</a>'
 
 
 def hist_plot(data, column, title=''):
+    '''plot the histogramns'''
     hist = px.histogram(data[column], title=title)
     hist.figure.savefig(f'../images/{column}.png')
     return hist
 
 
 def data_overview(data):
+    '''create the app layout'''
     # ==========================================
     # sidebar
     # ==========================================
@@ -137,6 +141,7 @@ def data_overview(data):
 
 
 def histogram_plot(data):
+    '''diplay the histograms when called'''
     hist_button = st.checkbox('Display Histograms')
     e1, e2 = st.beta_columns((1, 1))
     e3, e4 = st.beta_columns((1, 1))
@@ -151,8 +156,8 @@ def histogram_plot(data):
 
 
 def sumary_display(data):
+    '''display a summary of infos from the filtered dataset'''
     st.markdown('## :clipboard: **Rent Prices Distribution (€)**')
-
     st.markdown(f'**Number of Houses: {data.shape[0]}**')
     st.markdown(f'**Average Size: {data["size"].mean():.2f}m²**')
     st.markdown(f'**Average Rent Price: {data["montly_rent"].mean():.2f}€**')
@@ -160,6 +165,7 @@ def sumary_display(data):
     return None
 
 def box_plot_display(data):
+    '''plot the boxplot of the data distribution'''
     ax = px.box(data,
                 x='city',
                 y='montly_rent',
@@ -174,6 +180,7 @@ def box_plot_display(data):
 
 
 def map_display(data):
+    '''create and fill the maps with the filtered dataset infos.'''
     st.markdown('## :earth_americas: **Rental Houses Map**')
     c1, c2 = st.beta_columns((1, 1))
 
