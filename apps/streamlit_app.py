@@ -58,8 +58,12 @@ def data_overview(data):
     image = Image.open('../images/germany_flag3.png')
     st.sidebar.image(image)
     st.sidebar.title('Germany Rental Houses App')
-    st.sidebar.markdown('#### By **Felipe Demenech Vasconcelos** :sunglasses:')
+    st.sidebar.markdown('**By:** [Felipe Demenech Vasconcelos](https://www.linkedin.com/in/felipe-demenech/)')
+    link = '[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label)]' \
+           '(https://github.com/felipedmnq/houses-for-rent-Germany)'
+    st.sidebar.write(link, unsafe_allow_html=True)
     st.sidebar.markdown('### :mag: Filters')
+
 
     # city filters
     f_city = st.sidebar.multiselect('Select City', data['city'].unique())
