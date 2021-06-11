@@ -49,7 +49,7 @@ def pdf_download_link(pdf):
 def hist_plot(data, column, title=''):
     '''plot the histogramns'''
     hist = px.histogram(data[column], title=title)
-    hist.figure.savefig(f'../images/{column}.png')
+    #hist.figure.savefig(f'images/{column}.png')
     return hist
 
 
@@ -59,7 +59,7 @@ def data_overview(data):
     # sidebar
     # ==========================================
     # add a filter
-    image = Image.open('../images/germany_flag3.png')
+    image = Image.open('images/germany_flag3.png')
     st.sidebar.image(image)
     st.sidebar.title('Germany Rental Houses App')
     st.sidebar.markdown('**By:** [Felipe Demenech Vasconcelos](https://www.linkedin.com/in/felipe-demenech/)')
@@ -101,7 +101,7 @@ def data_overview(data):
     # ======================================
     # app page
     # ======================================
-    image2 = Image.open('../images/german_house.jpg')
+    image2 = Image.open('images/german_house.jpg')
 
     b2.image(image2)
     a2.markdown('# **_Rental Houses in Germany_**')
@@ -211,10 +211,10 @@ def map_display(data):
 
 if __name__ == "__main__":
     # get data
-    path = '../data/df_houses_full_cleanned.csv'
+    path = 'data/df_houses_full_cleanned.csv'
     data = get_data(path)
     # get geofile
-    geo_url = '../data/germany_cities.geo.json'
+    geo_url = 'data/germany_cities.geo.json'
     geo_json_data = get_geofile(geo_url)
     # data overview
     data_overview(data)
