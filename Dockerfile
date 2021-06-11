@@ -1,5 +1,5 @@
 FROM python:3.8
-EXPOSE 8501
+EXPOSE 8502
 WORKDIR /apps
 COPY requirements.txt ./requirements.txt
 RUN pip install -r requirements.txt
