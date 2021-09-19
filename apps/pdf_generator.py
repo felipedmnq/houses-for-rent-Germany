@@ -7,7 +7,7 @@ def hist_plot(data, column, title=''):
     plt.figure(figsize=(8, 6))
     hist = plt.hist(data[column], bins=30, color='red')
     plt.title(title, fontsize=18)
-    plt.savefig(f'../images/{column}.png')
+    plt.savefig(f'images/{column}.png')
     return hist
 
 
@@ -24,7 +24,7 @@ def montly_plot(data):
               'Hanover', 'Leipzig']
     if len(data['city'].unique()) == 11:
         ax.set_xticklabels(labels=labels)
-    plt.savefig(f'../images/montly_rent_barplot.png', dpi=100)
+    plt.savefig(f'images/montly_rent_barplot.png', dpi=100)
 
 
 def m2_plot(data):
@@ -40,7 +40,7 @@ def m2_plot(data):
               'Hanover', 'Leipzig']
     if len(data['city'].unique()) == 11:
         ax.set_xticklabels(labels=labels)
-    plt.savefig(f'../images/m2_barplot.png', dpi=100)
+    plt.savefig(f'images/m2_barplot.png', dpi=100)
 
 
 def pet_plot(data):
@@ -50,7 +50,7 @@ def pet_plot(data):
                                      rot=0)
     plt.title('PETS', fontsize=10)
     plt.xticks(fontsize=5)
-    plt.savefig(f'../images/pet_plot.png', dpi=100)
+    plt.savefig(f'images/pet_plot.png', dpi=100)
     return None
 
 
@@ -64,8 +64,8 @@ def pdf_creator(data):
     pdf.set_font('Arial', 'B', 16)
 
     # header display
-    pdf.image('../images/germany_flag1.png')
-    pdf.image('../images/header_pdf.png', 70, 10)
+    pdf.image('images/germany_flag1.png')
+    pdf.image('images/header_pdf.png', 70, 10)
     #pdf.cell(f'Date: {today}')
 
     # descriptive text
@@ -103,25 +103,25 @@ def pdf_creator(data):
 
     # first histplot
     hist_plot(data, 'montly_rent', 'MONTLY RENT')
-    pdf.image('../images/montly_rent.png', 4, 126, width/2)
+    pdf.image('images/montly_rent.png', 4, 126, width/2)
 
     # second histplot
     hist_plot(data, 'size', 'SIZE')
-    pdf.image('../images/size.png', width/2, 126, width/2)
+    pdf.image('images/size.png', width/2, 126, width/2)
 
     # third histplot
     hist_plot(data, 'm2_value', 'M² VALUE')
-    pdf.image('../images/m2_value.png', 4, 200, width/2)
+    pdf.image('images/m2_value.png', 4, 200, width/2)
 
     # fourth histplot
     hist_plot(data, 'pets', 'PETS')
-    pdf.image('../images/pets.png', width/2, 200, width/2)
+    pdf.image('images/pets.png', width/2, 200, width/2)
 
     # second page
     pdf.add_page()
     # header display
-    pdf.image('../images/germany_flag1.png')
-    pdf.image('../images/header_pdf.png', 70, 10)
+    pdf.image('images/germany_flag1.png')
+    pdf.image('images/header_pdf.png', 70, 10)
 
     #====================
     # graphs
@@ -131,18 +131,18 @@ def pdf_creator(data):
 
     pdf.ln(20)
     montly_plot(data)
-    pdf.image('../images/montly_rent_barplot.png', x=0, h=70)
+    pdf.image('images/montly_rent_barplot.png', x=0, h=70)
 
     pdf.ln(5)
     m2_plot(data)
-    pdf.image('../images/m2_barplot.png', x=0, h=70)
+    pdf.image('images/m2_barplot.png', x=0, h=70)
 
     pdf.ln(2)
     pet_plot(data)
-    pdf.image('../images/pet_plot.png', x=25, h=55)
+    pdf.image('images/pet_plot.png', x=25, h=55)
 
     pdf.set_author('Felipe Demenech Vasconcelos')
     pdf.close()
-    pdf.output('../reports/rent_houses_germany.pdf', 'F')
+    pdf.output('reports/rent_houses_germany.pdf', 'F')
 
     return pdf.output(dest='S')
