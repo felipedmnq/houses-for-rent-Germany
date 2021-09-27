@@ -2,7 +2,7 @@
   <img width="260" height="350" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_map_of_Germany.svg/300px-Flag_map_of_Germany.svg.png">
 </p>
 <h1 align="center">Houses for Rent in Germany</h1>
-<h3 align="center">https://rent-houses-germany.herokuapp.com/</h3>
+<h3 align="center">https://share.streamlit.io/felipedmnq/houses-for-rent-germany/apps/streamlit_app.py</h3>
 
    - This project aims to use web scraping to collect rental houses and apartments in major German cities for use in further analysis and studies.
  
@@ -67,8 +67,8 @@
             <img height="64px" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/240e7de884ccbd0d1f70bf097b4aa7e84bd01b2d/68747470733a2f2f7079667064662e6769746875622e696f2f66706466322f66706466322d6c6f676f2e706e67">
           </td>
           <td width="25%" align="center">
-            <span>Heroku</span><br><br>
-            <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+            <span>StreamlitShare</span><br><br>
+            <img height="64px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png">
           </td>
           <td width="25%" align="center">
             <span>Streamlit</span><br><br>
@@ -159,9 +159,9 @@
     
    ## Heroku Deploy
     
-   - To show my work to everyone who is interested, I've deployed the streamlit app into Heroku, and now is just click the link below and use the app as you're pleased.
+   - To show my work to everyone who is interested, I've deployed the streamlit app into StreamlitShare, and now its just click the link below and use the app as you're pleased.
     
-   [Rent Houses in Germany App](https://rent-houses-germany.herokuapp.com/)
+   [Rent Houses in Germany App](https://share.streamlit.io/felipedmnq/houses-for-rent-germany/apps/streamlit_app.py)
     
    ## Conclusion
    - This was my first "end-to-end" project and was really fun to do it.  Data Science is for me a hobby for now, I only have a few free hours a day to dedicate to my projects so it was challenging. I had several issues that I struggle hard to figure out, sometimes when I managed to solve a problem, it was very nice, the feeling was wonderful, then another problem came up, and so on, the project was progressing.
